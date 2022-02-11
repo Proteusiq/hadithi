@@ -60,7 +60,7 @@ class ModelLoader:
         # Check if GPU is available
         device = "cuda" if torch.cuda.is_available() else "cpu"
         logger.info(f"[+] Model loaded in {device} complete")
-        model = self.model_loader.from_pretrained(f"{self.save_path}").to(device)
+        model = self.model_loader.from_pretrained(f"{self.save_path}") #.to(device)
 
         logger.debug("[+] Loading completed")
         return tokenizer, model
