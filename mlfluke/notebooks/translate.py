@@ -1,8 +1,9 @@
 from transformers import M2M100ForConditionalGeneration, M2M100Tokenizer
-
 from utils.lazylogger import logger
 from utils.mlloader import ModelLoader
 
+
+# load tokenizer and model at import from another file
 tokenizer, model = ModelLoader("facebook/m2m100_418M","models", M2M100Tokenizer, M2M100ForConditionalGeneration).retrieve()
 
 def translator(*, text: str, src_lang: str="da", target_lang: str="en") -> str:
@@ -15,6 +16,7 @@ def translator(*, text: str, src_lang: str="da", target_lang: str="en") -> str:
 
 if __name__ == '__main__':  
     
+    # if called as a script echo Janteloven
     text = "Janteloven er en række love der bygger på ideen om, at alle er lige i det danske samfund, og at man derfor ikke skal tro at man er bedre end andre mennesker"
     print(f"Original: {text}")
     translated_text = translator(text=text, src_lang="da", target_lang="en")
