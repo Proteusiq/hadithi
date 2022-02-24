@@ -2,3 +2,13 @@
 > Navigating Python Packages that solves Timeseries 
 
 ### Coming soon ...
+
+# Featuring:
+   Scikit-Learn: Vinalla
+   Sktime
+   Skforecast
+   Darts
+   Merlion
+   Kats
+   Prophets
+   ...
