@@ -28,3 +28,24 @@
    * [tsflex](https://github.com/predict-idlab/tsflex)
    * [tsfresh](https://github.com/blue-yonder/tsfresh)
    * ...
+
+## Example of Stock Data
+
+```python
+import pandas as pd
+import requests
+import io
+
+url = 'https://query1.finance.yahoo.com/v7/finance/download/GOOG'
+params ={'period1':1538761929,
+         'period2':1541443929,
+         'interval':'1d',
+         'events':'history',
+         'crumb':'v4z6ZpmoP98',
+        }
+
+r = requests.post(url,data=params)
+if r.ok:
+    data = r.content.decode('utf8')
+    df = pd.read_csv(io.StringIO(data))
+```
