@@ -27,7 +27,7 @@
    * [tsai](https://github.com/timeseriesAI/tsai)
    * [tsflex](https://github.com/predict-idlab/tsflex)
    * [tsfresh](https://github.com/blue-yonder/tsfresh)
-   * [pycaret] ...
+   * [pycaret](https://pycaret.readthedocs.io/en/time_series/api/time_series.html)
 
 ## Example of Stock Data
 
