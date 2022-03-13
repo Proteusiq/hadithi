@@ -13,4 +13,8 @@ MLRun
 Metaflow
 ZenML
 Couler (Argo | Tekton | Airflow)
-[Seldon](https://github.com/SeldonIO/seldon-core)
+[Seldon](https://github.com/SeldonIO/seldon-core) - Seldon is all ML too
+[Meltano]()https://github.com/meltano/meltano - DataOps
+
+
+Deephaven
