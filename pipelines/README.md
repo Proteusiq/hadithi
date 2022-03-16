@@ -24,5 +24,6 @@ Deephaven
 
 Extras
 
+[feast](https://github.com/feast-dev/feast) - feature storage
 [monosi](https://github.com/monosidev/monosi) - Data Observer 
 
