@@ -9,7 +9,7 @@
 * [Luigi](https://github.com/spotify/luigi)
 * [Kedro](https://github.com/kedro-org/kedro)
 * MLRun
-* Metaflow
+* [Metaflow](https://github.com/Netflix/metaflow)
 * ZenML
 * MLFlow 
 * [ploomber](https://github.com/ploomber/ploomber)
