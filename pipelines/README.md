@@ -8,10 +8,11 @@
 * [Airflow](https://github.com/apache/airflow)
 * [Luigi](https://github.com/spotify/luigi)
 * [Kedro](https://github.com/kedro-org/kedro)
-* Kale
 * MLRun
 * Metaflow
 * ZenML
+* MLFlow 
+* 
 * Couler (Argo | Tekton | Airflow)
 * [Seldon](https://github.com/SeldonIO/seldon-core) - Seldon is all ML too
 * [Meltano](https://github.com/meltano/meltano) - DataOps
