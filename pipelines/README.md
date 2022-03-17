@@ -10,7 +10,7 @@
 * [Kedro](https://github.com/kedro-org/kedro)
 * MLRun
 * [Metaflow](https://github.com/Netflix/metaflow)
-* ZenML
+* [ZenML](https://github.com/zenml-io/zenml)
 * [ClearML](https://github.com/allegroai/clearml) - Beautiful UI
 * MLFlow 
 * [ploomber](https://github.com/ploomber/ploomber)
