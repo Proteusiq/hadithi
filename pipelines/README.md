@@ -12,7 +12,7 @@
 * [Metaflow](https://github.com/Netflix/metaflow)
 * [ZenML](https://github.com/zenml-io/zenml)
 * [ClearML](https://github.com/allegroai/clearml) - Beautiful UI
-* MLFlow 
+* [MLFlow](https://github.com/mlflow/mlflow)
 * [ploomber](https://github.com/ploomber/ploomber)
 * [orchest](https://github.com/orchest/orchest)
 * [Couler](https://github.com/couler-proj/couler) - One ring to unite them (Argo | Tekton | Airflow)
