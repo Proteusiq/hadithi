@@ -8,7 +8,7 @@
 * [Airflow](https://github.com/apache/airflow)
 * [Luigi](https://github.com/spotify/luigi)
 * [Kedro](https://github.com/kedro-org/kedro)
-* MLRun
+* [MLRun](https://github.com/mlrun/mlrun)
 * [Metaflow](https://github.com/Netflix/metaflow)
 * [ZenML](https://github.com/zenml-io/zenml)
 * [ClearML](https://github.com/allegroai/clearml) - Beautiful UI
