@@ -22,7 +22,7 @@
 * [MLFlow](https://github.com/mlflow/mlflow)
 * [Seldon](https://github.com/SeldonIO/seldon-core) - Seldon is all ML too
 * [bodywork](https://bodywork.readthedocs.io/en/latest/#what-problems-does-bodywork-solve)
-
+* [BentoML](https://github.com/bentoml/BentoML)
 Deephaven
 
 Extras
