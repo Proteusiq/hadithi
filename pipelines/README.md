@@ -19,6 +19,7 @@
 * [Seldon](https://github.com/SeldonIO/seldon-core) - Seldon is all ML too
 * [Meltano](https://github.com/meltano/meltano) - DataOps
 
+* [bodywork](https://bodywork.readthedocs.io/en/latest/#what-problems-does-bodywork-solve)
 
 Deephaven
 
