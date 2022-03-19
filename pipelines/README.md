@@ -4,7 +4,7 @@
 ### Featuring
 * [Flyte](https://github.com/flyteorg/flyte)
 * [Prefect](https://github.com/PrefectHQ/prefect)
-* [Dagster](https://github.com/dagster-io/dagster) - Beautiful UI and cli that enforces good design 
+* [Dagster](https://github.com/dagster-io/dagster) - 👑 Beautiful UI and cli that enforces good design 
 * [Airflow](https://github.com/apache/airflow)
 * [Luigi](https://github.com/spotify/luigi)
 * [Kedro](https://github.com/kedro-org/kedro)
