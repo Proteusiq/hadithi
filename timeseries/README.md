@@ -28,6 +28,7 @@
    * [tsflex](https://github.com/predict-idlab/tsflex)
    * [tsfresh](https://github.com/blue-yonder/tsfresh)
    * [pycaret](https://pycaret.readthedocs.io/en/time_series/api/time_series.html)
+   * [neuralforecast](https://github.com/Nixtla/neuralforecast)
 
 ## Example of Stock Data
 
