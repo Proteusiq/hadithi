@@ -27,8 +27,8 @@ Deephaven
 
 Extras
 
-[feast](https://github.com/feast-dev/feast) - feature storage
-[monosi](https://github.com/monosidev/monosi) - Data Observer 
-[nni](https://github.com/microsoft/nni) - NNI (Neural Network Intelligence) - automate Feature Engineering, Neural Architecture Search, Hyperparameter Tuning and Model Compression.
+* [feast](https://github.com/feast-dev/feast) - feature storage
+* [monosi](https://github.com/monosidev/monosi) - Data Observer 
+* [nni](https://github.com/microsoft/nni) - NNI (Neural Network Intelligence) - automate Feature Engineering, Neural Architecture Search, Hyperparameter Tuning and Model Compression.
 
 [pypyr](https://github.com/pypyr/pypyr/)
