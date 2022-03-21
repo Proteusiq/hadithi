@@ -32,6 +32,7 @@ Deephaven
 * [nni](https://github.com/microsoft/nni) - NNI (Neural Network Intelligence) - automate Feature Engineering, Neural Architecture Search, Hyperparameter Tuning and Model Compression.
 
 ## DV
-* [dolt](https://github.com/dolthub/dolt)
+* [Git Large Files](https://git-lfs.github.com/)
+* [dolt](https://github.com/dolthub/dolt) - Git for Data
 
 [pypyr](https://github.com/pypyr/pypyr/)
