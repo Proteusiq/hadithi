@@ -24,6 +24,7 @@
 * [bodywork](https://bodywork.readthedocs.io/en/latest/#what-problems-does-bodywork-solve)
 * [BentoML](https://github.com/bentoml/BentoML)
 Deephaven
+* [CML](https://github.com/iterative/cml) - CI/CD for ML
 
 ### Extras
 
