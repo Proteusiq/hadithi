@@ -24,11 +24,18 @@
 * [bodywork](https://bodywork.readthedocs.io/en/latest/#what-problems-does-bodywork-solve)
 * [BentoML](https://github.com/bentoml/BentoML)
 Deephaven
+* [CML](https://github.com/iterative/cml) - CI/CD for ML
 
-Extras
+### Extras
 
 * [feast](https://github.com/feast-dev/feast) - feature storage
 * [monosi](https://github.com/monosidev/monosi) - Data Observer 
 * [nni](https://github.com/microsoft/nni) - NNI (Neural Network Intelligence) - automate Feature Engineering, Neural Architecture Search, Hyperparameter Tuning and Model Compression.
 
-[pypyr](https://github.com/pypyr/pypyr/)
+## DV
+* [Git Large Files](https://git-lfs.github.com/)
+* [dolt](https://github.com/dolthub/dolt) - Git for Data
+* [Marquez](https://github.com/MarquezProject/marquez) - Data Lineages 
+* [pypyr](https://github.com/pypyr/pypyr/)
+
+
