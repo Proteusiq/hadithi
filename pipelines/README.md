@@ -39,3 +39,5 @@ Deephaven
 * [pypyr](https://github.com/pypyr/pypyr/)
 * [Pandera](https://pandera.readthedocs.io/en/latest/dataframe_schemas.html) - DataFrame Validator
 
+# Microservices Design
+[katana-skipper](https://github.com/katanaml/katana-skipper)
