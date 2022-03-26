@@ -8,4 +8,9 @@ Understanding our model predictions is an art of both improving and evaluating o
 
 This is a loaded definition. It rises more questions than answers. For example what do we mean by correctness or decision function? Let us say I am aware of that. But let’s assume for now that we care more about practicality and less on semantics. My goal is for you to take what you find useful, and ignore what you find useless or perhaps wrong.
 
-Let’s code. It easier to show than to explain. As said, code is more worthy than a thousand words.
+Let’s code. It easier to show than to explain.
+
+
+Exploring how far ML interpretability goes and where a classical data mining ⛏ {domain experience} comes in.
+
+As said, code is more worthy than a thousand words.
