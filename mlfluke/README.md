@@ -11,6 +11,6 @@ This is a loaded definition. It rises more questions than answers. For example w
 Let’s code. It easier to show than to explain.
 
 
-Exploring how far ML interpretability goes and where a classical data mining ⛏ {domain experience} comes in.
+Exploring how far ML interpretability goes and where classical data mining ⛏ {domain experience} comes in.
 
 As said, code is more worthy than a thousand words.
