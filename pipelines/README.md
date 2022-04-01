@@ -40,7 +40,7 @@ Deephaven
 * [Pandera](https://pandera.readthedocs.io/en/latest/dataframe_schemas.html) - DataFrame Validator
 
 ## Data
-[dbt](https://github.com/dbt-labs/dbt-core)
+[dbt](https://github.com/dbt-labs/dbt-core) - Data Build Tool
 
 # CI/CD
 
