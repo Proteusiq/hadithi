@@ -9,5 +9,5 @@ Understanding machine learning predictions. What you see is not always what you 
 ### [_Sura ya Pili_](https://github.com/Proteusiq/hadithi/tree/main/pipelines)
 Data should always be piped to insure traceability. Testing different Python pipelines
 
-### _Sura ya Tatu_
+### [_Sura ya Tatu_](https://github.com/Proteusiq/hadithi/tree/main/timeseries)
 What about time series analysis? A tour of Python time series analysis packages 📦 
