@@ -6,5 +6,8 @@ _Hadithi_ is a Swahili word for story | stories. These are collections of succes
 ### [_Sura ya Kwanza_](https://github.com/Proteusiq/hadithi/tree/main/mlfluke)
 Understanding machine learning predictions. What you see is not always what you get. 
 
-### _Sura ya Pili_
-Data should always be piped to insure traceability. Testing different Python pipelines 
+### [_Sura ya Pili_](https://github.com/Proteusiq/hadithi/tree/main/pipelines)
+Data should always be piped to insure traceability. Testing different Python pipelines
+
+### _Sura ya Tatu_
+What about time series analysis? A tour of Python time series analysis packages 📦 
