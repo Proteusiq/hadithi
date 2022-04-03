@@ -1,4 +1,4 @@
-# Navigating flukes in ML predictions
+# Navigating flukes in ML predictions 🦊
 
 Are your classification predictions a fluke or are they real? Maybe both? I will argue that they are mostly like both. A good model is that that minimises the number fluke predictions.
 
