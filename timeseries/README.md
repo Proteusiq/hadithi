@@ -1,4 +1,4 @@
-# Hitchhiker's Guide to the TimeSeries Packages in Python
+# Hitchhiker's Guide to the TimeSeries Packages in Python ⏳
 > Navigating Python Timeseries Packages
 
 "For everything there is a season, and a time for every matter under heaven ..." - Ecclesiastes 3:1-8 .Time Series analysis is exciting and challenging. There exist [dozen of Python packages](https://github.com/lmmentel/awesome-time-series) attempting to make TS more exciting and less challening. From a pool of dozen, I select a few to explore and score are based on the quaility of package documentation and dependencies, github activities, and code simplicity.  
