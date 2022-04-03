@@ -1,4 +1,4 @@
-# Hitchhiker's Guide to the Data Pipelines Packages in Python
+# Hitchhiker's Guide to the Data Pipelines Packages in Python 📦
 > Navigating Python DAG | Data | ML Packages
 
 ### Data
