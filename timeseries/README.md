@@ -3,10 +3,6 @@
 
 "For everything there is a season, and a time for every matter under heaven ..." - Ecclesiastes 3:1-8 .Time Series analysis is exciting and challenging. There exist [dozen of Python packages](https://github.com/lmmentel/awesome-time-series) attempting to make TS more exciting and less challening. From a pool of dozen, I select a few to explore and score are based on the quaility of package documentation and dependencies, github activities, and code simplicity.  
 
-### Coming soon ...
-
-
-
 # Featuring:
    * [Pandas-TA](https://github.com/twopirllc/pandas-ta)
    * [Scikit-Learn: Vinalla](https://scikit-learn.org/stable/auto_examples/applications/plot_cyclical_feature_engineering.html#sphx-glr-auto-examples-applications-plot-cyclical-feature-engineering-py)
