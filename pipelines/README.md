@@ -44,6 +44,6 @@ Deephaven
 
 # CI/CD
 
-[dagger](https://github.com/dagger/dagger)
+[dagger](https://github.com/dagger/dagger) - CI/CD pipelines that runs anywhere
 # Microservices Design
-[katana-skipper](https://github.com/katanaml/katana-skipper)
+[katana-skipper](https://github.com/katanaml/katana-skipper) - FastAPI, Celery, ML setup 
