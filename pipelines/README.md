@@ -36,7 +36,7 @@ Deephaven
 * [Git Large Files](https://git-lfs.github.com/)
 * [dolt](https://github.com/dolthub/dolt) - Git for Data
 * [Marquez](https://github.com/MarquezProject/marquez) - Data Lineages 
-* [pypyr](https://github.com/pypyr/pypyr/)
+* [pypyr](https://github.com/pypyr/pypyr/) - automate shell script
 * [Pandera](https://pandera.readthedocs.io/en/latest/dataframe_schemas.html) - DataFrame Validator
 
 ## Data
