@@ -7,8 +7,8 @@
 * [Airflow](https://github.com/apache/airflow) - Doing it well is hard! Powerful, yes. Tested, yes. Three instances 😒 
 * [Luigi](https://github.com/spotify/luigi) - 👴🏾🧓🏾 UI is lagging behind.
 * [ploomber](https://github.com/ploomber/ploomber) - Pipelines from Notebook 🤷🏿‍♂️
-* [Couler](https://github.com/couler-proj/couler) - One ring to unite them (Argo | Tekton | Airflow)
-* [Meltano](https://github.com/meltano/meltano) - DataOps
+* [Couler](https://github.com/couler-proj/couler) - One ring to unite them (Argo | Tekton | Airflow) 💍
+* [Meltano](https://github.com/meltano/meltano) - DataOps 🧇
 
 
 ## ML
