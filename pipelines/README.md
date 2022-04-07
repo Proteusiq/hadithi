@@ -2,7 +2,7 @@
 > Navigating Python DAG | Data | ML Packages
 
 ### Data
-* [Prefect](https://github.com/PrefectHQ/prefect) - Less control on server UI 
+* [Prefect](https://github.com/PrefectHQ/prefect) - 🙈🎮 Less control on server UI 
 * [Dagster](https://github.com/dagster-io/dagster) - 👑 Beautiful UI and cli that enforces good design 
 * [Airflow](https://github.com/apache/airflow) - Doing it well is hard! Powerful, yes. Tested, yes. Three instances 😒 
 * [Luigi](https://github.com/spotify/luigi) - UI is lagging behind 👴👴🏾.
