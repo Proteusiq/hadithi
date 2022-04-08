@@ -1,7 +1,7 @@
 # Hitchhiker's Guide to the Data Pipelines Packages in Python 📦
 > Navigating Python DAG | Data | ML Packages
 
-### Data
+### Data Pipelines
 * [Dagster](https://github.com/dagster-io/dagster) - 👑 Beautiful UI and cli that enforces good design 
 * [Prefect](https://github.com/PrefectHQ/prefect) - 🙈🎮 Less control on server UI 
 * [Airflow](https://github.com/apache/airflow) - Doing it well is hard! Powerful, yes. Tested, yes. Three instances 😒 
@@ -41,6 +41,7 @@ Deephaven
 
 ## Data
 [dbt](https://github.com/dbt-labs/dbt-core) - Data Build Tool
+[metricsflow](https://github.com/transform-data/metricflow) - Query for Rainbow 🌈 
 
 # CI/CD
 
