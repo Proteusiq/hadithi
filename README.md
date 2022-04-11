@@ -21,10 +21,10 @@ Our modern heroes and heroines are no longer Kaggle data scientists but machine 
 
 These glorified super heroes and heroines do:
 
-They build, deploy and monitor
+##### They build, deploy and monitor
 ---
 
-Build + Deploy
+###### Build + Deploy
 
 CI/CD 
 -   deployment pipelines
@@ -35,7 +35,7 @@ CI/CD
 -   data versioning 
 -   model registry
 
-Monitoring 
+###### Monitoring 
 -  concept drift
 -  features drift
 -  target drift
