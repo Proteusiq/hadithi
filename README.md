@@ -13,15 +13,13 @@ Data should always be piped to insure traceability. Testing different Python pip
 What about time series analysis? A tour of Python time series analysis packages 📦.
 
 ### Makelele: Noise
-
+___
 ML projects are less about algorithms and more about data pipelines. Data pipelines, and not machine learning algorithms, are the soul of the ML project. They are the path towards desired destination. Algorithms, are though, vehicles. 
 Well built roads allows us to travel far and fast. Without them, we are barely moving. The path to our desired destination would be slow or worst stuck. 
 
 Our modern heroes and heroines are no longer Kaggle data scientists but machine learning engineers and MLOps. They are the cornerstone of successful ML projects. They are kings and queens that ensure your algorithms are not reigning only on Jupyter Labs but also out in the wild.
 
 These glorified super heroes and heroines do:
-
-##### They build, deploy and monitor
 ---
 
 ###### Build + Deploy
