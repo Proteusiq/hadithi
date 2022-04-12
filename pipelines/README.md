@@ -9,7 +9,7 @@
 * [ploomber](https://github.com/ploomber/ploomber) - Pipelines from Notebook 🤷🏿‍♂️
 * [Couler](https://github.com/couler-proj/couler) - One ring to unite them (Argo | Tekton | Airflow) 💍
 * [Meltano](https://github.com/meltano/meltano) - DataOps 🧇
-* [Bonobo](https://github.com/python-bonobo/bonobo) - 🐵 Mhh
+* ~~[Bonobo](https://github.com/python-bonobo/bonobo)~~ - 🐵 Mhh! Not at the same league 
 
 
 ## ML
