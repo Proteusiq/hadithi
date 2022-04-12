@@ -41,3 +41,11 @@ CI/CD
 -  Model or APIs attacks
 
 
+### Mpishi Mbishi Mchicha Mbichi
+
+Dialogues on Programming paradigms
+
+Functional [# monaid way](https://github.com/cognitedata/Expression)
+Object [ > oriented way] Design Pattern + SOLID
+
+
