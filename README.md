@@ -12,6 +12,11 @@ Data should always be piped to ensure traceability. Testing different Python pip
 ### [_Sura ya Tatu_](https://github.com/Proteusiq/hadithi/tree/main/timeseries)
 What about time series analysis? A tour of Python time series analysis packages 📦.
 
+
+### Jembe: Tools ⚒️ 
+___
+Useful and useful-less tools
+
 ### Makelele: Noise
 ___
 ML projects are less about algorithms and more about data pipelines. Data pipelines, not machine learning algorithms, are the soul of the ML project. They are the path towards the desired destination. Algorithms are, though, vehicles. 
