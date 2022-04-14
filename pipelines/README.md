@@ -2,14 +2,14 @@
 > Navigating Python DAG | Data | ML Packages
 
 ### Data Pipelines
-* [Dagster](https://github.com/dagster-io/dagster) - 👑 Beautiful UI and cli that enforces good design 
+* [Dagster](https://github.com/dagster-io/dagster) - 👑 Beautiful UI and CLI that enforces good design 
 * [Prefect](https://github.com/PrefectHQ/prefect) - 🙈🎮 Less control on server UI 
 * [Airflow](https://github.com/apache/airflow) - Doing it well is hard! Powerful, yes. Tested, yes. Three instances 😒 
-* [Luigi](https://github.com/spotify/luigi) - 👴🏾🧓🏾 UI is lagging behind.
+* [Luigi](https://github.com/spotify/luigi) - 👴🏾🧓🏾 UI is lagging.
 * [ploomber](https://github.com/ploomber/ploomber) - Pipelines from Notebook 🤷🏿‍♂️
 * [Couler](https://github.com/couler-proj/couler) - One ring to unite them (Argo | Tekton | Airflow) 💍
 * [Meltano](https://github.com/meltano/meltano) - DataOps 🧇
-* ~~[Bonobo](https://github.com/python-bonobo/bonobo)~~ - 🐵 Mhh! Not at the same league 
+* ~~[Bonobo](https://github.com/python-bonobo/bonobo)~~ - 🐵 Mhh! Not in the same league 
 
 
 ## ML
@@ -46,7 +46,7 @@ Deephaven
 
 # CI/CD
 
-[dagger](https://github.com/dagger/dagger) - CI/CD pipelines that runs anywhere
+[dagger](https://github.com/dagger/dagger) - CI/CD pipelines that run anywhere
 
 # Microservices Design
 [katana-skipper](https://github.com/katanaml/katana-skipper) - FastAPI, Celery, ML setup 
