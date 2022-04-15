@@ -45,6 +45,10 @@ Deephaven
 [elementary](https://github.com/elementary-data/elementary) - Data Monitoring 
 [metricsflow](https://github.com/transform-data/metricflow) - Query for Rainbow 🌈 
 
+# Validation
+[great expectations](https://github.com/great-expectations/great_expectations)
+
+
 # CI/CD
 
 [dagger](https://github.com/dagger/dagger) - CI/CD pipelines that run anywhere
