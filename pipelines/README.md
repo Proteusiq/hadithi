@@ -16,7 +16,7 @@
 * [Flyte](https://github.com/flyteorg/flyte)
 * [Kedro](https://github.com/kedro-org/kedro)
 * [MLRun](https://github.com/mlrun/mlrun)
-* * [orchest](https://github.com/orchest/orchest)
+* [orchest](https://github.com/orchest/orchest)
 * [Metaflow](https://github.com/Netflix/metaflow)
 * [ZenML](https://github.com/zenml-io/zenml)
 * [ClearML](https://github.com/allegroai/clearml) - Beautiful UI
@@ -42,6 +42,7 @@ Deephaven
 
 ## Data
 [dbt](https://github.com/dbt-labs/dbt-core) - Data Build Tool
+[elementary](https://github.com/elementary-data/elementary) - Data Monitoring 
 [metricsflow](https://github.com/transform-data/metricflow) - Query for Rainbow 🌈 
 
 # CI/CD
