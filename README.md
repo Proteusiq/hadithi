@@ -50,7 +50,7 @@ CI/CD
 
 Dialogues on Programming paradigms
 
-Functional [# monaid way](https://github.com/cognitedata/Expression)
+Functional [# monaid way](https://github.com/cognitedata/Expression) <br>
 Object [ > oriented way] Design Pattern + SOLID
 
 
