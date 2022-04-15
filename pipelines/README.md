@@ -41,7 +41,7 @@ Deephaven
 * [Pandera](https://pandera.readthedocs.io/en/latest/dataframe_schemas.html) - DataFrame Validator
 
 ## Data
-[dbt](https://github.com/dbt-labs/dbt-core) - Data Build Tool
+[dbt](https://github.com/dbt-labs/dbt-core) - Data Build Tool<br>
 [elementary](https://github.com/elementary-data/elementary) - Data Monitoring 
 [metricsflow](https://github.com/transform-data/metricflow) - Query for Rainbow 🌈 
 
