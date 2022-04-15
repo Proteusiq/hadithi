@@ -51,6 +51,6 @@ CI/CD
 Dialogues on Programming paradigms in respect to Python and Lua
 
 Functional - [# monaid way](https://github.com/cognitedata/Expression) <br>
-Object Oriented - [ Design Pattern ](https://python-patterns.guide/) + SOLID
+Object Oriented - [ Design Pattern ](https://python-patterns.guide/) + [SOLID](https://github.com/tuvo1106/python_design_patterns)
 
 
