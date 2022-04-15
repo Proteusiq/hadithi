@@ -38,7 +38,7 @@ Deephaven
 * [dolt](https://github.com/dolthub/dolt) - Git for Data
 * [Marquez](https://github.com/MarquezProject/marquez) - Data Lineages 
 * [pypyr](https://github.com/pypyr/pypyr/) - automate shell script
-* [Pandera](https://pandera.readthedocs.io/en/latest/dataframe_schemas.html) - DataFrame Validator
+
 
 ## Data
 [dbt](https://github.com/dbt-labs/dbt-core) - Data Build Tool<br>
@@ -46,7 +46,10 @@ Deephaven
 [metricsflow](https://github.com/transform-data/metricflow) - Query for Rainbow 🌈 
 
 # Validation
-[great expectations](https://github.com/great-expectations/great_expectations)
+
+[Pandera](https://pandera.readthedocs.io/en/latest/dataframe_schemas.html) - DataFrame Validator
+[great expectations](https://github.com/great-expectations/great_expectations) - Expect the expected
+[re-data](https://github.com/re-data/re-data) - Fix before it's an issue
 
 
 # CI/CD
