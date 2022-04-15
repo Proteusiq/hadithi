@@ -50,7 +50,7 @@ Deephaven
 [Pandera](https://pandera.readthedocs.io/en/latest/dataframe_schemas.html) - DataFrame Validator
 [great expectations](https://github.com/great-expectations/great_expectations) - Expect the expected
 [re-data](https://github.com/re-data/re-data) - Fix before it's an issue
-
+[Pandas Profiling](https://github.com/ydataai/pandas-profiling) - profiling Pandas
 
 # CI/CD
 
