@@ -48,9 +48,9 @@ CI/CD
 
 ### Mpishi Mbishi Mchicha Mbichi
 
-Dialogues on Programming paradigms
+Dialogues on Programming paradigms in respect to Python and Lua
 
-Functional [# monaid way](https://github.com/cognitedata/Expression) <br>
-Object [ > oriented way] Design Pattern + SOLID
+Functional - [# monaid way](https://github.com/cognitedata/Expression) <br>
+Object Oriented - [ Design Pattern ](https://python-patterns.guide/) + SOLID
 
 
