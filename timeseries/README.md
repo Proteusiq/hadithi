@@ -29,9 +29,10 @@
 ## Example of Stock Data
 
 ```python
+
+from io import BytesIO
 import pandas as pd
 import requests
-import io
 
 URL = 'https://query1.finance.yahoo.com/v7/finance/download/GOOG'
 params ={'period1':1538761929,
@@ -43,21 +44,18 @@ params ={'period1':1538761929,
 
 r = requests.post(URL,data=params)
 if r.ok:
-    data = r.content.decode('utf8')
-    df = pd.read_csv(io.StringIO(data))
-```
+   
+    df = pd.read_csv(BytesIO(r.content))
 
-Test Data for 
-
-```python
-import httpx
+# Anorher Test Data
 
 URI = "https://eodhistoricaldata.com/api/eod/MCD.US"
 TEST_TOKEN = "OeAFFmMliFG5orCUuwAKQ8l4WWFQ67YX"
-params = {"api_token"=TEST_TOKEN,
-"period"="d"}
+params = {"api_token":TEST_TOKEN,
+"period":"d"}
 
-r = httpx.get(URI, params=params)
+r = requests.get(URI, params=params)
 
-data = r.json()
+df = pd.read_csv(BytesIO(r.content))
+
 ```
