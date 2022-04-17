@@ -46,3 +46,18 @@ if r.ok:
     data = r.content.decode('utf8')
     df = pd.read_csv(io.StringIO(data))
 ```
+
+Test Data for 
+
+```python
+import httpx
+
+URI = "https://eodhistoricaldata.com/api/eod/MCD.US"
+TEST_TOKEN = "OeAFFmMliFG5orCUuwAKQ8l4WWFQ67YX"
+params = {"api_token"=TEST_TOKEN,
+"period"="d"}
+
+r = httpx.get(URI, params=params)
+
+data = r.json()
+```
