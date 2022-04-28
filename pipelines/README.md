@@ -24,6 +24,7 @@
 * [Seldon](https://github.com/SeldonIO/seldon-core) - Seldon is all ML too
 * [bodywork](https://bodywork.readthedocs.io/en/latest/#what-problems-does-bodywork-solve)
 * [BentoML](https://github.com/bentoml/BentoML)
+
 Deephaven
 * [CML](https://github.com/iterative/cml) - CI/CD for ML
 
@@ -41,27 +42,25 @@ Deephaven
 
 
 ## Data
-[dbt](https://github.com/dbt-labs/dbt-core) - Data Build Tool<br>
-[elementary](https://github.com/elementary-data/elementary) - Data Monitoring 
-[metricsflow](https://github.com/transform-data/metricflow) - Query for Rainbow 🌈 
+* [dbt](https://github.com/dbt-labs/dbt-core) - Data Build Tool<br>
+* [elementary](https://github.com/elementary-data/elementary) - Data Monitoring 
+* [metricsflow](https://github.com/transform-data/metricflow) - Query for Rainbow 🌈 
 
 # Validation
-
-[Pandera](https://pandera.readthedocs.io/en/latest/dataframe_schemas.html) - DataFrame Validator
-[great expectations](https://github.com/great-expectations/great_expectations) - Expect the expected
-[re-data](https://github.com/re-data/re-data) - Fix before it's an issue
-[Pandas Profiling](https://github.com/ydataai/pandas-profiling) - profiling Pandas
+* [Pandera](https://pandera.readthedocs.io/en/latest/dataframe_schemas.html) - DataFrame Validator
+* [great expectations](https://github.com/great-expectations/great_expectations) - Expect the expected
+* [re-data](https://github.com/re-data/re-data) - Fix before it's an issue
+* [Pandas Profiling](https://github.com/ydataai/pandas-profiling) - profiling Pandas
 
 # CI/CD
-
-[dagger](https://github.com/dagger/dagger) - CI/CD pipelines that run anywhere
+* [dagger](https://github.com/dagger/dagger) - CI/CD pipelines that run anywhere
 
 # Microservices Design
-[katana-skipper](https://github.com/katanaml/katana-skipper) - FastAPI, Celery, ML setup 
+* [katana-skipper](https://github.com/katanaml/katana-skipper) - FastAPI, Celery, ML setup 
 
 # Use in Wild
-[streamify](https://github.com/ankurchavda/streamify)
+* [streamify](https://github.com/ankurchavda/streamify)
 
 # Containerized ML
-[cog](https://github.com/replicate/cog)
+* [cog](https://github.com/replicate/cog)
 
