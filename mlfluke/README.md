@@ -1,6 +1,6 @@
 # Navigating flukes in ML predictions 🦊
 
-Are your classification predictions a fluke, or are they real? Maybe both? I will argue that they are primarily like both. A good model minimises the number of fluke predictions.
+Are your classification predictions a fluke, or are they real? Maybe both? I will argue that they are likely both. A good model minimises the number of fluke predictions.
 
 ML diagnostics and metrics evaluation are skills to be developed, a constant learning process. As Data Scientists, we are forever in a position of an apprentice.  Always learning and improving new ways to develop and evaluate our models. Our model evaluations are only as good as how we define the ML problems.
 
