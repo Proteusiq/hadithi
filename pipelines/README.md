@@ -24,6 +24,7 @@
 * [Seldon](https://github.com/SeldonIO/seldon-core) - Seldon is all ML too
 * [bodywork](https://bodywork.readthedocs.io/en/latest/#what-problems-does-bodywork-solve)
 * [BentoML](https://github.com/bentoml/BentoML)
+* [cleanML](https://docs.cleanlab.ai/v2.0.0/) - Modeling /w bad data
 
 Deephaven
 * [CML](https://github.com/iterative/cml) - CI/CD for ML
