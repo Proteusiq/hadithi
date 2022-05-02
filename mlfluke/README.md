@@ -16,4 +16,5 @@ Exploring how far ML interpretability goes and where classical data mining ⛏ {
 As said, code is more worthy than a thousand words.
 
 ##### Tools:
-[cleanlab](https://docs.cleanlab.ai/v2.0.0)
+
+[cleanlab](https://docs.cleanlab.ai/v2.0.0) - Understanding models with unclean data
