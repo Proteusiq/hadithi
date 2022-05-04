@@ -27,6 +27,7 @@ tensorflow = "^2.8.0"
 ipykernel = "^6.6.1"
 matplotlib = "^3.5.1"
 watermark = "*"
+nbformat = "^5.4.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
