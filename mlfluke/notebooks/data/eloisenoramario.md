@@ -10,7 +10,7 @@ How many girls? 2
 Is there a boy(s)?  ---> 1-0 boom how many boys=0
 
 Is it snowing? | Is there snow? -> winter (constant)
-# flower to snow??
+// flower to snow??
 
 where are they? -> forest
 
