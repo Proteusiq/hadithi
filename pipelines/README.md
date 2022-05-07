@@ -66,3 +66,6 @@ Deephaven
 # Containerized ML
 * [cog](https://github.com/replicate/cog)
 
+# In DB Modelling 
+* [PostgresML](https://github.com/postgresml/postgresml.github.io) - Training in Postgres 
+
