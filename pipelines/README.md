@@ -69,4 +69,5 @@ Deephaven
 # In DB Modelling 
 * [PostgresML](https://github.com/postgresml/postgresml.github.io) - Training in Postgres
 * [Eland](https://github.com/elastic/eland) - ML in Elasticsearch
+* [MindsDB](https://github.com/mindsdb/mindsdb) - Database agnostic ML without data migration 
 
