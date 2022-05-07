@@ -67,5 +67,6 @@ Deephaven
 * [cog](https://github.com/replicate/cog)
 
 # In DB Modelling 
-* [PostgresML](https://github.com/postgresml/postgresml.github.io) - Training in Postgres 
+* [PostgresML](https://github.com/postgresml/postgresml.github.io) - Training in Postgres
+* [Eland](https://github.com/elastic/eland) - ML in Elasticsearch
 
