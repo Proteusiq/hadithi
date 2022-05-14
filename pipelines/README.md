@@ -13,7 +13,7 @@
 
 
 ## ML
-* [Flyte](https://github.com/flyteorg/flyte)
+* [Flyte](https://github.com/flyteorg/flyte) - 🔋 Beauty though ☁️ deployment is trickier than it should have been
 * [Kedro](https://github.com/kedro-org/kedro)
 * [MLRun](https://github.com/mlrun/mlrun)
 * [orchest](https://github.com/orchest/orchest)
