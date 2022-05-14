@@ -25,6 +25,7 @@
 * [bodywork](https://bodywork.readthedocs.io/en/latest/#what-problems-does-bodywork-solve)
 * [BentoML](https://github.com/bentoml/BentoML)
 * [cleanML](https://docs.cleanlab.ai/v2.0.0/) - Modeling /w bad data
+* [cortex](https://github.com/cortexlabs/cortex) 
 
 Deephaven
 * [CML](https://github.com/iterative/cml) - CI/CD for ML
