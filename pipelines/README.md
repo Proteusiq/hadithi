@@ -42,6 +42,7 @@ Deephaven
 * [dolt](https://github.com/dolthub/dolt) - Git for Data
 * [Marquez](https://github.com/MarquezProject/marquez) - Data Lineages 
 * [pypyr](https://github.com/pypyr/pypyr/) - automate shell script
+* [Evidently](https://github.com/evidentlyai/evidently) - Data Drift 📈
 
 
 ## Data
