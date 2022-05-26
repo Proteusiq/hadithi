@@ -74,4 +74,4 @@ Deephaven
 
 
 # 🦄 ML Pipeline
-    [Dagster] - [cleanML] + {Neural Network Intelligence - Features | Feast} - []
+    [Dagster] - [cleanML] + {Neural Network Intelligence - Features | Feast} - [FastAPI]
