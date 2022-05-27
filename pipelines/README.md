@@ -35,6 +35,7 @@ Deephaven
 * [feast](https://github.com/feast-dev/feast) - feature storage
 * [monosi](https://github.com/monosidev/monosi) - Data Observer 
 * [nni](https://github.com/microsoft/nni) - NNI (Neural Network Intelligence) - automate Feature Engineering, Neural Architecture Search, Hyperparameter Tuning and Model Compression.
+* [Aim](https://github.com/aimhubio/aim) - Experiments tracker
 
 ## DV
 * [Git Large Files](https://git-lfs.github.com/)
@@ -43,7 +44,6 @@ Deephaven
 * [Marquez](https://github.com/MarquezProject/marquez) - Data Lineages 
 * [pypyr](https://github.com/pypyr/pypyr/) - automate shell script
 * [Evidently](https://github.com/evidentlyai/evidently) - Data Drift 📈
-* [Aim](https://github.com/aimhubio/aim) - Experiments tracker
 
 
 ## Data
