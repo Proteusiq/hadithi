@@ -43,6 +43,7 @@ Deephaven
 * [Marquez](https://github.com/MarquezProject/marquez) - Data Lineages 
 * [pypyr](https://github.com/pypyr/pypyr/) - automate shell script
 * [Evidently](https://github.com/evidentlyai/evidently) - Data Drift 📈
+* [Aim](https://github.com/aimhubio/aim) - Experiments tracker
 
 
 ## Data
