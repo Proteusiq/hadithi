@@ -45,6 +45,13 @@ CI/CD
 -  prediction response time
 -  Model or APIs attacks
 
+### Makelele: Being Gen-X Leader
+> Live authentic. Believe in yourself. Be grateful.
+
+Gen-X leader lives authentically. S[he] inspire others to live authentically. Living authentically is believing in one self. It is a life long learning and applications of skills to accomplish business missions.
+Gen-X leader has a line of sight to revenue (deals, inbound, outbound, people) and charisma for building an epic brand through creative communication and storytelling.
+
+
 
 ### Mpishi Mbishi Mchicha Mbichi
 
