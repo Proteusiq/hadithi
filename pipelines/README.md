@@ -2,7 +2,7 @@
 > Navigating Python DAG | Data | ML Packages
 
 ### Data Pipelines
-* [Dagster](https://github.com/dagster-io/dagster) - 👑 Beautiful UI and CLI that enforces good design 🐙🤗: Brilliant coding experience 
+* [Dagster](https://github.com/dagster-io/dagster) - 👑 Beautiful UI and CLI that enforces good design 🐙🤗: Brilliant coding experience and concepts: my take [advance scraping](https://github.com/Proteusiq/advance_scraping)
 * [Prefect](https://github.com/PrefectHQ/prefect) - 🙈🎮 Less control on server UI 
 * [Airflow](https://github.com/apache/airflow) - Doing it well is hard! Powerful, yes. Tested, yes. Three instances 😒 
 * [Luigi](https://github.com/spotify/luigi) - 👴🏾🧓🏾 UI is lagging.
