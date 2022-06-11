@@ -18,8 +18,8 @@ ___
 Useful and useful-less tools
 - Audio
 - Video
- - [dot](https://github.com/sensity-ai/dot)
- - [mediapipe](https://github.com/google/mediapipe)
+ -- [dot](https://github.com/sensity-ai/dot)
+ -- [mediapipe](https://github.com/google/mediapipe)
 - Text
 
 ### Makelele: Noise
