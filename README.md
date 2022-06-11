@@ -22,7 +22,7 @@ Useful and useful-less tools
 
 ### Makelele: Noise
 ___
-ML projects are less about algorithms and more about data pipelines. Data pipelines, not machine learning algorithms, are the soul of the ML project. They are the path towards the desired destination. Algorithms are, though, vehicles. 
+ML projects are less about algorithms and more about data pipelines. Data pipelines, not machine learning algorithms, are the soul of the ML project. They are the path towards the desired destination, namely solving business need. Algorithms are, though, vehicles. 
 Well built roads allow us to travel far and fast. Without them, we are barely moving. The path to our desired destination would be slow or, worst, stuck. 
 
 Our modern heroes and heroines are no longer Kaggle data scientists but machine learning engineers and MLOps. They are the cornerstone of successful ML projects. They are kings and queens that ensure your algorithms are not reigning only on Jupyter Labs but also out in the wild.
