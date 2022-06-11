@@ -17,7 +17,7 @@ What about time series analysis? A tour of Python time series analysis packages 
 ___
 Useful and useful-less tools
 - Audio
-- Video
+- Video <br>
  -> [dot](https://github.com/sensity-ai/dot) <br>
  -> [mediapipe](https://github.com/google/mediapipe)
 - Text
