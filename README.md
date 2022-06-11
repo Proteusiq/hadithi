@@ -18,6 +18,7 @@ ___
 Useful and useful-less tools
 - Audio <br>
  -> [speechbrain](https://github.com/speechbrain/speechbrain) <br>
+ -> [pyannote](https://github.com/pyannote/pyannote-audio) <br>
 - Video <br>
  -> [dot](https://github.com/sensity-ai/dot) <br>
  -> [mediapipe](https://github.com/google/mediapipe)
