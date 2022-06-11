@@ -16,7 +16,8 @@ What about time series analysis? A tour of Python time series analysis packages 
 ### Jembe: Tools ⚒️ 
 ___
 Useful and useful-less tools
-- Audio
+- Audio <br>
+ -> [speechbrain](https://github.com/speechbrain/speechbrain) <br>
 - Video <br>
  -> [dot](https://github.com/sensity-ai/dot) <br>
  -> [mediapipe](https://github.com/google/mediapipe)
