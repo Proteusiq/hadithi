@@ -16,6 +16,9 @@ What about time series analysis? A tour of Python time series analysis packages 
 ### Jembe: Tools ⚒️ 
 ___
 Useful and useful-less tools
+- Audio
+- Video
+- Text
 
 ### Makelele: Noise
 ___
