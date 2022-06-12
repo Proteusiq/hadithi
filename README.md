@@ -30,10 +30,10 @@ Useful and useful-less tools
   -> Gensim <br>
 
 - Libraries 
-  -> DocArray  <br>
+  -> [DocArray](https://github.com/jina-ai/docarray) <br>
   -> [jina](https://github.com/jina-ai/jina)  <br>
-  -> Skorch  <br>
-  -> Hummingbird  <br>
+  -> Skorch <br>
+  -> Hummingbird <br>
 
 ### Makelele: Noise
 ___
