@@ -26,11 +26,14 @@ Useful and useful-less tools
  -> [dot](https://github.com/sensity-ai/dot) <br>
  -> [mediapipe](https://github.com/google/mediapipe)
 - Text
-  -> spaCy
-  -> Gensim
-  ->
+  -> spaCy <br>
+  -> Gensim <br>
+
 - Libraries 
-  -> DocArray
+  -> DocArray  <br>
+  -> [jina](https://github.com/jina-ai/jina)  <br>
+  -> Skorch  <br>
+  -> Hummingbird  <br>
 
 ### Makelele: Noise
 ___
