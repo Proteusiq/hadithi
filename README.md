@@ -33,7 +33,7 @@ Useful and useful-less tools
 - Libraries 
   -> [DocArray](https://github.com/jina-ai/docarray) <br>
   -> [jina](https://github.com/jina-ai/jina)  <br>
-  -> Skorch <br>
+  -> [Skorch](https://github.com/skorch-dev/skorch) <br>
   -> Hummingbird <br>
 
 ### Makelele: Noise
