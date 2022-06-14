@@ -28,7 +28,7 @@ Useful and useful-less tools
 
 - Text <br>
   -> [spaCy](https://github.com/explosion/spaCy) <br>
-  -> [Gensim]() <br>
+  -> [Gensim](https://github.com/RaRe-Technologies/gensim) <br>
 
 - Libraries 
   -> [DocArray](https://github.com/jina-ai/docarray) <br>
