@@ -27,7 +27,7 @@ Useful and useful-less tools
  -> [mediapipe](https://github.com/google/mediapipe)
 
 - Text <br>
-  -> [spaCy]() <br>
+  -> [spaCy](https://github.com/explosion/spaCy) <br>
   -> [Gensim]() <br>
 
 - Libraries 
