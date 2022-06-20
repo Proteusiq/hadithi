@@ -12,7 +12,7 @@
    * [Prophet](https://github.com/facebook/prophet)
    * [pmdarima](https://github.com/alkaline-ml/pmdarima)
    * [ETNA](https://github.com/tinkoff-ai/etna)
-   * [Darts](https://unit8co.github.io/darts/) - The 👑 
+   * [Darts](https://unit8co.github.io/darts/) - The 👑: issues with 3.10
    * [Merlion](https://github.com/salesforce/Merlion)
    * [Kats](https://github.com/facebookresearch/Kats)
    * [FOST](https://github.com/microsoft/FOST)
