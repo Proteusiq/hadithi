@@ -14,6 +14,7 @@
 
 ## ML
 * [Flyte](https://github.com/flyteorg/flyte) - 🔋 Beauty though ☁️ deployment is trickier than it should have been
+  - [UnionMl](https://github.com/unionai-oss/unionml) - Builds on Flyte
 * [Kedro](https://github.com/kedro-org/kedro)
 * [MLRun](https://github.com/mlrun/mlrun)
 * [orchest](https://github.com/orchest/orchest)
