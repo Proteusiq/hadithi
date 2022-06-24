@@ -19,7 +19,7 @@
 * [orchest](https://github.com/orchest/orchest)
 * [Metaflow](https://github.com/Netflix/metaflow)
 * [ZenML](https://github.com/zenml-io/zenml)
-* [ClearML](https://github.com/allegroai/clearml) - Beautiful UI
+* [ClearML](https://github.com/allegroai/clearml) - Beautiful UI: Every MLOps needs
 * [MLFlow](https://github.com/mlflow/mlflow)
 * [Seldon](https://github.com/SeldonIO/seldon-core) - Seldon is all ML too
 * [bodywork](https://bodywork.readthedocs.io/en/latest/#what-problems-does-bodywork-solve)
