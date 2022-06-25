@@ -37,9 +37,9 @@ Useful and useful-less tools
   -> [Hummingbird](https://github.com/microsoft/hummingbird) <br>
 
 - Data Annotations 
-  -> [doccan](https://github.com/doccano/doccano) - text
-  -> [label-studio](https://github.com/heartexlabs/label-studio)
-  -> [Diffgram](https://github.com/diffgram/diffgram) - Licensed?
+  -> [doccan](https://github.com/doccano/doccano) - text <br>
+  -> [label-studio](https://github.com/heartexlabs/label-studio) <br>
+  -> [Diffgram](https://github.com/diffgram/diffgram) - Licensed? <br>
 
 ### Makelele: Noise
 ___
