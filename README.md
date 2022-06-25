@@ -36,6 +36,11 @@ Useful and useful-less tools
   -> [Skorch](https://github.com/skorch-dev/skorch) <br>
   -> [Hummingbird](https://github.com/microsoft/hummingbird) <br>
 
+- Data Annotations 
+  -> [doccan](https://github.com/doccano/doccano) - text
+  -> [label-studio](https://github.com/heartexlabs/label-studio)
+  -> [Diffgram](https://github.com/diffgram/diffgram) - Licensed?
+
 ### Makelele: Noise
 ___
 ML projects are less about algorithms and more about data pipelines. Data pipelines, not machine learning algorithms, are the soul of the ML project. They are the path towards the desired destination, namely solving business need. Algorithms are, though, vehicles. 
