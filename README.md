@@ -30,13 +30,13 @@ Useful and useful-less tools
   -> [spaCy](https://github.com/explosion/spaCy) <br>
   -> [Gensim](https://github.com/RaRe-Technologies/gensim) <br>
 
-- Libraries 
+- Libraries <br>
   -> [DocArray](https://github.com/jina-ai/docarray) <br>
   -> [jina](https://github.com/jina-ai/jina)  <br>
   -> [Skorch](https://github.com/skorch-dev/skorch) <br>
   -> [Hummingbird](https://github.com/microsoft/hummingbird) <br>
 
-- Data Annotations 
+- Data Annotations <br>
   -> [doccan](https://github.com/doccano/doccano) - text <br>
   -> [label-studio](https://github.com/heartexlabs/label-studio) <br>
   -> [Diffgram](https://github.com/diffgram/diffgram) - Licensed? <br>
