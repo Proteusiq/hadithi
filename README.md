@@ -42,6 +42,7 @@ Useful and useful-less tools
   -> [Diffgram](https://github.com/diffgram/diffgram) - Licensed? <br>
   -> [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) <br> 
   -> [CVAT](https://github.com/openvinotoolkit/cvat) - Computer Vision Annotation Tool <br>
+  -> [Scalable](https://github.com/scalabel/scalabel)
 
 ### Makelele: Noise
 ___
