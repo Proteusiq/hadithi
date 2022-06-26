@@ -40,8 +40,8 @@ Useful and useful-less tools
   -> [doccan](https://github.com/doccano/doccano) - text <br>
   -> [label-studio](https://github.com/heartexlabs/label-studio) <br>
   -> [Diffgram](https://github.com/diffgram/diffgram) - Licensed? <br>
-  -> [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool)
-  ->
+  -> [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) <br> 
+  -> [CVAT](https://github.com/openvinotoolkit/cvat) - Computer Vision Annotation Tool <br>
 
 ### Makelele: Noise
 ___
