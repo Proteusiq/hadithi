@@ -85,7 +85,7 @@ Gen-X leader has a line of sight to revenue (deals, inbound, outbound, people) a
 
 Dialogues on Programming paradigms in respect to Python, Go and Lua
 
-Functional - [# monaid way](https://github.com/cognitedata/Expression) - [monaid in python](https://www.philliams.com/monads-in-python/) <br>
+Functional - [# monaid way](https://github.com/cognitedata/Expression) - [monaid in python](https://www.philliams.com/monads-in-python/) - [why and how - Vincent Perez](https://youtu.be/4DZ4vPkuMLk) <br>
 Object Oriented - [ Design Pattern ](https://python-patterns.guide/) + [SOLID](https://github.com/tuvo1106/python_design_patterns)
 
 
