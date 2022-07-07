@@ -34,6 +34,7 @@ Useful and useful-less tools
 - Libraries <br>
   -> [DocArray](https://github.com/jina-ai/docarray) <br>
   -> [jina](https://github.com/jina-ai/jina)  <br>
+  -> [txtai](https://github.com/neuml/txtai) <br>
   -> [Skorch](https://github.com/skorch-dev/skorch) <br>
   -> [Hummingbird](https://github.com/microsoft/hummingbird) <br>
 
