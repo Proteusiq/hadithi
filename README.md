@@ -46,6 +46,12 @@ Useful and useful-less tools
   -> [CVAT](https://github.com/openvinotoolkit/cvat) - Computer Vision Annotation Tool <br>
   -> [Scalable](https://github.com/scalabel/scalabel)
 
+
+### Uzuri: Beautiful Code
+___
+
+Becoming a good developer means caring about beautiful coding.
+
 ### Makelele: Noise
 ___
 ML projects are less about algorithms and more about data pipelines. Data pipelines, not machine learning algorithms, are the soul of the ML project. They are the path towards the desired destination, namely solving business need. Algorithms are, though, vehicles. 
@@ -63,6 +69,7 @@ CI/CD
 -   testing - Ethics & Performance 
 -   code refactoring/optimisation 
 -   retraining pipelines
+
 -   reproducibility pipelines
 -   data versioning 
 -   model registry
