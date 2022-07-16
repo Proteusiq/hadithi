@@ -45,6 +45,7 @@ Useful and useful-less tools
   -> [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) <br> 
   -> [CVAT](https://github.com/openvinotoolkit/cvat) - Computer Vision Annotation Tool <br>
   -> [Scalable](https://github.com/scalabel/scalabel)
+  --> [fastdup](https://github.com/visualdatabase/fastdup)
 
 
 ### Uzuri: Beautiful Code
