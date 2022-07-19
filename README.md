@@ -100,5 +100,6 @@ Functional - [# monaid way](https://github.com/cognitedata/Expression) - [monaid
   - [returns](https://github.com/dry-python/returns) - Interesting 📦 and useful articles <br>
 
 Object Oriented - [ Design Pattern ](https://python-patterns.guide/) + [SOLID](https://github.com/tuvo1106/python_design_patterns)
+  - [Refactoring](https://refactoring.guru/design-patterns)
 
 
