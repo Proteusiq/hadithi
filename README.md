@@ -6,6 +6,13 @@ _Hadithi_ is a Swahili word for story | stories. These are collections of succes
 ### [_Sura ya Kwanza_](https://github.com/Proteusiq/hadithi/tree/main/mlfluke)
 Understanding machine learning predictions. What you see is not always what you get 🤖. 
 
+Machine Learning Resources
+- [Mathematics for Machine Learning](https://mml-book.github.io/) - PDF, video and Jupyter Notebooks for introducations to mathematics required for ML
+- [Machine Learning Foundations](https://github.com/jonkrohn/ML-foundations) - Classical Notebooks, Udemy|Youtube course covering Maths and Code by Jon Khrohn
+- [Think Bayes](http://allendowney.github.io/ThinkBayes2) - Allen Downey’s classic as Jupyter Book
+- [Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Probabilistic Programming and Bayesian Inference 
+___
+
 ### [_Sura ya Pili_](https://github.com/Proteusiq/hadithi/tree/main/pipelines) 
 Data should always be piped to ensure traceability. Testing different Python pipelines 〰.
 
