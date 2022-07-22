@@ -11,6 +11,8 @@ Machine Learning Resources
 - [Machine Learning Foundations](https://github.com/jonkrohn/ML-foundations) - Classical Notebooks, Udemy|Youtube course covering Maths and Code by Jon Khrohn
 - [Think Bayes](http://allendowney.github.io/ThinkBayes2) - Allen Downey’s classic as Jupyter Book
 - [Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Probabilistic Programming and Bayesian Inference 
+- [Python Data Science Handbook](https://nbviewer.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb) - Jake VanderPlas
+
 ___
 
 ### [_Sura ya Pili_](https://github.com/Proteusiq/hadithi/tree/main/pipelines) 
