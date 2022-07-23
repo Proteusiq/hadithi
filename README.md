@@ -103,12 +103,15 @@ Gen-X leader has a line of sight to revenue (deals, inbound, outbound, people) a
 
 Dialogues on Programming paradigms in respect to Python, Go and Lua
 
-Functional - [# monaid way](https://github.com/cognitedata/Expression) - [monaid in python](https://www.philliams.com/monads-in-python/) - [why and how - Vincent Perez](https://youtu.be/4DZ4vPkuMLk) <br>
+Functional 
+  - [# monaid way](https://github.com/cognitedata/Expression) - [monaid in python](https://www.philliams.com/monads-in-python/) - [why and how - Vincent Perez](https://youtu.be/4DZ4vPkuMLk) <br>
   - [functional programming jargon](https://github.com/jmesyou/functional-programming-jargon.py) <br>
   - [Awesome Functional Programming](https://github.com/sfermigier/awesome-functional-python) 🙈🙉🙊<br>
   - [returns](https://github.com/dry-python/returns) - Interesting 📦 and useful articles <br>
 
-Object Oriented - [ Design Pattern ](https://python-patterns.guide/) + [SOLID](https://github.com/tuvo1106/python_design_patterns)
+Object Oriented 
+  - [SOLID](https://github.com/tuvo1106/python_design_patterns)
   - [Refactoring](https://refactoring.guru/design-patterns)
+  - [Python Patterns](https://python-patterns.guide/) - Collection of Brandon Rhodes' guide to Design Patterns in Python
 
 
