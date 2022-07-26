@@ -12,7 +12,7 @@ Machine Learning Resources
 - [Think Bayes](http://allendowney.github.io/ThinkBayes2) - Allen Downey’s classic as Jupyter Book
 - [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html) - Martin Osvaldo A, Kumar Ravin; Lao Junpeng, 2021
 - [Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Probabilistic Programming and Bayesian Inference
-- [Statistical Rethinking 2019](https://github.com/Booleans/statistical-rethinking/raw/master/Statistical%20Rethinking%202nd%20Edition.pdf) - [Course Fall 2017](https://youtube.com/playlist?list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc) - Richard McElreath
+- [Statistical Rethinking 2019](https://github.com/Booleans/statistical-rethinking/raw/master/Statistical%20Rethinking%202nd%20Edition.pdf) - [Course Fall 2017](https://youtube.com/playlist?list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc) - Richard McElreath's lectures from Leipzig University
 - [Python Data Science Handbook](https://nbviewer.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb) - Jake VanderPlas
 
 ___
