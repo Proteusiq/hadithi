@@ -9,6 +9,8 @@ Understanding machine learning predictions. What you see is not always what you 
 Machine Learning Resources
 - [Mathematics for Machine Learning](https://mml-book.github.io/) - PDF, video and Jupyter Notebooks for introducations to mathematics required for ML
 - [Machine Learning Foundations](https://github.com/jonkrohn/ML-foundations) - Classical Notebooks, Udemy|Youtube course covering Maths and Code by Jon Khrohn
+
+![bayesian](mlfluke/notebooks/Bayesian.PNG)
 - [Think Bayes](http://allendowney.github.io/ThinkBayes2) - Allen Downey’s classic as Jupyter Book
 - [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html) - Martin Osvaldo A, Kumar Ravin; Lao Junpeng, 2021
 - [Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Probabilistic Programming and Bayesian Inference
