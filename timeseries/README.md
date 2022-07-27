@@ -25,6 +25,7 @@
    * [tsfresh](https://github.com/blue-yonder/tsfresh)
    * [pycaret](https://pycaret.readthedocs.io/en/time_series/api/time_series.html)
    * [neuralforecast](https://github.com/Nixtla/neuralforecast)
+   * [hierarchicalforecast](https://github.com/Nixtla/hierarchicalforecast)
 
 ## Example of Stock Data
 
