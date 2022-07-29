@@ -10,6 +10,10 @@ Machine Learning Resources
 - [Mathematics for Machine Learning](https://mml-book.github.io/) - PDF, video and Jupyter Notebooks for introducations to mathematics required for ML
 - [Machine Learning Foundations](https://github.com/jonkrohn/ML-foundations) - Classical Notebooks, Udemy|Youtube course covering Maths and Code by Jon Khrohn
 - [Python Data Science Handbook](https://nbviewer.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb) - Jake VanderPlas
+- [Deep Learning
+for Coders with
+fastai & PyTorch](https://course.fast.ai/Resources/book.html) - Jeremy Howard &
+Sylvain Gugger
 
 > Bayesian Inference
 ![bayesian](mlfluke/notebooks/Bayesian.PNG)
