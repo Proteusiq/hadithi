@@ -14,7 +14,7 @@ Machine Learning Resources
 for Coders with
 fastai & PyTorch](https://course.fast.ai/Resources/book.html) - Jeremy Howard &
 Sylvain Gugger
-- [Probabilistic Machine Learning](https://probml.github.io/pml-book/) - a book series by Kevin Murphy
+- [Probabilistic Machine Learning](https://probml.github.io/pml-book/) - a book series by Kevin Murphy + [GitHub materials](https://github.com/probml)
 
 > Bayesian Inference
 ![bayesian](mlfluke/notebooks/Bayesian.PNG)
