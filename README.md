@@ -44,7 +44,7 @@ Useful and useful-less tools
 
 - Video <br>
  -> [dot](https://github.com/sensity-ai/dot) <br>
- -> [mediapipe](https://github.com/google/mediapipe)
+ -> [mediapipe](https://github.com/google/mediapipe) - 😻 Customizable computer vision models by Google.
 
 - Text <br>
   -> [spaCy](https://github.com/explosion/spaCy) <br>
