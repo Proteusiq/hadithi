@@ -1,13 +1,13 @@
 # Hadithi
 🧪 Data Science | ⚒️ MLOps | ⚙️ DataOps : Talks about 🦄
 
-_Hadithi_ is a Swahili word for story | stories. These are collections of successful and failed projects stories, building ML projects that last, design patterns, code testing, and how to navigate in the rapidly changing tech landscape. These stories, sagas and opinions are my own. They neither reflect the companies I have worked or working for, nor should they be taken seriously.
+_Hadithi_ is a Swahili word for story | stories. These are collections of successful and failed project stories, building ML projects that last, design patterns, code testing, and how to navigate in the rapidly changing tech landscape. These stories, sagas and opinions are my own. They neither reflect the companies I have worked or working for, nor should they be taken seriously.
 
 ### [_Sura ya Kwanza_](https://github.com/Proteusiq/hadithi/tree/main/mlfluke)
 Understanding machine learning predictions. What you see is not always what you get 🤖. 
 
 Machine Learning Resources
-- [Mathematics for Machine Learning](https://mml-book.github.io/) - PDF, video and Jupyter Notebooks for introducations to mathematics required for ML
+- [Mathematics for Machine Learning](https://mml-book.github.io/) - PDF, video and Jupyter Notebooks for introductions to mathematics required for ML
 - [Machine Learning Foundations](https://github.com/jonkrohn/ML-foundations) - Classical Notebooks, Udemy|Youtube course covering Maths and Code by Jon Khrohn
 - [Python Data Science Handbook](https://nbviewer.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb) - Jake VanderPlas
 - [Deep Learning
@@ -75,7 +75,7 @@ Becoming a good developer means caring about beautiful coding.
 
 ### Makelele: Noise
 ___
-ML projects are less about algorithms and more about data pipelines. Data pipelines, not machine learning algorithms, are the soul of the ML project. They are the path towards the desired destination, namely solving business need. Algorithms are, though, vehicles. 
+ML projects are less about algorithms and more about data pipelines. Data pipelines, not machine learning algorithms, are the soul of the ML project. They are the path towards the desired destination, namely solving business needs. Algorithms are, though, vehicles. 
 Well built roads allow us to travel far and fast. Without them, we are barely moving. The path to our desired destination would be slow or, worst, stuck. 
 
 Our modern heroes and heroines are no longer Kaggle data scientists but machine learning engineers and MLOps. They are the cornerstone of successful ML projects. They are kings and queens that ensure your algorithms are not reigning only on Jupyter Labs but also out in the wild.
