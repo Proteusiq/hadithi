@@ -25,6 +25,8 @@ Sylvain Gugger
 - [Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Probabilistic Programming and Bayesian Inference - DevAuthors
 - [Statistical Rethinking 2019](https://github.com/Booleans/statistical-rethinking/raw/master/Statistical%20Rethinking%202nd%20Edition.pdf) - 👑 [Course Fall 2017](https://youtube.com/playlist?list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc) + [Pre-recorded Lectures 2022](https://www.youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN) - [Material 2022](https://github.com/rmcelreath/stat_rethinking_2022) - [Richard McElreath](https://xcelab.net/rm/)'s lectures from Leipzig University
 
+> Deep Learning
+- [Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/) - DS-GA 1008 · Spring 2020 · NYU Center For Data Science
 ___
 
 ### [_Sura ya Pili_](https://github.com/Proteusiq/hadithi/tree/main/pipelines) 
