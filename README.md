@@ -17,6 +17,7 @@ Sylvain Gugger
 - [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/) - Russell A. Poldrack's GitBook
 - [Probabilistic Machine Learning](https://probml.github.io/pml-book/) - a book series by Kevin Murphy + [GitHub materials](https://github.com/probml)
 - [Seeing Theory](https://seeing-theory.brown.edu/index.html) - A visual introduction to probability and statistics 💎
+- [Probability Distribution Explorer](https://distribution-explorer.github.io/index.html#) - Explore commonly used probability distributions
 
 > Bayesian Inference
 ![bayesian](mlfluke/notebooks/Bayesian.PNG)
