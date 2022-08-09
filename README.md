@@ -10,10 +10,6 @@ Machine Learning Resources
 - [Mathematics for Machine Learning](https://mml-book.github.io/) - PDF, video and Jupyter Notebooks for introductions to mathematics required for ML
 - [Machine Learning Foundations](https://github.com/jonkrohn/ML-foundations) - Classical Notebooks, Udemy|Youtube course covering Maths and Code by Jon Khrohn
 - [Python Data Science Handbook](https://nbviewer.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb) - Jake VanderPlas
-- [Deep Learning
-for Coders with
-fastai & PyTorch](https://course.fast.ai/Resources/book.html) - Jeremy Howard &
-Sylvain Gugger
 - [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/) - Russell A. Poldrack's GitBook
 - [Probabilistic Machine Learning](https://probml.github.io/pml-book/) - a book series by Kevin Murphy + [GitHub materials](https://github.com/probml)
 - [Seeing Theory](https://seeing-theory.brown.edu/index.html) - A visual introduction to probability and statistics 💎
@@ -28,6 +24,10 @@ Sylvain Gugger
 
 > Deep Learning
 - [Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/) - DS-GA 1008 · Spring 2020 · NYU Center For Data Science
+- [Deep Learning
+for Coders with
+fastai & PyTorch](https://course.fast.ai/Resources/book.html) - Jeremy Howard &
+Sylvain Gugger
 ___
 
 ### [_Sura ya Pili_](https://github.com/Proteusiq/hadithi/tree/main/pipelines) 
