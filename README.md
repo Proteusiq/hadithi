@@ -78,6 +78,25 @@ Useful and useful-less tools
 ___
 
 Becoming a good developer means caring about beautiful coding.
+Dialogues on Programming paradigms with respect to Python, Go and Lua
+
+Project Structure and Practices
+- [Python Packaging User Guide](https://packaging.python.org/en/latest/) - PSF
+- [Good Research](https://goodresearch.dev/index.html) - [Patrick J. Mineault](https://xcorr.net/)
+
+
+Functional 
+  - [# monaid way](https://github.com/cognitedata/Expression) - [monaid in python](https://www.philliams.com/monads-in-python/) - [why and how - Vincent Perez](https://youtu.be/4DZ4vPkuMLk) <br>
+  - [functional programming jargon](https://github.com/jmesyou/functional-programming-jargon.py) <br>
+  - [Awesome Functional Programming](https://github.com/sfermigier/awesome-functional-python) 🙈🙉🙊<br>
+  - [returns](https://github.com/dry-python/returns) - Interesting 📦 and useful articles <br>
+
+Object Oriented 
+  - [SOLID](https://github.com/tuvo1106/python_design_patterns)
+  - [Refactoring](https://refactoring.guru/design-patterns)
+  - [Python Patterns](https://python-patterns.guide/) - Collection of Brandon Rhodes' guide to Design Patterns in Python
+
+
 
 ### Makelele: Noise
 ___
@@ -113,22 +132,4 @@ CI/CD
 
 The gen-X leader lives authentically. S[he] inspires others to live authentically. Living authentically is believing in oneself. It is lifelong learning and applications of skills to accomplish business missions.
 A gen-X leader has a line of sight to revenue (deals, inbound, outbound, people) and charisma for building an epic brand through creative communication and storytelling.
-
-
-
-### Mpishi Mbishi Mchicha Mbichi
-
-Dialogues on Programming paradigms with respect to Python, Go and Lua
-
-Functional 
-  - [# monaid way](https://github.com/cognitedata/Expression) - [monaid in python](https://www.philliams.com/monads-in-python/) - [why and how - Vincent Perez](https://youtu.be/4DZ4vPkuMLk) <br>
-  - [functional programming jargon](https://github.com/jmesyou/functional-programming-jargon.py) <br>
-  - [Awesome Functional Programming](https://github.com/sfermigier/awesome-functional-python) 🙈🙉🙊<br>
-  - [returns](https://github.com/dry-python/returns) - Interesting 📦 and useful articles <br>
-
-Object Oriented 
-  - [SOLID](https://github.com/tuvo1106/python_design_patterns)
-  - [Refactoring](https://refactoring.guru/design-patterns)
-  - [Python Patterns](https://python-patterns.guide/) - Collection of Brandon Rhodes' guide to Design Patterns in Python
-
 
