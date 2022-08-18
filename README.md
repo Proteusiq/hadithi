@@ -11,7 +11,10 @@ Machine Learning Resources
 - [Machine Learning Foundations](https://github.com/jonkrohn/ML-foundations) - Classical Notebooks, Udemy|Youtube course covering Maths and Code by Jon Khrohn
 - [Python Data Science Handbook](https://nbviewer.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb) - Jake VanderPlas
 - [Probability Distribution Explorer](https://distribution-explorer.github.io/index.html#) - Probability distributions and the stories behind
+
+ML Visually
 - [Seeing Theory](https://seeing-theory.brown.edu/index.html) - A visual introduction to probability and statistics 💎
+- [MLU-Expl{ai}n](https://mlu-explain.github.io/) - Visual explanations of core machine learning concepts
 
 > Bayesian Inference
 ![bayesian](mlfluke/notebooks/Bayesian.PNG)
