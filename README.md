@@ -32,6 +32,8 @@ ML Visually
 - [Probabilistic Machine Learning](https://probml.github.io/pml-book/) - a book series by Kevin Murphy + [GitHub materials](https://github.com/probml)
 - [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/) - Russell A. Poldrack's GitBook
 
+> Convex Optimization
+- [EE364A - Convex Optimization I](https://see.stanford.edu/Course/EE364A) & [II](https://see.stanford.edu/Course/EE364B) - Stephen P. Boyd - Stanford University 
 
 > Deep Learning
 - [Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/) - DS-GA 1008 · Spring 2020 · NYU Center For Data Science
