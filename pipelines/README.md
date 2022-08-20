@@ -15,6 +15,7 @@
 ## ML
 * [Flyte](https://github.com/flyteorg/flyte) - 🔋 Beauty though ☁️ deployment is trickier than it should have been
   - [UnionML](https://github.com/unionai-oss/unionml) - Builds on Flyte
+* [Sematic](https://github.com/sematic-ai/sematic) - Prototype-to-production ML in days not weeks
 * [Kedro](https://github.com/kedro-org/kedro)
 * [MLRun](https://github.com/mlrun/mlrun)
 * [orchest](https://github.com/orchest/orchest)
