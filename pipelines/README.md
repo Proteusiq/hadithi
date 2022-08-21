@@ -28,6 +28,7 @@
 * [BentoML](https://github.com/bentoml/BentoML)
 * [cleanML](https://docs.cleanlab.ai/v2.0.0/) - Modeling /w bad data
 * [cortex](https://github.com/cortexlabs/cortex) 
+* [truss](https://github.com/basetenlabs/truss) - Serve any model without boilerplate code 
 
 Deephaven
 * [CML](https://github.com/iterative/cml) - CI/CD for ML
