@@ -10,6 +10,7 @@ Understanding machine learning predictions. What you see is not always what you 
 
 Machine Learning Resources
 - [An Introduction to Statistical Learning](https://www.statlearning.com/) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
+- [Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/course/) - MIT Open Learning Library
 - [CS229 - Machine Learning](https://see.stanford.edu/Course/CS229) - Andrew Ng Stanford University
 - [Mathematics for Machine Learning](https://mml-book.github.io/) - PDF, video and Jupyter Notebooks for introductions to mathematics required for ML
 - [Machine Learning Foundations](https://github.com/jonkrohn/ML-foundations) - Classical Notebooks, Udemy|Youtube course covering Maths and Code by Jon Khrohn
