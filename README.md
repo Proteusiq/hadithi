@@ -35,6 +35,7 @@ ML Visually
 - [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/) - Russell A. Poldrack's GitBook
 
 > Convex Optimization
+- [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) – Boyd and Vandenberghe
 - [EE364A - Convex Optimization I](https://see.stanford.edu/Course/EE364A) & [II](https://see.stanford.edu/Course/EE364B) - Stephen P. Boyd - Stanford University 
 
 > Deep Learning
