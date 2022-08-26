@@ -65,7 +65,7 @@ Project Structure and Practices
 - [Python Packaging User Guide](https://packaging.python.org/en/latest/) - PSF
 - [Good Research](https://goodresearch.dev/index.html) - [Patrick J. Mineault](https://xcorr.net/)
 
-
+---
 Functional 
   - [# monaid way](https://github.com/cognitedata/Expression) - [monaid in python](https://www.philliams.com/monads-in-python/) - [why and how - Vincent Perez](https://youtu.be/4DZ4vPkuMLk) <br>
   - [functional programming jargon](https://github.com/jmesyou/functional-programming-jargon.py) <br>
