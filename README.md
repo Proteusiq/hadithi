@@ -46,6 +46,9 @@ ML Visually
 for Coders with
 fastai & PyTorch](https://course.fast.ai/Resources/book.html) - Jeremy Howard &
 Sylvain Gugger
+
+> Podcasts
+- [Learning Bayesian Statistics](https://podcasts.apple.com/dk/podcast/learning-bayesian-statistics/id1483485062)
 ___
 
 ### [_Sura ya Pili_](https://github.com/Proteusiq/hadithi/tree/main/pipelines) 
