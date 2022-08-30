@@ -49,7 +49,7 @@ Sylvain Gugger
 
 > Podcasts
 - [Learning Bayesian Statistics](https://podcasts.apple.com/dk/podcast/learning-bayesian-statistics/id1483485062)
-- [Linear Digressions](http://lineardigressions.com/) - End 2020
+- [Linear Digressions](http://lineardigressions.com/) -  Host: Katie Malone & Ben Jaffe - Ended 2020
 ___
 
 ### [_Sura ya Pili_](https://github.com/Proteusiq/hadithi/tree/main/pipelines) 
