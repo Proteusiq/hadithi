@@ -19,6 +19,8 @@ Machine Learning Resources
 - [Python Data Science Handbook](https://nbviewer.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb) - Jake VanderPlas
 - [Probability Distribution Explorer](https://distribution-explorer.github.io/index.html#) - Probability distributions and the stories behind
 
+- [Gallery if Distributions](https://www.itl.nist.gov/div898/handbook/eda/section3/eda366.htm) - Handbook of [Statistical Methods](https://www.itl.nist.gov/div898/handbook/)
+
 ML Visually
 - [Seeing Theory](https://seeing-theory.brown.edu/index.html) - A visual introduction to probability and statistics 💎
 - [MLU-Expl{ai}n](https://mlu-explain.github.io/) - Visual explanations of core machine learning concepts
