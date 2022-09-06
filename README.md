@@ -4,7 +4,7 @@
 ![math](mlfluke/notebooks/math.png)
 > mathematically generated 
 
-_Hadithi_ is a Swahili word for story | stories. These are collections of successful and failed project stories, building ML projects that last, design patterns, code testing, and how to navigate in the rapidly changing tech landscape. These stories, sagas and opinions are my own. They neither reflect the companies I have worked or working for, nor should they be taken seriously.
+_Hadithi_ is a Swahili word for story | stories. These are collections of resources, successful and failed project stories, building ML projects that last, design patterns, code testing, and how to navigate in the rapidly changing tech landscape. These stories, sagas and opinions are my own. They neither reflect the companies I have worked or working for, nor should they be taken seriously.
 
 ### [_Sura ya Kwanza_](https://github.com/Proteusiq/hadithi/tree/main/mlfluke)
 Understanding machine learning predictions. What you see is not always what you get 🤖. 
