@@ -33,10 +33,11 @@ ML Visually
 - [Think Bayes](http://allendowney.github.io/ThinkBayes2) - Allen Downey’s classic as Jupyter Book
 - [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html) - Martin Osvaldo A, Kumar Ravin; Lao Junpeng, 2021
 - [Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Probabilistic Programming and Bayesian Inference - DevAuthors
-- [Statistical Rethinking 2019](https://github.com/Booleans/statistical-rethinking/raw/master/Statistical%20Rethinking%202nd%20Edition.pdf) - 👑 [Course Fall 2017](https://youtube.com/playlist?list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc) + [Pre-recorded Lectures 2022](https://www.youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN) - [Material 2022](https://github.com/rmcelreath/stat_rethinking_2022) - [Richard McElreath](https://xcelab.net/rm/)'s lectures from Leipzig University
-- [Bayes Rules!](https://www.bayesrulesbook.com/) - An Introduction to Applied Bayesian Modeling - Alicia A. Johnson, Miles Q. Ott, and  Mine Dogucu
+- [Statistical Rethinking 2019](https://github.com/Booleans/statistical-rethinking/raw/master/Statistical%20Rethinking%202nd%20Edition.pdf) - 👑 [Course Fall 2017](https://youtube.com/playlist?list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc) + [Pre-recorded Lectures 2022](https://www.youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN) - [Material 2022](https://github.com/rmcelreath/stat_rethinking_2022) - [Richard McElreath](https://xcelab.net/rm/)'s lectures from Leipzig University - [PyMC codes](https://github.com/pymc-devs/pymc-resources/tree/main/Rethinking_2)
+- [Bayes Rules!](https://www.bayesrulesbook.com/) - An Introduction to Applied Bayesian Modeling - Alicia A. Johnson, Miles Q. Ott, and  Mine Dogucu - [PyMC codes](https://github.com/pymc-devs/pymc-resources/tree/main/Bayes_Rules)
 - [Probabilistic Machine Learning](https://probml.github.io/pml-book/) - a book series by Kevin Murphy + [GitHub materials](https://github.com/probml)
 - [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/) - Russell A. Poldrack's GitBook
+- [Bayesian Thinking](https://statswithr.github.io/book/) - A Companion to the Statistics with R Course
 
 > Convex Optimization
 - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) – Boyd and Vandenberghe
