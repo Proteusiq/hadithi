@@ -50,6 +50,7 @@ ML Visually
 for Coders with
 fastai & PyTorch](https://course.fast.ai/Resources/book.html) - Jeremy Howard &
 Sylvain Gugger
+- [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) - CS 285 at UC Berkeley
 
 > Podcasts
 - [Learning Bayesian Statistics](https://podcasts.apple.com/dk/podcast/learning-bayesian-statistics/id1483485062)
