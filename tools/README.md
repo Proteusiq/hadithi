@@ -24,6 +24,7 @@ Useful and useful-less tools
   -> [Hummingbird](https://github.com/microsoft/hummingbird) <br>
 
 - Data Annotations <br>
+ - [refinery](https://github.com/code-kern-ai/refinery) - NLP. Combining (semi-)automated labeling
   -> [doccan](https://github.com/doccano/doccano) - text <br>
   -> [label-studio](https://github.com/heartexlabs/label-studio) <br>
   -> [Diffgram](https://github.com/diffgram/diffgram) - Licensed? <br>
