@@ -1,0 +1,16 @@
+# check links availability
+
+name: Links
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    - name: Check links with linkcheck
+      uses: filiph/linkcheck@2.0.23
