@@ -18,7 +18,7 @@ Machine Learning Resources
 - [Machine Learning Foundations](https://github.com/jonkrohn/ML-foundations) - Classical Notebooks, Udemy|Youtube course covering Maths and Code by Jon Khrohn
 - [Python Data Science Handbook](https://nbviewer.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb) - Jake VanderPlas
 - [Probability Distribution Explorer](https://distribution-explorer.github.io/index.html#) - Probability distributions and the stories behind
-
+- [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) - Cambridge PDF - Shai Shalev Shwartz and Ben David
 - [Gallery if Distributions](https://www.itl.nist.gov/div898/handbook/eda/section3/eda366.htm) - Handbook of [Statistical Methods](https://www.itl.nist.gov/div898/handbook/)
 
 ML Visually
