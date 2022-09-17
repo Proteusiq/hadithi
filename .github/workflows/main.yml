@@ -12,5 +12,7 @@ on:
 jobs:
   check:
     runs-on: ubuntu-latest
+
+  steps:
     - name: Check links with linkcheck
       uses: filiph/linkcheck@2.0.23
