@@ -33,3 +33,5 @@ Useful and useful-less tools
   -> [Scalable](https://github.com/scalabel/scalabel) <br>
   --> [fastdup](https://github.com/visualdatabase/fastdup)
 
+- Documents
+   - [Parsr](https://github.com/axa-group/Parsr)
