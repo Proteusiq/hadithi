@@ -1,6 +1,18 @@
 
 name: Check Links Health
-on: [push]
+on:
+  workflow_dispatch:
+    inputs:
+      name:
+        type: choice
+        description: check or not-to-check
+        options: 
+        - scan
+        - chill
+      message:
+        required: true
+      environment:
+        type: environment
 jobs:
   IS-ALIVE-LINK:
     runs-on: ubuntu-latest
