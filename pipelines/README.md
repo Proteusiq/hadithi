@@ -31,7 +31,7 @@
 * [truss](https://github.com/basetenlabs/truss) - Serve any model without boilerplate code 
 
 Deephaven
-* [CML](https://github.com/iterative/cml) - CI/CD for ML
+
 
 
 ### Extras
@@ -43,8 +43,9 @@ Deephaven
 
 ## DV
 * [Git Large Files](https://git-lfs.github.com/)
-* [mlem](https://github.com/iterative/mlem) - Creator of dvc 
-* [dvc](https://github.com/iterative/dvc) - 🤗👑
+* [mlem](https://github.com/iterative/mlem) - Creator of DVC - Version and Deploy ML models 
+* [dvc](https://github.com/iterative/dvc) - 🤗👑 Data Version Control (ML Experiments, Pipelines, Git for data)
+* [CML](https://github.com/iterative/cml) - Crestor og DVC - CI/CD for ML
 * [dolt](https://github.com/dolthub/dolt) - Git for Data
 * [Marquez](https://github.com/MarquezProject/marquez) - Data Lineages 
 * [pypyr](https://github.com/pypyr/pypyr/) - automate shell script
