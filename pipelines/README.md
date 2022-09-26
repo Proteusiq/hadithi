@@ -33,6 +33,7 @@
 Deephaven
 * [CML](https://github.com/iterative/cml) - CI/CD for ML
 
+
 ### Extras
 
 * [feast](https://github.com/feast-dev/feast) - feature storage
@@ -42,7 +43,8 @@ Deephaven
 
 ## DV
 * [Git Large Files](https://git-lfs.github.com/)
-* [mlem](https://github.com/iterative/mlem)
+* [mlem](https://github.com/iterative/mlem) - Creator of dvc 
+* [dvc](https://github.com/iterative/dvc) - 🤗👑
 * [dolt](https://github.com/dolthub/dolt) - Git for Data
 * [Marquez](https://github.com/MarquezProject/marquez) - Data Lineages 
 * [pypyr](https://github.com/pypyr/pypyr/) - automate shell script
