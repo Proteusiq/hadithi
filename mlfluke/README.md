@@ -14,6 +14,7 @@ Let’s code. It easier to show than to explain.
 Exploring how far ML interpretability goes and where classical data mining ⛏ {domain experience} comes in.
 
 As said, code is more worthy than a thousand words.
+[ML Simple](https://github.com/Proteusiq/hadithi/blob/main/mlfluke/notebooks/sentiments.ipynb)
 
 ##### Tools:
 
