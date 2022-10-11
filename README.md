@@ -88,3 +88,6 @@ Object Oriented
   - [SOLID](https://github.com/tuvo1106/python_design_patterns)
   - [Refactoring](https://refactoring.guru/design-patterns)
   - [Python Patterns](https://python-patterns.guide/) - Collection of Brandon Rhodes' guide to Design Patterns in Python
+
+Beyond the 🐍 
+ - [Python >> Rust](https://github.com/rochacbruno/py2rs)
