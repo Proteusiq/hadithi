@@ -91,3 +91,7 @@ Object Oriented
 
 Beyond the 🐍 
  - [Python >> Rust](https://github.com/rochacbruno/py2rs)
+
+Transformers 🤖 
+ - [whisper](https://github.com/openai/whisper) - Speech to text
+ - [Vilt](https://github.com/dandelin/vilt) - Visual and Language Transformer
