@@ -96,3 +96,10 @@ Transformers 🤖
  - [whisper](https://github.com/openai/whisper) - Speech to text
  - [Vilt](https://github.com/dandelin/vilt) - Visual and Language Transformer
  - [MultiNLI](https://joeddav.github.io/blog/2020/05/29/ZSL.html) - zero-shot classification
+
+Must Have Tools
+- [pytest] - pytest-parallel pytest-benchmark
+- [mypy] -
+- [black] -
+- [flake8] - 
+- [linter] - Rust 
