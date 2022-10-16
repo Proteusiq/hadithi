@@ -98,8 +98,7 @@ Transformers 🤖
  - [MultiNLI](https://joeddav.github.io/blog/2020/05/29/ZSL.html) - zero-shot classification
 
 Must Have Tools
+- [pyupgrade]
 - [pytest] - pytest-parallel pytest-benchmark
-- [mypy] -
 - [black] -
-- [flake8] - 
-- [linter] - Rust 
+- [linter] - Rust flake8 mypy
