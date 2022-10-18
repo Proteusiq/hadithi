@@ -99,6 +99,6 @@ Transformers 🤖
 
 Must Have Tools
 - [pyupgrade](https://github.com/asottile/pyupgrade)
-- [pytest] - pytest-parallel pytest-benchmark
+- [pytest](https://github.com/pytest-dev/pytest) - pytest-parallel pytest-benchmark
 - [black] -
 - [linter] - Rust flake8 mypy
