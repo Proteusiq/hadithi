@@ -99,6 +99,6 @@ Transformers 🤖
 
 Must Have Tools
 - [pyupgrade](https://github.com/asottile/pyupgrade)
-- [pytest](https://github.com/pytest-dev/pytest) - pytest-parallel [pytest-benchmark](https://github.com/ionelmc/pytest-benchmark) - [pytest-clarity](https://github.com/darrenburns/pytest-clarity)
+- [pytest](https://github.com/pytest-dev/pytest) - Behavior-driven development[pytest-bdd](https://github.com/pytest-dev/pytest-bdd) - pytest-parallel [pytest-benchmark](https://github.com/ionelmc/pytest-benchmark) - [pytest-clarity](https://github.com/darrenburns/pytest-clarity)
 - [black] -
 - [linter] - Rust flake8 mypy
