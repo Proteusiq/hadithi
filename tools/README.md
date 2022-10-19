@@ -35,3 +35,8 @@ Useful and useful-less tools
 
 - Documents
    - [Parsr](https://github.com/axa-group/Parsr)
+
+- DB
+  - [duckdb](https://duckdb.org/)
+  - [influxdb]
+  - elasticsearch 
