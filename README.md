@@ -91,6 +91,7 @@ Object Oriented
 
 Beyond the 🐍 
  - [Python >> Rust](https://github.com/rochacbruno/py2rs)
+ - [Rust: Gentle Introduction](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 
 Transformers 🤖 
  - [whisper](https://github.com/openai/whisper) - Speech to text
