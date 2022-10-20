@@ -91,6 +91,8 @@ Object Oriented
 
 Beyond the 🐍 
  - [Python >> Rust](https://github.com/rochacbruno/py2rs)
+ - [Rust by Examples](https://doc.rust-lang.org/stable/rust-by-example/)
+ - [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
  - [Rust: Gentle Introduction](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
 
 Transformers 🤖 
