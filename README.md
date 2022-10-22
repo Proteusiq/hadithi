@@ -90,6 +90,7 @@ Object Oriented
   - [Python Patterns](https://python-patterns.guide/) - Collection of Brandon Rhodes' guide to Design Patterns in Python
 
 Beyond the 🐍 
+ - [C++ for Pythonista](https://cs.berea.edu//cpp4python/index.html#)
  - [Python >> Rust](https://github.com/rochacbruno/py2rs)
  - [PyO3](https://github.com/PyO3/pyo3)
  - [Rust by Examples](https://doc.rust-lang.org/stable/rust-by-example/)
