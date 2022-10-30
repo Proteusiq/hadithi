@@ -96,6 +96,7 @@ Beyond the 🐍
  - [Rust by Examples](https://doc.rust-lang.org/stable/rust-by-example/)
  - [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
  - [Rust: Gentle Introduction](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
+ - [Lua](https://www.lua.org/pil/contents.html)
 
 Transformers 🤖 
  - [whisper](https://github.com/openai/whisper) - Speech to text
