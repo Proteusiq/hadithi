@@ -5,6 +5,7 @@
 * [Dagster](https://github.com/dagster-io/dagster) - 👑 Beautiful UI and CLI that enforces good design 🐙🤗: Brilliant coding experience and concepts: my take [advance scraping](https://github.com/Proteusiq/advance_scraping)
 * [Prefect](https://github.com/PrefectHQ/prefect) - 🙈🎮 Less control on server UI 
 * [Airflow](https://github.com/apache/airflow) - Doing it well is hard! Powerful, yes. Tested, yes. Three instances 😒 
+* [MageAI](https://github.com/mage-ai/mage-ai) - Tries to replace Airflow 
 * [Luigi](https://github.com/spotify/luigi) - 👴🏾🧓🏾 UI is lagging.
 * [ploomber](https://github.com/ploomber/ploomber) - Pipelines from Notebook 🤷🏿‍♂️
 * [Couler](https://github.com/couler-proj/couler) - One ring to unite them (Argo | Tekton | Airflow) 💍
