@@ -81,6 +81,9 @@ Deephaven
 * [Eland](https://github.com/elastic/eland) - ML in Elasticsearch
 * [MindsDB](https://github.com/mindsdb/mindsdb) - Database agnostic ML without data migration 
 
+# Extra:
+
+[compress models](https://github.com/VoltaML/voltaML)
 
 # 🦄 ML Pipeline
     (Airbytes - dbt) - [Dagster] - [cleanML] + {Neural Network Intelligence - Features | Feast} - [FastAPI] ->
