@@ -104,7 +104,8 @@ Transformers 🤖
  - [MultiNLI](https://joeddav.github.io/blog/2020/05/29/ZSL.html) - zero-shot classification
 
 Must Have Tools
-- [pyupgrade](https://github.com/asottile/pyupgrade)
+- [pyupgrade](https://github.com/asottile/pyupgrade) - Upgrade Syntax 
+- [refurb](https://github.com/dosisod/refurb) - Refactor with suggestions 
 - [pytest](https://github.com/pytest-dev/pytest) - Behavior-driven development[pytest-bdd](https://github.com/pytest-dev/pytest-bdd) - pytest-parallel [pytest-benchmark](https://github.com/ionelmc/pytest-benchmark) - [pytest-clarity](https://github.com/darrenburns/pytest-clarity)
 - [black](https://github.com/psf/black) -
 - [linter] - Rust [flake8](https://github.com/PyCQA/flake8) [mypy](https://github.com/python/mypy) - [bandit](https://github.com/PyCQA/bandit)
