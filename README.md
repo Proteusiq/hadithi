@@ -103,7 +103,7 @@ Transformers 🤖
  - [Vilt](https://github.com/dandelin/vilt) - Visual and Language Transformer
  - [MultiNLI](https://joeddav.github.io/blog/2020/05/29/ZSL.html) - zero-shot classification
  - [Monocular Depth Estimation](https://huggingface.co/spaces/keras-io/Monocular-Depth-Estimation)
- - [SuperGlue Image Matching)](https://huggingface.co/spaces/Pinwheel/SuperGlue-Image-Matching)
+ - [SuperGlue Image Matching](https://huggingface.co/spaces/Pinwheel/SuperGlue-Image-Matching)
  
 
 Must Have Tools
