@@ -101,6 +101,7 @@ Beyond the 🐍
 Transformers 🤖 
  - [whisper](https://github.com/openai/whisper) - Speech to text
  - [Vilt](https://github.com/dandelin/vilt) - Visual and Language Transformer
+ - [Remove | Replace Image](https://github.com/Sanster/lama-cleaner) - Lama Cleaner
  - [MultiNLI](https://joeddav.github.io/blog/2020/05/29/ZSL.html) - zero-shot classification
  - [Monocular Depth Estimation](https://huggingface.co/spaces/keras-io/Monocular-Depth-Estimation)
  - [SuperGlue Image Matching](https://huggingface.co/spaces/Pinwheel/SuperGlue-Image-Matching)
