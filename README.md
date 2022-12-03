@@ -71,7 +71,8 @@ What about time series analysis? A tour of Python time series analysis packages 
 ___
 
 Becoming a good developer means caring about beautiful coding.
-Dialogues on Programming paradigms with respect to Python, Go and Lua
+Dialogues on Programming paradigms with respect to Python, Rust, Go and Lua
+Resources [Professionals Programming](https://github.com/charlax/professional-programming)
 
 Project Structure and Practices
 - [Python Packaging User Guide](https://packaging.python.org/en/latest/) - PSF
