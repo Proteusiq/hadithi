@@ -39,4 +39,7 @@ Useful and useful-less tools
 - DB
   - [duckdb](https://duckdb.org/)
   - [influxdb]
-  - elasticsearch 
+  - elasticsearch
+
+- ML
+  - [mlens](https://github.com/flennerhag/mlens) - Ensemble Scikit-Learn models
