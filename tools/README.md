@@ -43,3 +43,4 @@ Useful and useful-less tools
 
 - ML
   - [mlens](https://github.com/flennerhag/mlens) - Ensemble Scikit-Learn models
+  - [autogluon](https://github.com/autogluon/autogluon) - Auto ML
