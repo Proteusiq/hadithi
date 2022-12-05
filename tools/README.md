@@ -46,3 +46,4 @@ Useful and useful-less tools
   - [hummingbird](https://github.com/microsoft/hummingbird) - ML compile models to Tensor
   - [mlens](https://github.com/flennerhag/mlens) - Ensemble Scikit-Learn models
   - [autogluon](https://github.com/autogluon/autogluon) - Auto ML
+  - [auto-sklearn](https://github.com/automl/auto-sklearn)
