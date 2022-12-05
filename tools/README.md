@@ -42,5 +42,7 @@ Useful and useful-less tools
   - elasticsearch
 
 - ML
+  - [flaml](https://github.com/microsoft/FLAML) - fast library for AutoML and tuning.
+  - [hummingbird](https://github.com/microsoft/hummingbird) - ML compile models to Tensor
   - [mlens](https://github.com/flennerhag/mlens) - Ensemble Scikit-Learn models
   - [autogluon](https://github.com/autogluon/autogluon) - Auto ML
