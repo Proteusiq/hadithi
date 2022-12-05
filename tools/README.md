@@ -48,3 +48,4 @@ Useful and useful-less tools
   - [autogluon](https://github.com/autogluon/autogluon) - Auto ML
   - [auto-sklearn](https://github.com/automl/auto-sklearn)
   - [TPOT](https://github.com/EpistasisLab/tpot) - slow ...
+  - [mljar-supervised](https://github.com/mljar/mljar-supervised)
