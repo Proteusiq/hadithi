@@ -49,3 +49,4 @@ Useful and useful-less tools
   - [auto-sklearn](https://github.com/automl/auto-sklearn)
   - [TPOT](https://github.com/EpistasisLab/tpot) - slow ...
   - [mljar-supervised](https://github.com/mljar/mljar-supervised)
+  - [modAL](https://github.com/modAL-python/modAL) - A modular active learning framework for Python
