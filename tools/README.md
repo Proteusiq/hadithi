@@ -47,3 +47,4 @@ Useful and useful-less tools
   - [mlens](https://github.com/flennerhag/mlens) - Ensemble Scikit-Learn models
   - [autogluon](https://github.com/autogluon/autogluon) - Auto ML
   - [auto-sklearn](https://github.com/automl/auto-sklearn)
+  - [TPOT](https://github.com/EpistasisLab/tpot) - slow ...
