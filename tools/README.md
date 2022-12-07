@@ -53,4 +53,5 @@ Useful and useful-less tools
   - [Neuraxle](https://github.com/Neuraxio/Neuraxle) - Code Machine Learning Pipelines - The Right Way.
 
   Features
+  - [scikit-lego](https://github.com/koaning/scikit-lego)
     - [feature tools](https://feature-engine.readthedocs.io/en/latest/index.html) - Extra preprocessing scikit-learn tools
