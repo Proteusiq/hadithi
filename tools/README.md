@@ -57,4 +57,8 @@ Useful and useful-less tools
   - [scikit-lego](https://github.com/koaning/scikit-lego)
   
   Features
+
   - [feature tools](https://feature-engine.readthedocs.io/en/latest/index.html) - Extra preprocessing scikit-learn tools
+
+  Optimisation:
+     - [Hyperactive](https://github.com/SimonBlanke/Hyperactive)
