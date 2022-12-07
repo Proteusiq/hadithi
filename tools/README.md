@@ -53,6 +53,7 @@ Useful and useful-less tools
   - [Neuraxle](https://github.com/Neuraxio/Neuraxle) - Code Machine Learning Pipelines - The Right Way.
 
   Build
+  - [jina finetuner](https://github.com/jina-ai/finetuner)
   - [finetune](https://github.com/IndicoDataSolutions/finetune) - Tune NLP
   - [scikit-lego](https://github.com/koaning/scikit-lego)
   
