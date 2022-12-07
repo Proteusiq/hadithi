@@ -50,3 +50,6 @@ Useful and useful-less tools
   - [TPOT](https://github.com/EpistasisLab/tpot) - slow ...
   - [mljar-supervised](https://github.com/mljar/mljar-supervised)
   - [modAL](https://github.com/modAL-python/modAL) - A modular active learning framework for Python
+
+  Features
+    - [feature tools](https://feature-engine.readthedocs.io/en/latest/index.html) - Extra preprocessing scikit-learn tools
