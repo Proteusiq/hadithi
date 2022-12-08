@@ -56,7 +56,7 @@ Useful and useful-less tools
   - [jina finetuner](https://github.com/jina-ai/finetuner)
   - [finetune](https://github.com/IndicoDataSolutions/finetune) - Tune NLP
   - [scikit-lego](https://github.com/koaning/scikit-lego)
-  
+  - [scikit-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas)
   Features
 
   - [feature tools](https://feature-engine.readthedocs.io/en/latest/index.html) - Extra preprocessing scikit-learn tools
