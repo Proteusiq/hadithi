@@ -63,3 +63,7 @@ Useful and useful-less tools
 
   Optimisation:
      - [Hyperactive](https://github.com/SimonBlanke/Hyperactive)
+
+  Monitoring
+     - [evidently](https://github.com/evidentlyai/evidently)
+  
