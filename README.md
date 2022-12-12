@@ -107,7 +107,7 @@ Transformers 🤖
  - [MultiNLI](https://joeddav.github.io/blog/2020/05/29/ZSL.html) - zero-shot classification
  - [Monocular Depth Estimation](https://huggingface.co/spaces/keras-io/Monocular-Depth-Estimation)
  - [SuperGlue Image Matching](https://huggingface.co/spaces/Pinwheel/SuperGlue-Image-Matching)
- - [Diffusers](https://github.com/huggingface/diffusers)
+ - [Diffusers](https://github.com/huggingface/diffusers) - [voltaML](https://github.com/VoltaML/voltaML-fast-stable-diffusion)
 
 Must Have Tools
 - [pyupgrade](https://github.com/asottile/pyupgrade) - Upgrade Syntax 
