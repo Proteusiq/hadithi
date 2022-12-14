@@ -66,4 +66,6 @@ Useful and useful-less tools
 
   Monitoring
      - [evidently](https://github.com/evidentlyai/evidently)
+
+  Flask GUI + AutoML -> [xcessiv](https://github.com/reiinakano/xcessiv)
   
