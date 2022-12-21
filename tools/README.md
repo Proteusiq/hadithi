@@ -57,6 +57,7 @@ Useful and useful-less tools
   - [finetune](https://github.com/IndicoDataSolutions/finetune) - Tune NLP
   - [scikit-lego](https://github.com/koaning/scikit-lego)
   - [scikit-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas)
+  - [DESlib](https://github.com/scikit-learn-contrib/DESlib) - disassembled models
   Features
 
   - [feature tools](https://feature-engine.readthedocs.io/en/latest/index.html) - Extra preprocessing scikit-learn tools
