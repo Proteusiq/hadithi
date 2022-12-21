@@ -51,6 +51,7 @@ Useful and useful-less tools
   - [mljar-supervised](https://github.com/mljar/mljar-supervised)
   - [modAL](https://github.com/modAL-python/modAL) - A modular active learning framework for Python
   - [Neuraxle](https://github.com/Neuraxio/Neuraxle) - Code Machine Learning Pipelines - The Right Way.
+  - [HyperGBM](https://github.com/DataCanvasIO/HyperGBM) - AutoML
 
   Build
   - [jina finetuner](https://github.com/jina-ai/finetuner)
