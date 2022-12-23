@@ -59,6 +59,8 @@ Useful and useful-less tools
   - [scikit-lego](https://github.com/koaning/scikit-lego)
   - [scikit-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas)
   - [DESlib](https://github.com/scikit-learn-contrib/DESlib) - dynamic classifier and ensemble selectioand disassembled models
+  - [skypilot](https://github.com/skypilot-org/skypilot?) - train model cross cloud ⛅️ services 
+ 
   Features
 
   - [feature tools](https://feature-engine.readthedocs.io/en/latest/index.html) - Extra preprocessing scikit-learn tools
