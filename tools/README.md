@@ -41,6 +41,9 @@ Useful and useful-less tools
   - [influxdb]
   - elasticsearch
 
+- EDA
+  - [HiPlot](https://facebookresearch.github.io/hiplot)
+
 - ML
   - [flaml](https://github.com/microsoft/FLAML) - fast library for AutoML and tuning.
   - [hummingbird](https://github.com/microsoft/hummingbird) - ML compile models to Tensor
