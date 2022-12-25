@@ -101,7 +101,7 @@ Beyond the 🐍
  - [Lua](https://www.lua.org/pil/contents.html) - Beautifully minimalistic language
 
 Transformers 🤖 
-  - [Understanding Transformers](https://huggingface.co/course) - 🤗 courses 
+ - [Understanding Transformers](https://huggingface.co/course) - 🤗 courses 
  - [whisper](https://github.com/openai/whisper) - Speech to text
  - [Vilt](https://github.com/dandelin/vilt) - Visual and Language Transformer
  - [Remove | Replace Image](https://github.com/Sanster/lama-cleaner) - Lama Cleaner
@@ -111,6 +111,7 @@ Transformers 🤖
  - [Diffusers](https://github.com/huggingface/diffusers) - [voltaML](https://github.com/VoltaML/voltaML-fast-stable-diffusion)
 
 Must Have Tools
+
 - [pyupgrade](https://github.com/asottile/pyupgrade) - Upgrade Syntax 
 - [refurb](https://github.com/dosisod/refurb) - Refactor with suggestions 
 - [rope](https://github.com/python-rope/rope) - Refactoring
@@ -119,3 +120,7 @@ Must Have Tools
 - [vulture](https://github.com/jendrikseipp/vulture) - Find dead 💀 code.
 - [linter] - [ruff](https://github.com/charliermarsh/ruff) faster Rust-fy linter [flake8](https://github.com/PyCQA/flake8) [mypy](https://github.com/python/mypy) - [bandit](https://github.com/PyCQA/bandit)
 - [shed](https://github.com/Zac-HD/shed) - all above 
+
+Optional:
+  - pyenv
+  - poetry - plugins [polylith](https://github.com/DavidVujic/python-polylith)
