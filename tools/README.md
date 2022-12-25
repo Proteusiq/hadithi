@@ -45,6 +45,8 @@ Useful and useful-less tools
   - [HiPlot](https://facebookresearch.github.io/hiplot)
 
 - ML
+  - [scikit-learn](https://github.com/scikit-learn/scikit-learn) - Python 🐍 ML
+  - [linfa](https://github.com/rust-ml/linfa) - Rust 🦀 ML
   - [flaml](https://github.com/microsoft/FLAML) - fast library for AutoML and tuning.
   - [hummingbird](https://github.com/microsoft/hummingbird) - ML compile models to Tensor
   - [mlens](https://github.com/flennerhag/mlens) - Ensemble Scikit-Learn models
@@ -55,6 +57,7 @@ Useful and useful-less tools
   - [modAL](https://github.com/modAL-python/modAL) - A modular active learning framework for Python
   - [Neuraxle](https://github.com/Neuraxio/Neuraxle) - Code Machine Learning Pipelines - The Right Way.
   - [HyperGBM](https://github.com/DataCanvasIO/HyperGBM) - AutoML
+
 
   Build
   - [jina finetuner](https://github.com/jina-ai/finetuner)
