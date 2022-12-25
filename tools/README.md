@@ -64,6 +64,7 @@ Useful and useful-less tools
   - [finetune](https://github.com/IndicoDataSolutions/finetune) - Tune NLP
   - [scikit-lego](https://github.com/koaning/scikit-lego)
   - [scikit-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas)
+  - [skope](https://github.com/scikit-learn-contrib/skope-rules) - scikit rules
   - [DESlib](https://github.com/scikit-learn-contrib/DESlib) - dynamic classifier and ensemble selectioand disassembled models
   - [skypilot](https://github.com/skypilot-org/skypilot?) - train model cross cloud ⛅️ services 
  
