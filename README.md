@@ -122,5 +122,5 @@ Must Have Tools
 - [shed](https://github.com/Zac-HD/shed) - all above 
 
 Optional:
-  - pyenv
-  - poetry - plugins [polylith](https://github.com/DavidVujic/python-polylith)
+  - [pyenv](https://github.com/pyenv/pyenv)
+  - [poetry](https://github.com/python-poetry/poetry) - plugins [polylith](https://github.com/DavidVujic/python-polylith)
