@@ -125,3 +125,4 @@ Must Have Tools
 Optional:
   - [pyenv](https://github.com/pyenv/pyenv)
   - [poetry](https://github.com/python-poetry/poetry) - plugins [polylith](https://github.com/DavidVujic/python-polylith)
+  - [hyperfine](https://github.com/sharkdp/hyperfine) - benchmarking tool 🔨 made of 🦀 
