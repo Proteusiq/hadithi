@@ -110,6 +110,7 @@ Transformers 🤖
  - [SuperGlue Image Matching](https://huggingface.co/spaces/Pinwheel/SuperGlue-Image-Matching)
  - [Diffusers](https://github.com/huggingface/diffusers) - [voltaML](https://github.com/VoltaML/voltaML-fast-stable-diffusion)
  - [Large Language Models](https://github.com/hwchase17/langchain) - langchain is LEGO bricks to large models e.g. OpenAI
+ - [GODEL](https://github.com/microsoft/GODEL) - [demo](httpsf://huggingface.co/spaces/microsoft/GODEL-Demo)
 
 Must Have Tools
 
