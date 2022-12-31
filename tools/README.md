@@ -12,6 +12,9 @@ Useful and useful-less tools
  -[mediapipe](https://github.com/google/mediapipe) - 😻 Customizable computer vision models by Google.
  -[mmpose](https://github.com/open-mmlab/mmpose) - SOTA for Pose Estimation - [mmengine](https://github.com/open-mmlab/mmengine)
 
+- Image
+  - [insightface](https://github.com/deepinsight/insightface)
+
 - Text <br>
   -[spaCy](https://github.com/explosion/spaCy) <br>
   -[Gensim](https://github.com/RaRe-Technologies/gensim) <br>
