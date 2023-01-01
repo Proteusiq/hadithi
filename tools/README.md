@@ -36,9 +36,10 @@ Useful and useful-less tools
   - [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) <br> 
   - [CVAT](https://github.com/openvinotoolkit/cvat) - Computer Vision Annotation Tool <br>
   - [FiftOne](https://github.com/voxel51/fiftyone) - Label and find mistakes 😻 UI <br>
+  - [kangas](https://github.com/comet-ml/kangas) <br> 🦘 Explore multimedia datasets 
   - [Scalable](https://github.com/scalabel/scalabel) <br>
   - [fastdup](https://github.com/visualdatabase/fastdup)
-
+ 
 - Documents
    - [Parsr](https://github.com/axa-group/Parsr)
 
