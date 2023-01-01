@@ -64,6 +64,7 @@ Useful and useful-less tools
   - [modAL](https://github.com/modAL-python/modAL) - A modular active learning framework for Python
   - [Neuraxle](https://github.com/Neuraxio/Neuraxle) - Code Machine Learning Pipelines - The Right Way.
   - [HyperGBM](https://github.com/DataCanvasIO/HyperGBM) - AutoML
+  - [poniard](https://github.com/rxavier/poniard) - AutoML -> Cross Validation?
 
 
   Build
