@@ -29,12 +29,13 @@ Useful and useful-less tools
   -[Hummingbird](https://github.com/microsoft/hummingbird) - [voltaML](https://github.com/VoltaML/voltaML) <br>
 
 - Data Annotations <br>
- - [refinery](https://github.com/code-kern-ai/refinery) - NLP. Combining (semi-)automated labeling > [bricks](https://github.com/code-kern-ai/bricks)
+  - [refinery](https://github.com/code-kern-ai/refinery) - NLP. Combining (semi-)automated labeling > [bricks](https://github.com/code-kern-ai/bricks)
   - [doccan](https://github.com/doccano/doccano) - text <br>
   - [label-studio](https://github.com/heartexlabs/label-studio) <br>
   - [Diffgram](https://github.com/diffgram/diffgram) - Licensed? <br>
   - [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) <br> 
   - [CVAT](https://github.com/openvinotoolkit/cvat) - Computer Vision Annotation Tool <br>
+  - [FiftOne](https://github.com/voxel51/fiftyone) - Label and find mistakes 😻 UI <br>
   - [Scalable](https://github.com/scalabel/scalabel) <br>
   - [fastdup](https://github.com/visualdatabase/fastdup)
 
