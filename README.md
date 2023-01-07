@@ -85,6 +85,7 @@ Functional
   - [functional programming jargon](https://github.com/jmesyou/functional-programming-jargon.py) <br>
   - [Awesome Functional Programming](https://github.com/sfermigier/awesome-functional-python) 🙈🙉🙊<br>
   - [returns](https://github.com/dry-python/returns) - Interesting 📦 and useful articles <br>
+  - [fp-core](https://github.com/JasonShin/fp-core.rs) 🦀 functional programming 
 
 Object Oriented 
   - [SOLID](https://github.com/tuvo1106/python_design_patterns)
