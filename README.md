@@ -97,7 +97,7 @@ Beyond the 🐍
  - [Python >> Rust](https://github.com/rochacbruno/py2rs)
  - [PyO3](https://github.com/PyO3/pyo3)
  - [Rust by Examples](https://doc.rust-lang.org/stable/rust-by-example/) - [Idiomatic Rust](https://rust-unofficial.github.io/patterns/intro.html)
- - [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
+ - [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html) - [🐞 interactive w/ QA](https://rust-book.cs.brown.edu)
  - [Rust: Gentle Introduction](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
  - [Lua](https://www.lua.org/pil/contents.html) - Beautifully minimalistic language
 
