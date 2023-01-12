@@ -24,6 +24,7 @@ Machine Learning Resources
 - [mlcourse.ai](https://mlcourse.ai/book/index.html) - Open Machine Learning Course
 
 ML Visually
+- [Illustrated ML](https://illustrated-machine-learning.github.io/) - 👑
 - [Seeing Theory](https://seeing-theory.brown.edu/index.html) - A visual introduction to probability and statistics 💎
 - [MLU-Expl{ai}n](https://mlu-explain.github.io/) - Visual explanations of core machine learning concepts
 - [Distill](https://distill.pub/) - Machine Learning Research Should Be Clear, Dynamic and Vivid
