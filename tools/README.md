@@ -46,8 +46,8 @@ Useful and useful-less tools
 
 - DB
   - [duckdb](https://duckdb.org/)
-  - [influxdb]
-  - elasticsearch
+  - [influxdb](https://github.com/influxdata/influxdb)
+  - [elasticsearch](https://github.com/elastic/elasticsearch)
 
 - EDA
   - [HiPlot](https://facebookresearch.github.io/hiplot)
