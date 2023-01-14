@@ -86,11 +86,13 @@ Useful and useful-less tools
 
   Monitoring
      - [evidently](https://github.com/evidentlyai/evidently)
+  
   Web Scraping 
      - [httpx](https://github.com/projectdiscovery/httpx) - Better Request
      - [parsel](https://github.com/scrapy/parsel) - Better BeautifulSoup
      - [jmespath](https://github.com/jmespath/jmespath.py) - Query JSON like a 🥷
-     
+  Tools in action @ [Scrapfly](https://scrapfly.io/blog/parse-json-jmespath-python/)
+  
 
   Flask GUI + AutoML -> [xcessiv](https://github.com/reiinakano/xcessiv)
   
