@@ -88,6 +88,7 @@ Useful and useful-less tools
      - [evidently](https://github.com/evidentlyai/evidently)
   
   Web Scraping 
+     - [mitmproxy](https://mitmproxy.org/) - monitoring and reverse engineering web traffic 
      - [httpx](https://github.com/projectdiscovery/httpx) - Better Request
      - [parsel](https://github.com/scrapy/parsel) - Better BeautifulSoup
      - [jmespath](https://github.com/jmespath/jmespath.py) - Query JSON like a 🥷
