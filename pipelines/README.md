@@ -26,7 +26,7 @@
 * [MLFlow](https://github.com/mlflow/mlflow)
 * [Seldon](https://github.com/SeldonIO/seldon-core) - Seldon is all ML too
 * [bodywork](https://bodywork.readthedocs.io/en/latest/#what-problems-does-bodywork-solve)
-* [BentoML](https://github.com/bentoml/BentoML)
+* [BentoML](https://github.com/bentoml/BentoML) - 🥷🎁 running FastAPI-like inference with model artefacts 
 * [cleanML](https://docs.cleanlab.ai/v2.0.0/) - Modeling /w bad data
 * [cortex](https://github.com/cortexlabs/cortex) 
 * [truss](https://github.com/basetenlabs/truss) - Serve any model without boilerplate code 
