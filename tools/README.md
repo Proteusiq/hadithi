@@ -66,6 +66,7 @@ Useful and useful-less tools
   - [Neuraxle](https://github.com/Neuraxio/Neuraxle) - Code Machine Learning Pipelines - The Right Way.
   - [HyperGBM](https://github.com/DataCanvasIO/HyperGBM) - AutoML
   - [poniard](https://github.com/rxavier/poniard) - AutoML -> Cross Validation?
+  - [autogluon](https://github.com/autogluon/autogluon) - AutoML {Image, Text, Time Series, Tabular Data} with ⌛ limit
 
 
   Build
