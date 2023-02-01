@@ -57,7 +57,6 @@ Useful and useful-less tools
   - [linfa](https://github.com/rust-ml/linfa) - Rust 🦀 ML
   - [flaml](https://github.com/microsoft/FLAML) - fast library for AutoML and tuning.
   - [hummingbird](https://github.com/microsoft/hummingbird) - ML compile models to Tensor
-  - [mlens](https://github.com/flennerhag/mlens) - Ensemble Scikit-Learn models
   - [autogluon](https://github.com/autogluon/autogluon) - Auto ML
   - [auto-sklearn](https://github.com/automl/auto-sklearn)
   - [TPOT](https://github.com/EpistasisLab/tpot) - slow ...
@@ -74,9 +73,12 @@ Useful and useful-less tools
   - [finetune](https://github.com/IndicoDataSolutions/finetune) - Tune NLP
   - [scikit-lego](https://github.com/koaning/scikit-lego)
   - [scikit-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas)
+  - [xcessiv](https://github.com/reiinakano/xcessiv) - Ensembling, stacking and hyperparameter with React UI
+  - [mlens](https://github.com/flennerhag/mlens) - Ensemble Scikit-Learn models
   - [skope](https://github.com/scikit-learn-contrib/skope-rules) - scikit rules
   - [DESlib](https://github.com/scikit-learn-contrib/DESlib) - dynamic classifier and ensemble selectioand disassembled models
   - [skypilot](https://github.com/skypilot-org/skypilot?) -  🏡 model training cross cloud ⛅️ services 
+  - [less](https://github.com/sibirbil/LESS) - Learning with Subset Stacking -> Learn Code
  
   Features
 
