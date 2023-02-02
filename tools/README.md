@@ -54,7 +54,7 @@ Useful and useful-less tools
 
 - ML
   - [scikit-learn](https://github.com/scikit-learn/scikit-learn) - Python 🐍 ML
-  - [linfa](https://github.com/rust-ml/linfa) - Rust 🦀 ML
+  - [linfa](https://github.com/rust-ml/linfa) - Rust 🦀 ML [burn](https://github.com/burn-rs/burn) - Tensor Rust
   - [flaml](https://github.com/microsoft/FLAML) - fast library for AutoML and tuning.
   - [hummingbird](https://github.com/microsoft/hummingbird) - ML compile models to Tensor
   - [autogluon](https://github.com/autogluon/autogluon) - Auto ML
