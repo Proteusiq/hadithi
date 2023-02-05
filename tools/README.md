@@ -89,6 +89,7 @@ Useful and useful-less tools
 
   Monitoring
      - [evidently](https://github.com/evidentlyai/evidently)
+     - [deepcheck](https://github.com/deepchecks/deepchecks)
      - [nannyml](https://github.com/NannyML/nannyml) - Drift
      - [Uptrain)(https://github.com/uptrain-ai/uptrain)
   
