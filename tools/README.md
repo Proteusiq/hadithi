@@ -90,6 +90,8 @@ Useful and useful-less tools
   Monitoring
      - [evidently](https://github.com/evidentlyai/evidently)
      - [nannyml](https://github.com/NannyML/nannyml) - Drift
+     - [Uptrain)(https://github.com/uptrain-ai/uptrain)
+  
   Web Scraping 
      - [mitmproxy](https://mitmproxy.org/) - monitoring and reverse engineering web traffic 
      - [httpx](https://github.com/projectdiscovery/httpx) - Better Request
