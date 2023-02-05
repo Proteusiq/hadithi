@@ -117,6 +117,7 @@ Transformers 🤖
  - [Large Language Models](https://github.com/hwchase17/langchain) - langchain is LEGO bricks to large models e.g. OpenAI
  - [GODEL](https://github.com/microsoft/GODEL) - [demo](https://huggingface.co/spaces/microsoft/GODEL-Demo)
  - [SymbolicAI](https://github.com/Xpitfire/symbolicai)
+ - [imaginAIry](https://github.com/brycedrennan/imaginAIry)
 
 Must Have Tools
 
