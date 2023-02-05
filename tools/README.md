@@ -95,6 +95,7 @@ Useful and useful-less tools
      - [httpx](https://github.com/projectdiscovery/httpx) - Better Request
      - [parsel](https://github.com/scrapy/parsel) - Better BeautifulSoup
      - [jmespath](https://github.com/jmespath/jmespath.py) - Query JSON like a 🥷
+     - [benedict](https://github.com/fabiocaccamo/python-benedict) -Query different files
   Tools in action @ [Scrapfly](https://scrapfly.io/blog/parse-json-jmespath-python/)
   
 
