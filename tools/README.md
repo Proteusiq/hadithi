@@ -94,12 +94,13 @@ Useful and useful-less tools
      - [nannyml](https://github.com/NannyML/nannyml) - Drift
      - [Uptrain)(https://github.com/uptrain-ai/uptrain)
   
-  Web Scraping 
+  Data | Web Scraping 
      - [mitmproxy](https://mitmproxy.org/) - monitoring and reverse engineering web traffic 
      - [httpx](https://github.com/projectdiscovery/httpx) - Better Request
      - [parsel](https://github.com/scrapy/parsel) - Better BeautifulSoup
      - [jmespath](https://github.com/jmespath/jmespath.py) - Query JSON like a 🥷
      - [glom](https://github.com/mahmoud/glom) - Like jmespath + CLI
+     - [pampy](https://github.com/santinic/pampy) - Pattern matching for Python 🤟
      - [benedict](https://github.com/fabiocaccamo/python-benedict) -Query different files
   Tools in action @ [Scrapfly](https://scrapfly.io/blog/parse-json-jmespath-python/)
   
