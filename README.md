@@ -82,6 +82,8 @@ Project Structure and Practices
 - [Python Packaging User Guide](https://packaging.python.org/en/latest/) - PSF
 - [Good Research](https://goodresearch.dev/index.html) - [Patrick J. Mineault](https://xcorr.net/)
 
+Everything Python 🐍 for Developers
+- [Tiny Python](https://github.com/mattharrison/Tiny-Python-3.9-Notebook/blob/master/python39.rst) - Everything needed to get started with Python
 ---
 Functional 
   - [# monaid way](https://github.com/cognitedata/Expression) - [monaid in python](https://www.philliams.com/monads-in-python/) - [why and how - Vincent Perez](https://youtu.be/4DZ4vPkuMLk) <br>
