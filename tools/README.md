@@ -71,6 +71,7 @@ Useful and useful-less tools
   - [jina finetuner](https://github.com/jina-ai/finetuner)
   - [finetune](https://github.com/IndicoDataSolutions/finetune) - Tune NLP
   - [scikit-lego](https://github.com/koaning/scikit-lego)
+  - [imodels](https://github.com/csinva/imodels) - Interpretable 🛄 ML package 
   - [scikit-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas)
   - [xcessiv](https://github.com/reiinakano/xcessiv) - Ensembling, stacking and hyperparameter with React UI
   - [mlens](https://github.com/flennerhag/mlens) - Ensemble Scikit-Learn models
