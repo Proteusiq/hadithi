@@ -57,7 +57,6 @@ Useful and useful-less tools
   - [linfa](https://github.com/rust-ml/linfa) - Rust 🦀 ML [burn](https://github.com/burn-rs/burn) - Tensor Rust
   - [flaml](https://github.com/microsoft/FLAML) - fast library for AutoML and tuning.
   - [hummingbird](https://github.com/microsoft/hummingbird) - ML compile models to Tensor
-  - [autogluon](https://github.com/autogluon/autogluon) - Auto ML
   - [auto-sklearn](https://github.com/automl/auto-sklearn)
   - [TPOT](https://github.com/EpistasisLab/tpot) - slow ...
   - [mljar-supervised](https://github.com/mljar/mljar-supervised)
@@ -65,7 +64,7 @@ Useful and useful-less tools
   - [Neuraxle](https://github.com/Neuraxio/Neuraxle) - Code Machine Learning Pipelines - The Right Way.
   - [HyperGBM](https://github.com/DataCanvasIO/HyperGBM) - AutoML
   - [poniard](https://github.com/rxavier/poniard) - AutoML -> Cross Validation?
-  - [autogluon](https://github.com/autogluon/autogluon) - AutoML {Image, Text, Time Series, Tabular Data} with ⌛ limit
+  - [autogluon](https://github.com/autogluon/autogluon) - AutoML {Image, Text, Time Series, Tabular Data} with ⌛ limits. Also works with [🤟 imodels](https://auto.gluon.ai/dev/tutorials/tabular_prediction/tabular-interpretability.html)
 
 
   Build
