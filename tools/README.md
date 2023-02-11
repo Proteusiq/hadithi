@@ -27,6 +27,8 @@ Useful and useful-less tools
   - [Transformers](https://github.com/huggingface/transformers)
   - [flair](https://github.com/flairNLP/flair)
   - [polyglot](https://github.com/aboSamoor/polyglot)
+  - [pattern](https://github.com/clips/pattern)
+
 
 - Libraries <br>
   -[DocArray](https://github.com/jina-ai/docarray) <br>
