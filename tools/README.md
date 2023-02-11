@@ -102,7 +102,8 @@ Useful and useful-less tools
      - [deepcheck](https://github.com/deepchecks/deepchecks)
      - [alibi-detect](https://github.com/SeldonIO/alibi-detect)
      - [nannyml](https://github.com/NannyML/nannyml) - Drift
-     - [Uptrain)(https://github.com/uptrain-ai/uptrain)
+     - [Uptrain](https://github.com/uptrain-ai/uptrain)
+     - [fairlearn](https://github.com/fairlearn/fairlearn)
   
   Data | Web Scraping 
      - [mitmproxy](https://mitmproxy.org/) - monitoring and reverse engineering web traffic 
