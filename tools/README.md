@@ -21,6 +21,7 @@ Useful and useful-less tools
   -[Gensim](https://github.com/RaRe-Technologies/gensim) <br>
   -[Rasa](https://github.com/RasaHQ/rasa) - ChatBot
   -[KeyphraseVectorizers](https://github.com/TimSchopf/KeyphraseVectorizers)
+  -[BertTopic](https://github.com/MaartenGr/BERTopic)
 
 - Libraries <br>
   -[DocArray](https://github.com/jina-ai/docarray) <br>
