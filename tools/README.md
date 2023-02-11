@@ -20,6 +20,7 @@ Useful and useful-less tools
   -[spaCy](https://github.com/explosion/spaCy) <br>
   -[Gensim](https://github.com/RaRe-Technologies/gensim) <br>
   -[Rasa](https://github.com/RasaHQ/rasa) - ChatBot
+  -[KeyphraseVectorizers](https://github.com/TimSchopf/KeyphraseVectorizers)
 
 - Libraries <br>
   -[DocArray](https://github.com/jina-ai/docarray) <br>
