@@ -50,6 +50,7 @@ Useful and useful-less tools
   - [kangas](https://github.com/comet-ml/kangas) <br> 🦘 Explore multimedia datasets 
   - [Scalable](https://github.com/scalabel/scalabel) <br>
   - [fastdup](https://github.com/visualdatabase/fastdup)
+  - [cluestar](https://github.com/koaning/cluestar) - Embedding -€> Classification
  
 - Documents
    - [Parsr](https://github.com/axa-group/Parsr)
