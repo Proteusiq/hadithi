@@ -28,6 +28,7 @@ Useful and useful-less tools
   - [flair](https://github.com/flairNLP/flair)
   - [polyglot](https://github.com/aboSamoor/polyglot)
   - [pattern](https://github.com/clips/pattern)
+  - [fasttext](https://github.com/facebookresearch/fastText)
 
 
 - Libraries <br>
