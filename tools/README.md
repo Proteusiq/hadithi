@@ -17,11 +17,17 @@ Useful and useful-less tools
   - [insightface](https://github.com/deepinsight/insightface)
 
 - Text <br>
-  -[spaCy](https://github.com/explosion/spaCy) <br>
-  -[Gensim](https://github.com/RaRe-Technologies/gensim) <br>
-  -[Rasa](https://github.com/RasaHQ/rasa) - ChatBot
-  -[KeyphraseVectorizers](https://github.com/TimSchopf/KeyphraseVectorizers)
-  -[BertTopic](https://github.com/MaartenGr/BERTopic)
+  - [spaCy](https://github.com/explosion/spaCy) <br>
+  - [Gensim](https://github.com/RaRe-Technologies/gensim) <br>
+  - [Rasa](https://github.com/RasaHQ/rasa) - ChatBot
+  - [KeyphraseVectorizers](https://github.com/TimSchopf/KeyphraseVectorizers)
+  - [BertTopic](https://github.com/MaartenGr/BERTopic)
+  - [sentence-transformers](sentence-transformers)
+  - [textacy](https://github.com/chartbeat-labs/textacy)
+  - [Transformers]
+  - [TextBlob]
+  - [flair](https://github.com/flairNLP/flair)
+  - [polyglot](https://github.com/aboSamoor/polyglot)
 
 - Libraries <br>
   -[DocArray](https://github.com/jina-ai/docarray) <br>
