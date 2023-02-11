@@ -24,8 +24,7 @@ Useful and useful-less tools
   - [BertTopic](https://github.com/MaartenGr/BERTopic)
   - [sentence-transformers](sentence-transformers)
   - [textacy](https://github.com/chartbeat-labs/textacy)
-  - [Transformers]
-  - [TextBlob]
+  - [Transformers](https://github.com/huggingface/transformers)
   - [flair](https://github.com/flairNLP/flair)
   - [polyglot](https://github.com/aboSamoor/polyglot)
 
