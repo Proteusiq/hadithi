@@ -17,6 +17,7 @@ Useful and useful-less tools
   - [insightface](https://github.com/deepinsight/insightface)
 
 - Text <br>
+  - [setfit](https://github.com/huggingface/setfit) - 😋 Non-data-hungry classification training
   - [spaCy](https://github.com/explosion/spaCy) <br>
   - [Gensim](https://github.com/RaRe-Technologies/gensim) <br>
   - [Rasa](https://github.com/RasaHQ/rasa) - ChatBot
