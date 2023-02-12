@@ -96,6 +96,7 @@ Object Oriented
   - [SOLID](https://github.com/tuvo1106/python_design_patterns)
   - [Refactoring](https://refactoring.guru/design-patterns)
   - [Python Patterns](https://python-patterns.guide/) - Collection of Brandon Rhodes' guide to Design Patterns in Python
+  - [pyglove](https://github.com/google/pyglove) - Meta programming simplified
 
 Beyond the 🐍 
  - [C++ for Pythonista](https://cs.berea.edu//cpp4python/index.html#)
