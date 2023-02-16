@@ -91,7 +91,7 @@ Functional
   - [Awesome Functional Programming](https://github.com/sfermigier/awesome-functional-python) 🙈🙉🙊<br>
   - [returns](https://github.com/dry-python/returns) - Interesting 📦 and useful articles <br>
   - [fp-core](https://github.com/JasonShin/fp-core.rs) 🦀 functional programming
-  - [Functional Python I: Typopædia Pythonica](https://www.tweag.io/blog/2022-09-08-fp1-typopaedia-pythonica/) - [Dial M for Monoid](https://www.tweag.io/blog/2023-01-19-fp2-dial-m-for-monoid/)
+  - [Functional Python I: Typopædia Pythonica](https://www.tweag.io/blog/2022-09-08-fp1-typopaedia-pythonica/) - [II Dial M for Monoid](https://www.tweag.io/blog/2023-01-19-fp2-dial-m-for-monoid/)
 
 Object Oriented 
   - [SOLID](https://github.com/tuvo1106/python_design_patterns)
