@@ -11,7 +11,7 @@ Useful and useful-less tools
  - [ultralytics🍾](https://github.com/ultralytics/ultralytics) - 👑 yolo 
  - [dot](https://github.com/sensity-ai/dot) <br>
  - [mediapipe](https://github.com/google/mediapipe) - 😻 Customizable computer vision models by Google.
- - [mmpose](https://github.com/open-mmlab/mmpose) - SOTA for Pose Estimation - [mmengine](https://github.com/open-mmlab/mmengine)
+ - [mmlab](https://github.com/open-mmlab) - [mmpose](https://github.com/open-mmlab/mmpose) - SOTA for Pose Estimation - [mmengine](https://github.com/open-mmlab/mmengine)
  - [Yolo5 StrongSORT OSNet](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet)
 
 - Image
