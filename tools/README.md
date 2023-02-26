@@ -34,12 +34,12 @@ Useful and useful-less tools
 
 
 - Libraries <br>
-  -[DocArray](https://github.com/jina-ai/docarray) <br>
-  -[jina](https://github.com/jina-ai/jina)  <br>
-  -[txtai](https://github.com/neuml/txtai) <br>
-  -[Skorch](https://github.com/skorch-dev/skorch) <br>
-  -[Hummingbird](https://github.com/microsoft/hummingbird) - [voltaML](https://github.com/VoltaML/voltaML) <br>
-  -[Marqo](https://github.com/marqo-ai/marqo) - Tensor Search for Human <br>
+  - [DocArray](https://github.com/jina-ai/docarray) <br>
+  - [jina](https://github.com/jina-ai/jina)  <br>
+  - [txtai](https://github.com/neuml/txtai) <br>
+  - [Skorch](https://github.com/skorch-dev/skorch) <br>
+  - [Hummingbird](https://github.com/microsoft/hummingbird) - [voltaML](https://github.com/VoltaML/voltaML) <br>
+  - [Marqo](https://github.com/marqo-ai/marqo) - Tensor Search for Human <br>
 
 - Data Annotations <br>
   - [refinery](https://github.com/code-kern-ai/refinery) - NLP. Combining (semi-)automated labeling > [bricks](https://github.com/code-kern-ai/bricks)
