@@ -2,23 +2,23 @@
 ___
 Useful and useful-less tools
 
-- Audio
+Audio
  - [speechbrain](https://github.com/speechbrain/speechbrain) - 🤗 speech recognition, speech separation, speaker verification, and STT
  - [pyannote](https://github.com/pyannote/pyannote-audio)
  - [resemblyzer](https://github.com/resemble-ai/Resemblyzer)
  - [coqui](https://github.com/coqui-ai/TTS) 
 
-- Video
+Video
  - [ultralytics🍾](https://github.com/ultralytics/ultralytics) - 👑 yolo 
  - [dot](https://github.com/sensity-ai/dot)
  - [mediapipe](https://github.com/google/mediapipe) - 😻 Customizable computer vision models by Google.
  - [mmlab](https://github.com/open-mmlab) - [mmpose](https://github.com/open-mmlab/mmpose) - SOTA for Pose Estimation - [mmengine](https://github.com/open-mmlab/mmengine)
  - [Yolo5 StrongSORT OSNet](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet)
 
-- Image
+Image
   - [insightface](https://github.com/deepinsight/insightface)
 
-- Text
+Text
   - [setfit](https://github.com/huggingface/setfit) - 😋 Non-data-hungry classification training
   - [spaCy](https://github.com/explosion/spaCy)
   - [Gensim](https://github.com/RaRe-Technologies/gensim)
@@ -34,7 +34,7 @@ Useful and useful-less tools
   - [fasttext](https://github.com/facebookresearch/fastText)
 
 
-- Libraries
+Libraries
   - [DocArray](https://github.com/jina-ai/docarray) <br>
   - [jina](https://github.com/jina-ai/jina)  <br>
   - [txtai](https://github.com/neuml/txtai) <br>
@@ -42,7 +42,7 @@ Useful and useful-less tools
   - [Hummingbird](https://github.com/microsoft/hummingbird) - [voltaML](https://github.com/VoltaML/voltaML) <br>
   - [Marqo](https://github.com/marqo-ai/marqo) - Tensor Search for Human <br>
 
-- Data Annotations
+Data Annotations
   - [refinery](https://github.com/code-kern-ai/refinery) - NLP. Combining (semi-)automated labeling > [bricks](https://github.com/code-kern-ai/bricks)
   - [doccan](https://github.com/doccano/doccano) - text
   - [label-studio](https://github.com/heartexlabs/label-studio)
@@ -55,18 +55,18 @@ Useful and useful-less tools
   - [fastdup](https://github.com/visualdatabase/fastdup)
   - [cluestar](https://github.com/koaning/cluestar) - Embedding -€> Classification + [bulk](https://github.com/koaning/bulk) Labelling 
  
-- Documents
+Documents
    - [Parsr](https://github.com/axa-group/Parsr)
 
-- DB
+DB
   - [duckdb](https://duckdb.org/)
   - [influxdb](https://github.com/influxdata/influxdb)
   - [elasticsearch](https://github.com/elastic/elasticsearch)
 
-- EDA
+EDA
   - [HiPlot](https://facebookresearch.github.io/hiplot)
 
-- ML
+ML
   - [scikit-learn](https://github.com/scikit-learn/scikit-learn) - Python 🐍 ML
   - [linfa](https://github.com/rust-ml/linfa) - Rust 🦀 ML [burn](https://github.com/burn-rs/burn) - Tensor Rust
   - [flaml](https://github.com/microsoft/FLAML) - fast library for AutoML and tuning.
@@ -81,7 +81,7 @@ Useful and useful-less tools
   - [autogluon](https://github.com/autogluon/autogluon) - AutoML {Image, Text, Time Series, Tabular Data} with ⌛ limits. Also works with [🤟 imodels](https://auto.gluon.ai/dev/tutorials/tabular_prediction/tabular-interpretability.html)
 
 
-  Build
+Build
   - [jina finetuner](https://github.com/jina-ai/finetuner)
   - [finetune](https://github.com/IndicoDataSolutions/finetune) - Tune NLP
   - [scikit-lego](https://github.com/koaning/scikit-lego) - [embetter](https://github.com/koaning/embetter) - Use SOTA embedding in Scikit-learn Pipelines
@@ -94,14 +94,14 @@ Useful and useful-less tools
   - [skypilot](https://github.com/skypilot-org/skypilot?) -  🏡 model training cross cloud ⛅️ services 
   - [less](https://github.com/sibirbil/LESS) - Learning with Subset Stacking -> Learn Code
  
-  Features
+Features
 
   - [feature tools](https://feature-engine.readthedocs.io/en/latest/index.html) - Extra preprocessing scikit-learn tools
 
-  Optimisation:
+Optimisation:
      - [Hyperactive](https://github.com/SimonBlanke/Hyperactive)
 
-  Monitoring
+Monitoring
      - [evidently](https://github.com/evidentlyai/evidently)
      - [deepcheck](https://github.com/deepchecks/deepchecks)
      - [alibi-detect](https://github.com/SeldonIO/alibi-detect)
@@ -109,7 +109,7 @@ Useful and useful-less tools
      - [Uptrain](https://github.com/uptrain-ai/uptrain)
      - [fairlearn](https://github.com/fairlearn/fairlearn)
   
-  Data | Web Scraping 
+Data | Web Scraping 
      - [mitmproxy](https://mitmproxy.org/) - monitoring and reverse engineering web traffic 
      - [httpx](https://github.com/projectdiscovery/httpx) - Better Request
      - [parsel](https://github.com/scrapy/parsel) - Better BeautifulSoup
@@ -120,5 +120,5 @@ Useful and useful-less tools
   Tools in action @ [Scrapfly](https://scrapfly.io/blog/parse-json-jmespath-python/)
   
 
-  Flask GUI + AutoML -> [xcessiv](https://github.com/reiinakano/xcessiv)
+Flask GUI + AutoML -> [xcessiv](https://github.com/reiinakano/xcessiv)
   
