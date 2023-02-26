@@ -2,10 +2,10 @@
 ___
 Useful and useful-less tools
 - Audio <br>
- -[speechbrain](https://github.com/speechbrain/speechbrain) - 🤗 speech recognition, speech separation, speaker verification, and STT<br>
- -[pyannote](https://github.com/pyannote/pyannote-audio) <br>
- -[resemblyzer](https://github.com/resemble-ai/Resemblyzer) <br>
- -[coqui](https://github.com/coqui-ai/TTS) <br>
+ - [speechbrain](https://github.com/speechbrain/speechbrain) - 🤗 speech recognition, speech separation, speaker verification, and STT<br>
+ - [pyannote](https://github.com/pyannote/pyannote-audio) <br>
+ - [resemblyzer](https://github.com/resemble-ai/Resemblyzer) <br>
+ - [coqui](https://github.com/coqui-ai/TTS) <br>
 
 - Video <br>
  - [ultralytics🍾](https://github.com/ultralytics/ultralytics) - 👑 yolo 
