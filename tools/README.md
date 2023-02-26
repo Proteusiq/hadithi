@@ -1,15 +1,16 @@
 ### Jembe: Tools ⚒️ 
 ___
 Useful and useful-less tools
-- Audio <br>
- - [speechbrain](https://github.com/speechbrain/speechbrain) - 🤗 speech recognition, speech separation, speaker verification, and STT<br>
- - [pyannote](https://github.com/pyannote/pyannote-audio) <br>
- - [resemblyzer](https://github.com/resemble-ai/Resemblyzer) <br>
- - [coqui](https://github.com/coqui-ai/TTS) <br>
 
-- Video <br>
+- Audio
+ - [speechbrain](https://github.com/speechbrain/speechbrain) - 🤗 speech recognition, speech separation, speaker verification, and STT
+ - [pyannote](https://github.com/pyannote/pyannote-audio)
+ - [resemblyzer](https://github.com/resemble-ai/Resemblyzer)
+ - [coqui](https://github.com/coqui-ai/TTS) 
+
+- Video
  - [ultralytics🍾](https://github.com/ultralytics/ultralytics) - 👑 yolo 
- - [dot](https://github.com/sensity-ai/dot) <br>
+ - [dot](https://github.com/sensity-ai/dot)
  - [mediapipe](https://github.com/google/mediapipe) - 😻 Customizable computer vision models by Google.
  - [mmlab](https://github.com/open-mmlab) - [mmpose](https://github.com/open-mmlab/mmpose) - SOTA for Pose Estimation - [mmengine](https://github.com/open-mmlab/mmengine)
  - [Yolo5 StrongSORT OSNet](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet)
@@ -17,10 +18,10 @@ Useful and useful-less tools
 - Image
   - [insightface](https://github.com/deepinsight/insightface)
 
-- Text <br>
+- Text
   - [setfit](https://github.com/huggingface/setfit) - 😋 Non-data-hungry classification training
-  - [spaCy](https://github.com/explosion/spaCy) <br>
-  - [Gensim](https://github.com/RaRe-Technologies/gensim) <br>
+  - [spaCy](https://github.com/explosion/spaCy)
+  - [Gensim](https://github.com/RaRe-Technologies/gensim)
   - [Rasa](https://github.com/RasaHQ/rasa) - ChatBot
   - [KeyphraseVectorizers](https://github.com/TimSchopf/KeyphraseVectorizers)
   - [BertTopic](https://github.com/MaartenGr/BERTopic)
@@ -33,7 +34,7 @@ Useful and useful-less tools
   - [fasttext](https://github.com/facebookresearch/fastText)
 
 
-- Libraries <br>
+- Libraries
   - [DocArray](https://github.com/jina-ai/docarray) <br>
   - [jina](https://github.com/jina-ai/jina)  <br>
   - [txtai](https://github.com/neuml/txtai) <br>
@@ -41,16 +42,16 @@ Useful and useful-less tools
   - [Hummingbird](https://github.com/microsoft/hummingbird) - [voltaML](https://github.com/VoltaML/voltaML) <br>
   - [Marqo](https://github.com/marqo-ai/marqo) - Tensor Search for Human <br>
 
-- Data Annotations <br>
+- Data Annotations
   - [refinery](https://github.com/code-kern-ai/refinery) - NLP. Combining (semi-)automated labeling > [bricks](https://github.com/code-kern-ai/bricks)
-  - [doccan](https://github.com/doccano/doccano) - text <br>
-  - [label-studio](https://github.com/heartexlabs/label-studio) <br>
-  - [Diffgram](https://github.com/diffgram/diffgram) - Licensed? <br>
-  - [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool) <br> 
-  - [CVAT](https://github.com/openvinotoolkit/cvat) - Computer Vision Annotation Tool <br>
-  - [FiftOne](https://github.com/voxel51/fiftyone) - Label and find mistakes 😻 UI <br>
-  - [kangas](https://github.com/comet-ml/kangas) <br> 🦘 Explore multimedia datasets 
-  - [Scalable](https://github.com/scalabel/scalabel) <br>
+  - [doccan](https://github.com/doccano/doccano) - text
+  - [label-studio](https://github.com/heartexlabs/label-studio)
+  - [Diffgram](https://github.com/diffgram/diffgram) - Licensed?
+  - [Universal Data Tool](https://github.com/UniversalDataTool/universal-data-tool)
+  - [CVAT](https://github.com/openvinotoolkit/cvat) - Computer Vision Annotation Tool
+  - [FiftOne](https://github.com/voxel51/fiftyone) - Label and find mistakes 😻 UI
+  - [kangas](https://github.com/comet-ml/kangas) - 🦘 Explore multimedia datasets 
+  - [Scalable](https://github.com/scalabel/scalabel) 
   - [fastdup](https://github.com/visualdatabase/fastdup)
   - [cluestar](https://github.com/koaning/cluestar) - Embedding -€> Classification + [bulk](https://github.com/koaning/bulk) Labelling 
  
