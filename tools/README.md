@@ -35,12 +35,13 @@ Text
 
 
 Libraries
-  - [DocArray](https://github.com/jina-ai/docarray) <br>
-  - [jina](https://github.com/jina-ai/jina)  <br>
-  - [txtai](https://github.com/neuml/txtai) <br>
-  - [Skorch](https://github.com/skorch-dev/skorch) <br>
-  - [Hummingbird](https://github.com/microsoft/hummingbird) - [voltaML](https://github.com/VoltaML/voltaML) <br>
-  - [Marqo](https://github.com/marqo-ai/marqo) - Tensor Search for Human <br>
+  - [DocArray](https://github.com/jina-ai/docarray)
+  - [jina](https://github.com/jina-ai/jina)
+  - [txtai](https://github.com/neuml/txtai)
+  - [Skorch](https://github.com/skorch-dev/skorch)
+  - [Hummingbird](https://github.com/microsoft/hummingbird) - [voltaML](https://github.com/VoltaML/voltaML)
+  - [Marqo](https://github.com/marqo-ai/marqo) - Tensor Search for Human
+  - [Promptify](https://github.com/promptslab/Promptify) - GPT => [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
 Data Annotations
   - [refinery](https://github.com/code-kern-ai/refinery) - NLP. Combining (semi-)automated labeling > [bricks](https://github.com/code-kern-ai/bricks)
