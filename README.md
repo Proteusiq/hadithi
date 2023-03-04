@@ -123,6 +123,7 @@ Transformers 🤖
  - [GODEL](https://github.com/microsoft/GODEL) - [demo](https://huggingface.co/spaces/microsoft/GODEL-Demo)
  - [SymbolicAI](https://github.com/Xpitfire/symbolicai)
  - [imaginAIry](https://github.com/brycedrennan/imaginAIry)
+ - [llama](https://github.com/facebookresearch/llama)
 
 Must Have Tools
 
