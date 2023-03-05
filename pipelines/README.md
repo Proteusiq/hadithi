@@ -30,6 +30,7 @@
 * [cleanML](https://docs.cleanlab.ai/v2.0.0/) - Modeling /w bad data
 * [cortex](https://github.com/cortexlabs/cortex) 
 * [truss](https://github.com/basetenlabs/truss) - Serve any model without boilerplate code 
+- [modelscope](https://github.com/modelscope/modelscope)
 
 Deephaven
 
