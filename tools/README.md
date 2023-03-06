@@ -58,6 +58,7 @@ Data Annotations
  
 Documents
    - [Parsr](https://github.com/axa-group/Parsr)
+   - [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
 
 DB
   - [duckdb](https://duckdb.org/)
