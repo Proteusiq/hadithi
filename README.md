@@ -110,7 +110,8 @@ Beyond the 🐍
  - [Lua](https://www.lua.org/pil/contents.html) - Beautifully minimalistic language
 
 Transformers 🤖 
- - [Understanding Transformers](https://huggingface.co/course) - 🤗 courses 
+ - [Understanding Transformers](https://huggingface.co/course) - 🤗 courses
+ - [Diffusion FastForward](https://github.com/mikonvergence/DiffusionFastForward) - materials, courses, and code 拾
  - [whisper](https://github.com/openai/whisper) - Speech to text
  - [Vilt](https://github.com/dandelin/vilt) - Visual and Language Transformer
  - [Remove | Replace Image](https://github.com/Sanster/lama-cleaner) - Lama Cleaner
