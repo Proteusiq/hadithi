@@ -134,7 +134,8 @@ Must Have Tools
 - [black](https://github.com/psf/black) 
 - [vulture](https://github.com/jendrikseipp/vulture) - Find dead 💀 code.
 - [linter] - [ruff](https://github.com/charliermarsh/ruff) faster Rust-fy linter [flake8](https://github.com/PyCQA/flake8) [mypy](https://github.com/python/mypy) - [bandit](https://github.com/PyCQA/bandit)
-- [shed](https://github.com/Zac-HD/shed) - all above 
+- [shed](https://github.com/Zac-HD/shed) - all above
+- [beartype](https://github.com/beartype/beartype) - enforce type at runtime
 
 Optional:
   - [pyenv](https://github.com/pyenv/pyenv)
