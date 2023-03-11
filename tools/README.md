@@ -64,6 +64,8 @@ DB
   - [duckdb](https://duckdb.org/)
   - [influxdb](https://github.com/influxdata/influxdb)
   - [elasticsearch](https://github.com/elastic/elasticsearch)
+  - UI
+   - [mathesar](https://github.com/centerofci/mathesar) - Postgres UI
 
 EDA
   - [HiPlot](https://facebookresearch.github.io/hiplot)
