@@ -107,15 +107,14 @@ Optimisation:
      - [Hyperactive](https://github.com/SimonBlanke/Hyperactive)
 
 Monitoring
-     - [evidently](https://github.com/evidentlyai/evidently)
-     - [deepcheck](https://github.com/deepchecks/deepchecks)
-     - [alibi-detect](https://github.com/SeldonIO/alibi-detect)
-     - [nannyml](https://github.com/NannyML/nannyml) - Drift
+ - [evidently](https://github.com/evidentlyai/evidently)
+ - [deepcheck](https://github.com/deepchecks/deepchecks)
+ - [alibi-detect](https://github.com/SeldonIO/alibi-detect)  - [nannyml](https://github.com/NannyML/nannyml) - Drift
      - [Uptrain](https://github.com/uptrain-ai/uptrain)
      - [fairlearn](https://github.com/fairlearn/fairlearn)
   
 Data | Web Scraping 
-     - [mitmproxy](https://mitmproxy.org/) - monitoring and reverse engineering web traffic 
+     - [mitmproxy](https://mitmproxy.org) - monitoring and reverse engineering web traffic 
      - [httpx](https://github.com/projectdiscovery/httpx) - Better Request
      - [parsel](https://github.com/scrapy/parsel) - Better BeautifulSoup
      - [jmespath](https://github.com/jmespath/jmespath.py) - Query JSON like a 🥷
