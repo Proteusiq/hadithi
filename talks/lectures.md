@@ -56,7 +56,7 @@ ___
 
 Now that We know ... Let take a sit at the Data Science's restaurant
 
-![ml ci/cd](assets/aurimas_grmlopslevel1.jpg)
+![ml ci/cd](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3aecb1b1-cd46-4b3f-a538-3073bbd6543f_1650x2114.png)
 [Aurimas Griciūnas](https://www.newsletter.swirlai.com/p/sai-21-what-is-continuous-training)
 
 
