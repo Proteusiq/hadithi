@@ -28,6 +28,13 @@ _Before beginning a Hunt, it is wise to ask someone what you are looking for bef
 
 - Data is King
 
+```text
+Without a determinant understanding of what you are measuring, data can’t be used in a meaningful way. However, when you add context by describing precisely what you’re measuring and why—only then can it be useful for interpreting specific things.
+
+In other words, without context and meaning, data is simply meaningless vanity metrics embedded in pretty charts.
+
+- November 16, 2020 Tressa Robbins
+```
 
 
 ## The Restaurant at the End of the Universe
