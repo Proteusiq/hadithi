@@ -20,7 +20,7 @@ _Before beginning a Hunt, it is wise to ask someone what you are looking for bef
 - 😔 Omniscient Guru | Wizard of Oz: 
     Data => EDA + Features Voodoo + Black Magic (Modeling) + Evaluation Metrics
 
-    * Problems:
+    * Problems: (Simpsons Paradox illustration)
         - [ ] EDA 
         - [ ] Features 
         - [ ] Models
@@ -49,10 +49,17 @@ _It is wise to ask someone_ ... domain experts
 
 `understanding a question is half an answer` ― Socrates, Essential Thinkers - Socrates
 
-Domain experts are kings and queens to understanding _your_, ... no,  their data.
+Domain experts are kings and queens to understanding _your_, ... no, _their_ data.
 
 ## The Restaurant at the End of the Universe
 ___
+
+Now that We know ... Let take a sit at the Data Science's restaurant
+
+![ml ci/cd](assets/aurimas_grmlopslevel1.jpg)
+[Aurimas Griciūnas](https://www.newsletter.swirlai.com/p/sai-21-what-is-continuous-training)
+
+
 
 ## Life, the Universe and Everything
 ___
@@ -63,3 +70,5 @@ The agreed standards by which to we judge whether an objective has been achieved
 
 ## So Long, and Thanks for All the Fish
 ___
+
+The future: MLOps Industry
