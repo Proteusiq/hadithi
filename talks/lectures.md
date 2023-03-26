@@ -21,10 +21,10 @@ _Before beginning a Hunt, it is wise to ask someone what you are looking for bef
     Data => EDA + Features Voodoo + Black Magic (Modeling) + Evaluation Metrics
 
     * Problems:
-        - [ ] EDA =
-        - [ ] Features =
-        - [ ] Models =
-        - [ ] Metrics =
+        - [ ] EDA 
+        - [ ] Features 
+        - [ ] Models
+        - [ ] Metrics
 
 - Data is King
 
