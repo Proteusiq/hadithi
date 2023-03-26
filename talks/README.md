@@ -52,14 +52,26 @@ _It is wise to ask someone_ ... domain experts
 
 Domain experts are kings and queens to understanding _your_, ... no, _their_ data.
 
+Journey: Project LEGO
+
 ## The Restaurant at the End of the Universe
 ___
 
 Now that We know ... Let take a sit at the Data Science's restaurant
 
-![ml ci/cd](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3aecb1b1-cd46-4b3f-a538-3073bbd6543f_1650x2114.png)
-[Aurimas Griciūnas](https://www.newsletter.swirlai.com/p/sai-21-what-is-continuous-training)
+<details>
+<summary>Level I:</summary>
+![simple ml pipeline](https://ml-ops.org/img/ml-engineering.jpg)
+[ml ops](https://ml-ops.org/)
 
+</details>
+
+<details>
+<summary>Level II:</summary>
+
+![advance ml ci/cd](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3aecb1b1-cd46-4b3f-a538-3073bbd6543f_1650x2114.png)
+[Aurimas Griciūnas](https://www.newsletter.swirlai.com/p/sai-21-what-is-continuous-training)
+</details>
 
 
 ## Life, the Universe and Everything
@@ -72,4 +84,9 @@ The agreed standards by which we judge whether an objective has been achieved
 ## So Long, and Thanks for All the Fish
 ___
 
+Concept of being mindful
+Concept of checking confirmation bias (🪞 => LLM)
+
+
 The future: MLOps Industry
+ - Software Engineer: Design Pattern => ML|DS as software engineering
