@@ -61,6 +61,7 @@ Now that We know ... Let take a sit at the Data Science's restaurant
 
 <details>
 <summary>Level I:</summary>
+
 ![simple ml pipeline](https://ml-ops.org/img/ml-engineering.jpg)
 [ml ops](https://ml-ops.org/)
 
