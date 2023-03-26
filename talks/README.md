@@ -83,6 +83,18 @@ ___
 
 The agreed standards by which we judge whether an objective has been achieved
 
+Criteria (Ethics + model performance)
+- protected attributes
+- model usage
+
+Measure (model drift)
+- concept drift
+- features drift
+- target drift
+
+
+Journey: Childwelfare's Project
+
 ## So Long, and Thanks for All the Fish
 ___
 
