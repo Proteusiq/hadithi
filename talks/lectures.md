@@ -41,9 +41,9 @@ In other words, without context and meaning, data is simply meaningless vanity m
 - 😊 Domain Experts are Kings & Queens
 
 _It is wise to ask someone_ ... domain experts
--[ ] Engage with experts: Strongly define ML goals and expectations
--[ ] Engage with experts: Develop solid data foundations - data engineers|analysts
--[ ] Engage with experts: Main users | defining layer between ML solutions + users
+ - [ ] Engage with experts: Strongly define ML goals and expectations
+ - [ ] Engage with experts: Develop solid data foundations - data engineers|analysts
+ - [ ] Engage with experts: Main users | defining layer between ML solutions + users
 
 - 😊 Understanding Data (Generation | Collection | Contents)
 
