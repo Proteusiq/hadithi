@@ -20,12 +20,12 @@ _Before beginning a Hunt, it is wise to ask someone what you are looking for bef
 - Omniscient: 
     Data => EDA + Features Voodoo + Black Magic (Modeling) + Evaluation Metrics
 
-    Problems:
-        EDA =
-        Features =
-        Models =
-        Metrics =
-        
+    * Problems:
+        - [ ] EDA =
+        - [ ] Features =
+        - [ ] Models =
+        - [ ] Metrics =
+
 - Data is King
 
 
