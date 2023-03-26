@@ -53,6 +53,7 @@ _It is wise to ask someone_ ... domain experts
 Domain experts are kings and queens to understanding _your_, ... no, _their_ data.
 
 Journey: Project LEGO
+CBS: [Final Project](https://kursuskatalog.cbs.dk/2022-2023/KAN-CINTO4003U.aspx)
 
 ## The Restaurant at the End of the Universe
 ___
