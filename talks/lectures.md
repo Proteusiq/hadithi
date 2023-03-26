@@ -66,7 +66,7 @@ ___
 
 **Success Criteria**: Measurement
 
-The agreed standards by which to we judge whether an objective has been achieved
+The agreed standards by which we judge whether an objective has been achieved
 
 ## So Long, and Thanks for All the Fish
 ___
