@@ -115,6 +115,8 @@ Monitoring
      
 Agent Based Modelling
 - [mesa](https://github.com/projectmesa/mesa)
+- [gama](https://gama-platform.org)
+
 
 Data | Web Scraping 
 - [mitmproxy](https://mitmproxy.org) - monitoring and reverse engineering web traffic 
