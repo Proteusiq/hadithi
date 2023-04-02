@@ -125,6 +125,7 @@ Transformers 🤖
  - [SymbolicAI](https://github.com/Xpitfire/symbolicai)
  - [imaginAIry](https://github.com/brycedrennan/imaginAIry)
  - [llama](https://github.com/facebookresearch/llama)
+ - [viper](https://github.com/cvlab-columbia/viper) - Visual Inference via Python Execution for Reasoning
 
 Must Have Tools
 
