@@ -126,6 +126,7 @@ Transformers 🤖
  - [imaginAIry](https://github.com/brycedrennan/imaginAIry)
  - [llama](https://github.com/facebookresearch/llama)
  - [viper](https://github.com/cvlab-columbia/viper) - Visual Inference via Python Execution for Reasoning
+ - [T2I Adapter](https://github.com/TencentARC/T2I-Adapter) - Taming art generation
 
 Must Have Tools
 
