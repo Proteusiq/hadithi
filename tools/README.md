@@ -33,6 +33,8 @@ Text
   - [pattern](https://github.com/clips/pattern)
   - [fasttext](https://github.com/facebookresearch/fastText)
 
+CLI
+ - [workedon](https://github.com/viseshrp/workedon)
 
 Libraries
   - [DocArray](https://github.com/jina-ai/docarray)
