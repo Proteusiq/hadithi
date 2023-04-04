@@ -39,6 +39,8 @@ CLI
 Libraries
   - [DocArray](https://github.com/jina-ai/docarray)
   - [jina](https://github.com/jina-ai/jina)
+  - [polars](https://github.com/pola-rs/polars) - better and faster pandas-ish
+  - [daft](https://www.getdaft.io/index.html)
   - [txtai](https://github.com/neuml/txtai)
   - [Skorch](https://github.com/skorch-dev/skorch)
   - [Hummingbird](https://github.com/microsoft/hummingbird) - [voltaML](https://github.com/VoltaML/voltaML)
