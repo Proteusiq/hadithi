@@ -35,6 +35,9 @@ Text
 
 CLI
  - [workedon](https://github.com/viseshrp/workedon)
+ 
+Storage Retrieval
+- [pooch](https://github.com/fatiando/pooch)  store and retrieve large files
 
 Libraries
   - [DocArray](https://github.com/jina-ai/docarray)
