@@ -124,6 +124,12 @@ Agent Based Modelling
 - [mesa](https://github.com/projectmesa/mesa)
 - [gama](https://gama-platform.org)
 
+GUI + TUI + CLI + API
+- [fastapi](https://github.com/tiangolo/fastapi)
+- [typer](https://github.com/tiangolo/typer)
+- [textual](https://github.com/Textualize/textual)
+- [nicegui](https://nicegui.io)
+- [flet](https://flet.dev) - Flutter in Python
 
 Data | Web Scraping 
 - [mitmproxy](https://mitmproxy.org) - monitoring and reverse engineering web traffic 
