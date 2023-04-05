@@ -34,7 +34,9 @@ Text
   - [fasttext](https://github.com/facebookresearch/fastText)
 
 CLI
+ - [tea](https://github.com/teaxyz/cli) cross package manager
  - [workedon](https://github.com/viseshrp/workedon)
+ 
  
 Storage Retrieval
 - [pooch](https://github.com/fatiando/pooch)  store and retrieve large files
