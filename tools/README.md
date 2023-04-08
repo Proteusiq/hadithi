@@ -133,6 +133,9 @@ GUI + TUI + CLI + API
 - [nicegui](https://nicegui.io)
 - [flet](https://flet.dev) - Flutter in Python
 
+Useful Mixture
+- [trnacity](https://github.com/jd/tenacity) - smarter re-tries 珞
+
 Data | Web Scraping 
 - [mitmproxy](https://mitmproxy.org) - monitoring and reverse engineering web traffic 
 - [httpx](https://github.com/projectdiscovery/httpx) - Better Request
