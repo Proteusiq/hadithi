@@ -17,6 +17,7 @@ Video
 
 Image
   - [insightface](https://github.com/deepinsight/insightface)
+  - [segment anything](https://github.com/facebookresearch/segment-anything) - FaceBook's Segment
 
 Text
   - [setfit](https://github.com/huggingface/setfit) - 😋 Non-data-hungry classification training
