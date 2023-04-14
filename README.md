@@ -100,7 +100,7 @@ Functional
   - [Functional Python I: Typopædia Pythonica](https://www.tweag.io/blog/2022-09-08-fp1-typopaedia-pythonica/) - [II Dial M for Monoid](https://www.tweag.io/blog/2023-01-19-fp2-dial-m-for-monoid/)
 
 Object Oriented 
-  - [SOLID](https://github.com/tuvo1106/python_design_patterns)
+  - [SOLID](https://github.com/tuvo1106/python_design_patterns) - [gist examples](https://gist.github.com/dmmeteo/f630fa04c7a79d3c132b9e9e5d037bfd)
   - [Refactoring](https://refactoring.guru/design-patterns)
   - [Python Patterns](https://python-patterns.guide/) - Collection of Brandon Rhodes' guide to Design Patterns in Python
   - [pyglove](https://github.com/google/pyglove) - Meta programming simplified
