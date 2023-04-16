@@ -17,6 +17,7 @@ Machine Learning Resources
 - [CS50's Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python?delta=0) - Harvard School of Engineering and Applied Sciences 
 - [Mathematics for Machine Learning](https://mml-book.github.io/) - PDF, video and Jupyter Notebooks for introductions to mathematics required for ML
 - [Machine Learning Foundations](https://github.com/jonkrohn/ML-foundations) - Classical Notebooks, Udemy|Youtube course covering Maths and Code by Jon Khrohn
+- [Python for Data Analysis](https://wesmckinney.com/book/) - Wes McKinney
 - [Python Data Science Handbook](https://nbviewer.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb) - Jake VanderPlas
 - [ML for Beginners](https://microsoft.github.io/ML-For-Beginners/) - Microsoft - Diagrams, Code, Scikit-learn
 - [Probability Distribution Explorer](https://distribution-explorer.github.io/index.html#) - Probability distributions and the stories behind
