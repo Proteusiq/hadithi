@@ -81,7 +81,7 @@ Resources [Professionals Programming](https://github.com/charlax/professional-pr
 
 #### 📖 Books
 - [Clean Code](https://github.com/ropalma/ICMC-USP/raw/master/Book%20-%20Clean%20Architecture%20-%20Robert%20Cecil%20Martin.pdf) - Roberet C. Martin - [Python Code Examples](https://github.com/zedr/clean-code-python)
-- [Principles of Package Design](http://ssg.stage.exozet.com/wp-content/uploads/2016/08/principles-of-package-design.pdf) - Matthias Noback
+- [Principles of Package Design](http://ssg.stage.exozet.com/wp-content/uploads/2016/08/principles-of-package-design.pdf) - Matthias Noback 
 
 
 
