@@ -132,7 +132,7 @@ Transformers 🤖
  - [GODEL](https://github.com/microsoft/GODEL) - [demo](https://huggingface.co/spaces/microsoft/GODEL-Demo)
  - [SymbolicAI](https://github.com/Xpitfire/symbolicai)
  - [imaginAIry](https://github.com/brycedrennan/imaginAIry)
- - [llama](https://github.com/facebookresearch/llama)
+ - [llama](https://github.com/facebookresearch/llama) - [openGPT](https://huggingface.co/chat/)
  - [viper](https://github.com/cvlab-columbia/viper) - Visual Inference via Python Execution for Reasoning
  - [T2I Adapter](https://github.com/TencentARC/T2I-Adapter) - Taming art generation
  - [Dolly](https://github.com/databrickslabs/dolly)  - Democratizing the magic of ChatGPT 
