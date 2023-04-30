@@ -137,6 +137,7 @@ Transformers 🤖
  - [T2I Adapter](https://github.com/TencentARC/T2I-Adapter) - Taming art generation
  - [Dolly](https://github.com/databrickslabs/dolly)  - Democratizing the magic of ChatGPT 
  - [langflow](https://github.com/logspace-ai/langflow) <- UI - [langchain](https://github.com/hwchase17/langchain) - compostional LLM 🐲👑🤗🧱
+ - [gpt4all](https://github.com/nomic-ai/gpt4all) GPT models running locally
 
 Must Have Tools
 
