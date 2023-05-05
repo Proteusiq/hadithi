@@ -8,7 +8,6 @@
    * [Scikit-Learn: Vinalla](https://scikit-learn.org/stable/auto_examples/applications/plot_cyclical_feature_engineering.html#sphx-glr-auto-examples-applications-plot-cyclical-feature-engineering-py)
    * [Sktime](https://github.com/alan-turing-institute/sktime)
    * [Skforecast](https://github.com/JoaquinAmatRodrigo/skforecast)
-   * [mlforecast](https://github.com/Nixtla/mlforecast) - similar to sktime with distributed training
    * [Prophet](https://github.com/facebook/prophet)
    * [pmdarima](https://github.com/alkaline-ml/pmdarima)
    * [ETNA](https://github.com/tinkoff-ai/etna)
@@ -24,9 +23,12 @@
    * [tsflex](https://github.com/predict-idlab/tsflex)
    * [tsfresh](https://github.com/blue-yonder/tsfresh)
    * [pycaret](https://pycaret.readthedocs.io/en/time_series/api/time_series.html)
+   Nixtla's Forecasters
+   * [mlforecast](https://github.com/Nixtla/mlforecast) - similar to sktime with distributed training
    * [statsforecast](https://github.com/Nixtla/statsforecast)
    * [neuralforecast](https://github.com/Nixtla/neuralforecast)
    * [hierarchicalforecast](https://github.com/Nixtla/hierarchicalforecast)
+   * [nixtla](https://github.com/Nixtla/nixtla) - - auto forecasting
 
 ## Example of Stock Data
 
