@@ -33,7 +33,7 @@ Audio
  - [coqui](https://github.com/coqui-ai/TTS) 
 
 Video
- - [ultralytics🍾](https://github.com/ultralytics/ultralytics) - 👑 yolo 
+ - [ultralytics🍾](https://github.com/ultralytics/ultralytics) - 👑 yolo [documentation](https://docs.ultralytics.com)
  - [dot](https://github.com/sensity-ai/dot)
  - [mediapipe](https://github.com/google/mediapipe) - 😻 Customizable computer vision models by Google.
  - [mmlab](https://github.com/open-mmlab) - [mmpose](https://github.com/open-mmlab/mmpose) - SOTA for Pose Estimation - [mmengine](https://github.com/open-mmlab/mmengine)
