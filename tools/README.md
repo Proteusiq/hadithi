@@ -14,7 +14,8 @@ Transformers 🤖
  - [Monocular Depth Estimation](https://huggingface.co/spaces/keras-io/Monocular-Depth-Estimation)
  - [SuperGlue Image Matching](https://huggingface.co/spaces/Pinwheel/SuperGlue-Image-Matching)
  - [Diffusers](https://github.com/huggingface/diffusers) - [voltaML](https://github.com/VoltaML/voltaML-fast-stable-diffusion)
- - [Large Language Models](https://github.com/hwchase17/langchain) - langchain is LEGO bricks to large models e.g. OpenAI
+ - [Large Language Models langchain](https://github.com/hwchase17/langchain) - langchain is LEGO bricks to large models
+ - [visual build \w Flowise](https://github.com/FlowiseAI/Flowise)
  - [GODEL](https://github.com/microsoft/GODEL) - [demo](https://huggingface.co/spaces/microsoft/GODEL-Demo)
  - [SymbolicAI](https://github.com/Xpitfire/symbolicai)
  - [imaginAIry](https://github.com/brycedrennan/imaginAIry)
