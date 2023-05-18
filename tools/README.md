@@ -32,6 +32,7 @@ Audio
  - [pyannote](https://github.com/pyannote/pyannote-audio)
  - [resemblyzer](https://github.com/resemble-ai/Resemblyzer)
  - [coqui](https://github.com/coqui-ai/TTS) 
+ - [music generation paper](https://google-research.github.io/seanet/musiclm/examples/)
 
 Video
  - [ultralytics🍾](https://github.com/ultralytics/ultralytics) - 👑 yolo [documentation](https://docs.ultralytics.com)
