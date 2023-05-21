@@ -59,6 +59,7 @@ Text
   - [polyglot](https://github.com/aboSamoor/polyglot)
   - [pattern](https://github.com/clips/pattern)
   - [fasttext](https://github.com/facebookresearch/fastText)
+  - [finetune BERT with skorch](https://nbviewer.org/github/skorch-dev/skorch/blob/master/notebooks/Hugging_Face_Finetuning.ipynb)
 
 CLI
  - [tea](https://github.com/teaxyz/cli) cross package manager
