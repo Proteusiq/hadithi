@@ -60,6 +60,7 @@ Text
   - [pattern](https://github.com/clips/pattern)
   - [fasttext](https://github.com/facebookresearch/fastText)
   - [finetune BERT with skorch](https://nbviewer.org/github/skorch-dev/skorch/blob/master/notebooks/Hugging_Face_Finetuning.ipynb)
+  - [instructor](https://github.com/HKUNLP/instructor-embedding) - custom embedding from llms
 
 CLI
  - [tea](https://github.com/teaxyz/cli) cross package manager
