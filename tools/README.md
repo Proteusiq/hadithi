@@ -25,6 +25,7 @@ Transformers 🤖
  - [Dolly](https://github.com/databrickslabs/dolly)  - Democratizing the magic of ChatGPT 
  - [langflow](https://github.com/logspace-ai/langflow) <- UI - [langchain](https://github.com/hwchase17/langchain) - compostional LLM 🐲👑🤗🧱
  - [gpt4all](https://github.com/nomic-ai/gpt4all) GPT models running locally: [privateGPT](https://github.com/imartinez/privateGPT)
+ - [SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
 
 
 Audio
