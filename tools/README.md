@@ -161,7 +161,7 @@ Agent Based Modelling
 GUI + TUI + CLI + API
 - [fastapi](https://github.com/tiangolo/fastapi)
 - [typer](https://github.com/tiangolo/typer)
-- [textual](https://github.com/Textualize/textual)
+- [textual](https://github.com/Textualize/textual) - Go [bubbles](https://github.com/charmbracelet/bubbles)
 - [nicegui](https://nicegui.io)
 - [flet](https://flet.dev) - Flutter in Python
 
