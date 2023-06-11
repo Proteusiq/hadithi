@@ -97,9 +97,10 @@ Data Annotations
   - [cluestar](https://github.com/koaning/cluestar) - Embedding -€> Classification + [bulk](https://github.com/koaning/bulk) Labelling 
  
 Documents
-   - [Document AI](https://huggingface.co/blog/document-ai) - [deepdoctection](https://github.com/deepdoctection/deepdoctection) 👑 - [huggingface demo](https://huggingface.co/spaces/deepdoctection/deepdoctection)
+   - [Document AI](https://huggingface.co/blog/document-ai) - [deepdoctection](https://github.com/deepdoctection/deepdoctection) 👑 - [huggingface demo](https://huggingface.co/spaces/deepdoctection/deepdoctection) 🍩 [Donut: Document Understanding Transformer](https://github.com/clovaai/donut)
    - [Parsr](https://github.com/axa-group/Parsr)
    - [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
+   - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 
 DB
   - [duckdb](https://duckdb.org/)
