@@ -40,6 +40,7 @@ Video
  - [ultralytics🍾](https://github.com/ultralytics/ultralytics) - 👑 yolo [documentation](https://docs.ultralytics.com)
  - [dot](https://github.com/sensity-ai/dot)
  - [mediapipe](https://github.com/google/mediapipe) - 😻 Customizable computer vision models by Google.
+ - [quantized models cv model zoo](https://github.com/PINTO0309/PINTO_model_zoo)
  - [mmlab](https://github.com/open-mmlab) - [mmpose](https://github.com/open-mmlab/mmpose) - SOTA for Pose Estimation - [mmengine](https://github.com/open-mmlab/mmengine)
  - [Yolo5 StrongSORT OSNet](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet)
 
