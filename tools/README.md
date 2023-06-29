@@ -126,6 +126,7 @@ ML
   - [HyperGBM](https://github.com/DataCanvasIO/HyperGBM) - AutoML
   - [poniard](https://github.com/rxavier/poniard) - AutoML -> Cross Validation?
   - [autogluon](https://github.com/autogluon/autogluon) - AutoML {Image, Text, Time Series, Tabular Data} with ⌛ limits. Also works with [🤟 imodels](https://auto.gluon.ai/dev/tutorials/tabular_prediction/tabular-interpretability.html)
+  - [skrub](https://github.com/skrub-data/skrub) - data preprocessing made easier (automated)
 
 
 Build
