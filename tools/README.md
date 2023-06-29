@@ -170,6 +170,7 @@ Useful Mixture
 - [trnacity](https://github.com/jd/tenacity) - smarter re-tries 珞
 
 Data | Web Scraping 
+- [playwright](https://github.com/microsoft/playwright) web testing and best replacer of selenium
 - [mitmproxy](https://mitmproxy.org) - monitoring and reverse engineering web traffic 
 - [httpx](https://github.com/projectdiscovery/httpx) - Better Request
 - [parsel](https://github.com/scrapy/parsel) - Better BeautifulSoup
