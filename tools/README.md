@@ -104,7 +104,7 @@ Documents
    - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 
 DB
-  - [duckdb](https://duckdb.org/)
+  - [duckdb](https://duckdb.org/) - use with [ibris](https://ibis-project.org) - on the path with [polars](https://www.pola.rs)
   - [influxdb](https://github.com/influxdata/influxdb)
   - [elasticsearch](https://github.com/elastic/elasticsearch)
   - UI
