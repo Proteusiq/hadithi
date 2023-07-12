@@ -1,0 +1,35 @@
+# Project docker compose file to start up postgres.
+#
+# 1. Set the postgres variables in proj.env
+# 2. Update load-extensions.sh to create the extensions you want loaded
+# 3. Upon running for the first time, the container will be created and the database initialized
+# 4. Subsequent times you run, the database will already be initialized
+# 5. Deleting the container removes the content
+#
+#  To run in the background and tail the logs
+#  > docker-compose up -d
+#  > docker-compose logs -f
+#
+#  Subsequent builds (if you change pg-Dockerfile)
+#  > docker-compose build
+#
+#  curl -v -sL -I localhost:5432/ping
+
+
+version: "3.8"
+
+services:
+  db:
+    container_name: postgresdb
+    build:
+      context: .
+      dockerfile: pg-Dockerfile
+    ports:
+      - 5432:5432
+    restart: always
+    environment:
+      POSTGRES_DB: mining
+      POSTGRES_USER: ibis
+    # want to put secrets in it and put the file in .gitignore
+    env_file:
+      - proj.env

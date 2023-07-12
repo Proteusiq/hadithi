@@ -4,8 +4,8 @@
 status: dict[str, str] = {
     "name": "Prayson W. Daniel",
     "whoiam": "Principal Data  @ NTT DATA",
-    "location": "Copenhagen Business School",
-    "date": "27th March 2023",
+    "location": "Altinget",
+    "date": "28th March 2023",
     "time": "now",
 } 
 ```
