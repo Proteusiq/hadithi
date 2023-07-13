@@ -20,6 +20,11 @@ version: "3.8"
 
 services:
   db:
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready" ]
+      interval: 1s
+      timeout: 5s
+      retries: 100
     container_name: postgresdb
     build:
       context: .
