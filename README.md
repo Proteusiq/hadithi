@@ -22,7 +22,7 @@ Machine Learning Resources
 - [ML for Beginners](https://microsoft.github.io/ML-For-Beginners/) - Microsoft - Diagrams, Code, Scikit-learn
 - [Probability Distribution Explorer](https://distribution-explorer.github.io/index.html#) - Probability distributions and the stories behind
 - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) - Cambridge PDF - Shai Shalev Shwartz and Ben David
-- [Gallery if Distributions](https://www.itl.nist.gov/div898/handbook/eda/section3/eda366.htm) - Handbook of [Statistical Methods](https://www.itl.nist.gov/div898/handbook/)
+- [Gallery of Distributions](https://www.itl.nist.gov/div898/handbook/eda/section3/eda366.htm) - Handbook of [Statistical Methods](https://www.itl.nist.gov/div898/handbook/)
 - [mlcourse.ai](https://mlcourse.ai/book/index.html) - Open Machine Learning Course
 - [Algorithms for Decision Making](https://algorithmsbook.com/) - 💎
 - [Natural Language Processing](https://huggingface.co/learn/nlp-course/en/chapter1/1?fw=pt) 🍄🎙️
