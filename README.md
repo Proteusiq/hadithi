@@ -45,6 +45,7 @@ ML Visually
 - [Probabilistic Machine Learning](https://probml.github.io/pml-book/) - a book series by Kevin Murphy + [GitHub materials](https://github.com/probml)
 - [Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/) - Russell A. Poldrack's GitBook
 - [Bayesian Thinking](https://statswithr.github.io/book/) - A Companion to the Statistics with R Course
+- [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
 
 > Convex Optimization
 - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) – Boyd and Vandenberghe
