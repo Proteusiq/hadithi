@@ -27,6 +27,7 @@ Transformers 🤖
  - [gpt4all](https://github.com/nomic-ai/gpt4all) GPT models running locally: [privateGPT](https://github.com/imartinez/privateGPT)
  - [SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
  - [NeMo](https://github.com/NVIDIA/NeMo-Guardrails) - Nvidia’s LLM guardrails| taming LLM guardrails
+ - [llava](https://github.com/haotian-liu/LLaVA) - LLM for image understanding
 
 
 Audio
