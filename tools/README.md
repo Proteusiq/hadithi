@@ -40,6 +40,7 @@ Audio
 Video
  - [ultralytics🍾](https://github.com/ultralytics/ultralytics) - 👑 yolo [documentation](https://docs.ultralytics.com)
  - [dot](https://github.com/sensity-ai/dot)
+ - [Grounded Segment Anythin](https://github.com/IDEA-Research/Grounded-Segment-Anything) - LLM in images
  - [mediapipe](https://github.com/google/mediapipe) - 😻 Customizable computer vision models by Google.
  - [quantized models cv model zoo](https://github.com/PINTO0309/PINTO_model_zoo)
  - [mmlab](https://github.com/open-mmlab) - [mmpose](https://github.com/open-mmlab/mmpose) - SOTA for Pose Estimation - [mmengine](https://github.com/open-mmlab/mmengine)
