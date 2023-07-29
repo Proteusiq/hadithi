@@ -154,6 +154,7 @@ Optimisation:
      - [Hyperactive](https://github.com/SimonBlanke/Hyperactive)
 
 Monitoring
+ - [guskard](https://github.com/Giskard-AI/giskard) 🐢 Model testing and diagnosis
  - [evidently](https://github.com/evidentlyai/evidently)
  - [deepcheck](https://github.com/deepchecks/deepchecks)
  - [alibi-detect](https://github.com/SeldonIO/alibi-detect)  - [nannyml](https://github.com/NannyML/nannyml) - Drift
