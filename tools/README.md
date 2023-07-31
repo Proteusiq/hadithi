@@ -29,7 +29,7 @@ Transformers 🤖
  - [NeMo](https://github.com/NVIDIA/NeMo-Guardrails) - Nvidia’s LLM guardrails| taming LLM guardrails
  - [llava](https://github.com/haotian-liu/LLaVA) - LLM for image understanding
 
-Beyond: [LLM Attack](https://llm-attacks.org/#)
+Beyond: [AlpacaEval LLM Leaderboard](https://tatsu-lab.github.io/alpaca_eval/) 🦙 [LLM Attack](https://llm-attacks.org/#)
 
 Audio
  - [speechbrain](https://github.com/speechbrain/speechbrain) - 🤗 speech recognition, speech separation, speaker verification, and STT
