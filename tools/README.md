@@ -25,7 +25,7 @@ Transformers 🤖
  - [Dolly](https://github.com/databrickslabs/dolly)  - Democratizing the magic of ChatGPT 
  - [langflow](https://github.com/logspace-ai/langflow) <- UI - [langchain](https://github.com/hwchase17/langchain) - compostional LLM 🐲👑🤗🧱
  - [gpt4all](https://github.com/nomic-ai/gpt4all) GPT models running locally: [privateGPT](https://github.com/imartinez/privateGPT)
- - [SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
+ - [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - [AgentGPT](https://github.com/reworkd/AgentGPT)
  - [NeMo](https://github.com/NVIDIA/NeMo-Guardrails) - Nvidia’s LLM guardrails| taming LLM guardrails
  - [llava](https://github.com/haotian-liu/LLaVA) - LLM for image understanding
 
@@ -142,8 +142,8 @@ Build
   - [xcessiv](https://github.com/reiinakano/xcessiv) - Ensembling, stacking and hyperparameter with React UI
   - [mlens](https://github.com/flennerhag/mlens) - Ensemble Scikit-Learn models
   - [skope](https://github.com/scikit-learn-contrib/skope-rules) - scikit rules
-  - [DESlib](https://github.com/scikit-learn-contrib/DESlib) - dynamic classifier and ensemble selectioand disassembled models
-  - [skypilot](https://github.com/skypilot-org/skypilot?) -  🏡 model training cross cloud ⛅️ services 
+  - [DESlib](https://github.com/scikit-learn-contrib/DESlib) - dynamic classifier and ensemble selection and disassembled models
+  - [skypilot](https://github.com/skypilot-org/skypilot?) -  🏡 model training cross-cloud ⛅️ services 
   - [less](https://github.com/sibirbil/LESS) - Learning with Subset Stacking -> Learn Code
  
 Features
