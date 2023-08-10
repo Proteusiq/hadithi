@@ -23,7 +23,7 @@ Transformers 🤖
  - [viper](https://github.com/cvlab-columbia/viper) - Visual Inference via Python Execution for Reasoning
  - [T2I Adapter](https://github.com/TencentARC/T2I-Adapter) - Taming art generation
  - [Dolly](https://github.com/databrickslabs/dolly)  - Democratizing the magic of ChatGPT 
- - [langflow](https://github.com/logspace-ai/langflow) <- UI - [langchain](https://github.com/hwchase17/langchain) - compostional LLM 🐲👑🤗🧱
+ - [langflow](https://github.com/logspace-ai/langflow) <- UI - [langchain](https://github.com/hwchase17/langchain) - compostional LLM 🐲👑🤗🧱 [flowise](https://github.com/FlowiseAI/Flowise) - langchain in js 🧁
  - [gpt4all](https://github.com/nomic-ai/gpt4all) GPT models running locally: [privateGPT](https://github.com/imartinez/privateGPT)
  - [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - [AgentGPT](https://github.com/reworkd/AgentGPT)
  - [NeMo](https://github.com/NVIDIA/NeMo-Guardrails) - Nvidia’s LLM guardrails| taming LLM guardrails
