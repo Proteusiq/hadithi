@@ -43,6 +43,26 @@ a brief description, advantage, and typical use-case for each library:
    from flaml import AutoML
    automl = AutoML().fit(X, y, task="classification")
    ```
+Of course! Here's the entry for `CVXPY`:
+
+---
+
+**CVXPY**
+   - **Description:** A Python library for convex optimization.
+   - **Advantage:** Provides an intuitive way to define and solve convex optimization problems.
+   - **When to use:** When you need to solve optimization problems in various domains like finance, control, signal processing, etc.
+   
+   ```python
+   import cvxpy as cp
+
+   x = cp.Variable()
+   objective = cp.Minimize(x**2 + 1)
+   constraints = [x >= 0]
+   problem = cp.Problem(objective, constraints)
+   result = problem.solve()
+   ```
+
+---
 
 4. **transformers**
    - **Description:** Natural language processing tasks using deep learning models like BERT.
@@ -157,6 +177,23 @@ a brief description, advantage, and typical use-case for each library:
 
 - **Practical:**
 
+5. **pydantic**
+   - **Description:** Data validation and settings management using Python type annotations.
+   - **Advantage:** Robust and type-safe data validation; integrates seamlessly with FastAPI.
+   - **When to use:** When you need to validate data, create data models, or parse configurations.
+   
+   ```python
+   from pydantic import BaseModel
+
+   class User(BaseModel):
+       name: str
+       age: int = 18
+
+   user = User(name="John")
+   ```
+
+---
+
 1. **loguru**
    - **Description:** Simplified logging in Python.
    - **Advantage:** Easier setup, colorful logging.
@@ -199,4 +236,9 @@ a brief description, advantage, and typical use-case for each library:
    - **Description:** (Assuming this is a library as of my last update in 2021, I wasn't aware of "ruff". You might need to provide its details.)
 
 4. **pre-commit**
-   - **Description:** A
+   - **Description:** A framework for managing and maintaining pre-commit hooks.
+   - **Advantage:** Ensures code meets certain conditions before committing.
+   - **When to use:** Code quality checks during the development phase.
+
+---
+
