@@ -47,9 +47,13 @@ preprocessor = ColumnTransformer(
         ])
 
 predictor = Pipeline(steps=[('preprocessor', preprocessor),
-                  ('classifier', LogisticRegression(solver='lbfgs'))]) 
+                  ('classifier', LogisticRegression(solver='lbfgs'))])
 
-# fit, evaluate and predict
+
+# train
+predictor.fit(X_train, y_train)
+
+#evaluate and predict
 
 ```
 
@@ -58,12 +62,31 @@ predictor = Pipeline(steps=[('preprocessor', preprocessor),
    - **Advantage:** Provides tools to define probabilistic models in code.
    - **When to use:** When performing Bayesian analysis or probabilistic programming.
    
-   ```python
-   import pymc3 as pm
+```python
+import pymc as pm
+import xarray as xr
 
-   with pm.Model() as model:
-       mu = pm.Normal('mu', mu=0, sd=1)
-       trace = pm.sample(1000)
+
+with pm.Model() as model:
+    
+    # Priors
+    alpha = pm.Normal('alpha', mu=0, sd=10)
+    beta = pm.Normal('beta', mu=0, sd=10, shape=X_train.shape[1])
+    
+    # Linear combination
+    mu = alpha + xr.dot(X_train, beta)
+    
+    # Logistic link function
+    p = pm.invlogit(mu)
+    
+    # Likelihood
+    y_obs = pm.Bernoulli('y_obs', p=p, observed=y_train)
+    
+    # Sample/train
+    trace = pm.sample(3000)
+
+# Evaluation with posterior predictive checks
+# Prediction by drawing samples from the posterior predictive distribution
    ```
 
 4. **FLAML**
