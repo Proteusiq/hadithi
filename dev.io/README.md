@@ -14,7 +14,7 @@ In this article, I presented a brief description, highlight primary advantages, 
    - **Advantage:** Easy to use with consistent API and good documentation.
    - **When to use:** A go-to package for performing standard machine learning tasks like classification, regression, and clustering.
    
-   ```python
+```python
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.impute import SimpleImputer
@@ -51,7 +51,7 @@ predictor = Pipeline(steps=[('preprocessor', preprocessor),
 
 # fit, evaluate and predict
 
-   ```
+```
 
 3. **PyMC**
    - **Description:** Bayesian modeling and probabilistic machine learning.
