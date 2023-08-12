@@ -15,11 +15,41 @@ In this article, I presented a brief description, highlight primary advantages, 
    - **When to use:** A go-to package for performing standard machine learning tasks like classification, regression, and clustering.
    
    ```python
-   from sklearn.ensemble import RandomForestClassifier
-   from sklearn.datasets import load_iris
+from sklearn.compose import ColumnTransformer
+from sklearn.pipeline import Pipeline
+from sklearn.impute import SimpleImputer
+from sklearn.preprocessing import StandardScaler, OneHotEncoder
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.linear_models import 
 
-   data = load_iris()
-   clf = RandomForestClassifier().fit(data.data, data.target)
+
+numeric_features = ['Salary']
+numeric_transformer = Pipeline(steps=[
+    ('imputer', SimpleImputer(strategy='median')),
+    ('scaler', StandardScaler())])
+
+
+text_feature = 'ProductDescription'
+text_transformer = Pipeline(steps=[
+    ('vectorizer', TfidfVectorizer(stop_words="english"))
+])
+
+categorical_features = ['Age','Country']
+categorical_transformer = Pipeline(steps=[
+    ('imputer', SimpleImputer(strategy='constant', fill_value='missing')),
+    ('onehot', OneHotEncoder(handle_unknown='ignore'))])
+
+preprocessor = ColumnTransformer(
+    transformers=[
+        ('num', numeric_transformer, numeric_features),
+        ('txt', text_transformer, text_feature),
+        ('cat', categorical_transformer, categorical_features),
+        ])
+
+predictor = Pipeline(steps=[('preprocessor', preprocessor),
+                  ('classifier', LogisticRegression(solver='lbfgs'))]) 
+
+# fit, evaluate and predict
    ```
 
 3. **PyMC**
