@@ -20,7 +20,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.linear_models import 
+from sklearn.linear_models import LogisticRegression
 
 
 numeric_features = ['Salary']
