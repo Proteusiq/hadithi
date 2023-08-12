@@ -50,6 +50,7 @@ predictor = Pipeline(steps=[('preprocessor', preprocessor),
                   ('classifier', LogisticRegression(solver='lbfgs'))]) 
 
 # fit, evaluate and predict
+
    ```
 
 3. **PyMC**
