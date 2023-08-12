@@ -94,13 +94,30 @@ with pm.Model() as model:
    - **Advantage:** Finds the best ML model with minimal code and time.
    - **When to use:** When you want quick results without deep diving into model tuning.
    
-   ```python
-   from flaml import AutoML
-   automl = AutoML().fit(X, y, task="classification")
-   ```
-Of course! Here's the entry for `CVXPY`:
+```python
+from flaml import AutoML
 
----
+automl = AutoML()
+
+automl_config = {
+    "time_budget": 120,  # time in seconds
+    "metric": 'accuracy',
+    "task": 'classification',
+     "estimator_list": ['lgbm', 'xgboost', 'catboost', 'extra_tree',],
+    "seed": 42,
+    "log_file_name": "churn.log",
+    "log_training_metric": True,
+}
+
+automl.fit(X_train=X_train, y_train=y_train, **settings)
+
+# train
+automl.fit(X_train, y_train, **automl_config)
+
+# evaluate and predict
+```
+
+
 
 **CVXPY**
    - **Description:** A Python library for convex optimization.
