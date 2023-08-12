@@ -57,7 +57,7 @@ predictor.fit(X_train, y_train)
 
 ```
 
-3. **PyMC**
+3. **[PyMC](https://www.pymc.io/welcome.html)**
    - **Description:** Bayesian modeling and probabilistic machine learning.
    - **Advantage:** Provides tools to define probabilistic models in code.
    - **When to use:** When performing Bayesian analysis or probabilistic programming.
@@ -89,7 +89,7 @@ with pm.Model() as model:
 # Prediction by drawing samples from the posterior predictive distribution
    ```
 
-4. **FLAML**
+4. **[FLAML](https://microsoft.github.io/FLAML/)**
    - **Description:** A fast and lightweight automated machine learning library.
    - **Advantage:** Finds the best ML model with minimal code and time.
    - **When to use:** When you want quick results without deep diving into model tuning.
