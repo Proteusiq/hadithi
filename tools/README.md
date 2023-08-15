@@ -120,7 +120,7 @@ EDA
 ML
   - [scikit-learn](https://github.com/scikit-learn/scikit-learn) - Python 🐍 ML
   - [PyMC](https://github.com/pymc-devs/pymc) - Bayesian ML - [CausalPy](https://github.com/pymc-labs/CausalPy)
-  - [linfa](https://github.com/rust-ml/linfa) - Rust 🦀 ML [burn](https://github.com/burn-rs/burn) - Tensor Rust [candle](https://github.com/huggingface/candle/tree/main) also tensor from 🦀
+  - [linfa](https://github.com/rust-ml/linfa) - Rust 🦀 ML [burn](https://github.com/burn-rs/burn) - Tensor Rust [candle](https://github.com/huggingface/candle/tree/main) Minimalist ML framework for  🦀
   - [flaml](https://github.com/microsoft/FLAML) - fast library for AutoML and tuning.
   - [hummingbird](https://github.com/microsoft/hummingbird) - ML compile models to Tensor
   - [auto-sklearn](https://github.com/automl/auto-sklearn)
