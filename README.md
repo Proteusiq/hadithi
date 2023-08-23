@@ -60,6 +60,7 @@ for Coders with
 fastai & PyTorch](https://course.fast.ai/Resources/book.html) - Jeremy Howard &
 Sylvain Gugger - [Practical Deep Learning](https://course.fast.ai/) course
 - [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) - CS 285 at UC Berkeley
+- [🤗 Huggingface Reinforcement Learning](https://huggingface.co/learn/deep-rl-course/unit1/rl-framework)
 
 
 > Podcasts
