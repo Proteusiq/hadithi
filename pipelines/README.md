@@ -3,6 +3,7 @@
 
 ### Data Pipelines
 * [Dagster](https://github.com/dagster-io/dagster) - 👑 Beautiful UI and CLI that enforces good design 🐙🤗: Brilliant coding experience and concepts: my take [advance scraping](https://github.com/Proteusiq/advance_scraping)
+* [Kestra](https://kestra.io) - GitHub Action-like Pipeline 💃🤟
 * [Prefect](https://github.com/PrefectHQ/prefect) - 🙈🎮 Less control on server UI 
 * [Airflow](https://github.com/apache/airflow) - Doing it well is hard! Powerful, yes. Tested, yes. Three instances 😒 
 * [MageAI](https://github.com/mage-ai/mage-ai) - Tries to replace Airflow 
