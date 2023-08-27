@@ -32,6 +32,8 @@ Transformers 🤖
 
 Beyond: [AlpacaEval LLM Leaderboard](https://tatsu-lab.github.io/alpaca_eval/) 🦙 [LLM Attack](https://llm-attacks.org/#)
 
+[openai cookbook](https://github.com/openai/openai-cookbook)
+
 Audio
  - [speechbrain](https://github.com/speechbrain/speechbrain) - 🤗 speech recognition, speech separation, speaker verification, and STT
  - [pyannote](https://github.com/pyannote/pyannote-audio)
