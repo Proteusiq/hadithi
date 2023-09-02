@@ -12,6 +12,9 @@ psycopg2-binary = "^2.9.6"
 polars = "^0.18.6"
 pandas = "^2.0.3"
 ibis-framework = {extras = ["duckdb", "postgres"], version = "^6.0.0"}
+numpy = "^1.25.2"
+scikit-learn = "^1.3.0"
+statsmodels = "^0.14.0"
 
 
 [tool.poetry.group.dev.dependencies]
@@ -19,6 +22,11 @@ ipykernel = "^6.24.0"
 black = "^23.7.0"
 ruff = "^0.0.277"
 pytest = "^7.4.0"
+nbformat = "^5.9.2"
+
+
+[tool.poetry.group.eda.dependencies]
+plotly = "^5.16.1"
 
 [build-system]
 requires = ["poetry-core"]
