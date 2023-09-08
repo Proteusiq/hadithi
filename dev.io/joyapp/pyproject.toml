@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "joyapp"
+version = "0.1.0"
+description = "Pure Joy Dev.to"
+authors = ["Prayson W. Daniel <praysonpi@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+river = "^0.19.0"
+fastapi = "^0.103.1"
+uvicorn = "^0.23.2"
+watchdog = "^3.0.0"
+tenacity = "^8.2.3"
+orjson = "^3.9.7"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.7.0"
+ruff = "^0.0.287"
+pytest = "^7.4.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
