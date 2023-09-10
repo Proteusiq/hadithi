@@ -45,8 +45,20 @@ def ml_io(
     mode: Literal["wb", "rb"] = "rb",
     ml_object: compose.Pipeline | None = None,
 ):
-    if mode == "rb":
+    if mode == "rb" and not model_file.exists():
+        ml = penguins_model()
+        ml.meta = {
+            "predicted": 0,
+            "learned": 0,
+        }
+        # save the first local copy (god like ...)
+        model_file.write_bytes(pickle.dumps(ml_object))
+
+        return ml
+    
+    elif mode == "rb" and model_file.exists():
         return pickle.loads(model_file.read_bytes())
+    
     elif mode == "wb":
         return model_file.write_bytes(pickle.dumps(ml_object))
     else:
