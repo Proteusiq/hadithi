@@ -80,8 +80,7 @@ def learn(learn_features: LearnFeatures) -> dict[str, str | int]:
 
     app.state.ml.meta["learned"] += 1
 
-    with Path(MODEL_FILE).open("wb") as f:
-        pickle.dump(app.state.ml, f)
+    Path(MODEL_FILE).write_bytes(pickle.dumps(app.state.ml))
 
     return {
         "status": f"learned {y}. Initially predicted {y_pred}",
