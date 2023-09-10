@@ -1,7 +1,9 @@
 from pathlib import Path
 import pickle
+
 from pydantic import BaseModel
 from fastapi import FastAPI
+
 
 
 MODEL_FILE = "model/naive.pickle"
