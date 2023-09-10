@@ -1,11 +1,11 @@
 from pathlib import Path
-import pickle
 
 from pydantic import BaseModel
 from fastapi import FastAPI
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
+from ml import ml_io
 
 MODEL_FILE = "model/naive.pickle"
 app = FastAPI(title="😂 Pure Joy")
@@ -13,8 +13,8 @@ app = FastAPI(title="😂 Pure Joy")
 
 class FileHandler(FileSystemEventHandler):
     def on_modified(self, event):
-        print(f"path={event.src_path} event={event.event_type}")
-        app.state.ml = pickle.loads(Path(MODEL_FILE).read_bytes())
+        # print(f"path={event.src_path} event={event.event_type}")
+        app.state.ml = ml_io(model_file=Path(MODEL_FILE), mode="rb")
 
 
 class Features(BaseModel):
@@ -39,14 +39,18 @@ observer = Observer()
 def startup_event():
     model_file = Path(MODEL_FILE)
     if not model_file.exists():
+        # lazy import
         from ml import penguins_model
 
         ml = penguins_model()
-        ml.meta = {"predictions": 0, "learned": 0,}
+        ml.meta = {
+            "predictions": 0,
+            "learned": 0,
+        }
 
         app.state.ml = ml
     else:
-        app.state.ml = pickle.loads(model_file.read_bytes())
+        app.state.ml = ml_io(model_file=model_file, mode="rb")
 
     observer.schedule(handler, path=MODEL_FILE, recursive=False)
     observer.start()
@@ -80,7 +84,7 @@ def learn(learn_features: LearnFeatures) -> dict[str, str | int]:
 
     app.state.ml.meta["learned"] += 1
 
-    Path(MODEL_FILE).write_bytes(pickle.dumps(app.state.ml))
+    ml_io(model_file=Path(MODEL_FILE), mode="wb", ml_object=app.state.ml)
 
     return {
         "status": f"learned {y}. Initially predicted {y_pred}",
