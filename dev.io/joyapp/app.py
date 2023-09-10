@@ -1,11 +1,12 @@
 from pathlib import Path
 
-from pydantic import BaseModel
 from fastapi import FastAPI
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
 from ml import ml_io
+from schemas import Attributes, LearnAttributes, Predictions, Learnings
+
 
 MODEL_FILE = "model/naive.pickle"
 app = FastAPI(title="😂 Pure Joy")
@@ -17,20 +18,6 @@ class FileHandler(FileSystemEventHandler):
         app.state.ml = ml_io(model_file=Path(MODEL_FILE), mode="rb")
 
 
-class Features(BaseModel):
-    island: str
-    bill_length_mm: float | None
-    bill_depth_mm: float | None
-    flipper_length_mm: float | None
-    body_mass_g: float | None
-    sex: str | None
-
-
-class LearnFeatures(BaseModel):
-    features: Features
-    species: str
-
-
 handler = FileHandler()
 observer = Observer()
 
@@ -38,19 +25,7 @@ observer = Observer()
 @app.on_event("startup")
 def startup_event():
     model_file = Path(MODEL_FILE)
-    if not model_file.exists():
-        # lazy import
-        from ml import penguins_model
-
-        ml = penguins_model()
-        ml.meta = {
-            "predictions": 0,
-            "learned": 0,
-        }
-
-        app.state.ml = ml
-    else:
-        app.state.ml = ml_io(model_file=model_file, mode="rb")
+    app.state.ml = ml_io(model_file=model_file, mode="rb")
 
     observer.schedule(handler, path=MODEL_FILE, recursive=False)
     observer.start()
@@ -63,21 +38,21 @@ def shutdown_event():
 
 
 @app.post("/predict")
-def predict(features: Features) -> dict[str, str | int | None]:
-    X = features.model_dump()
+def predict(attributes: Attributes) -> Predictions:
+    X = attributes.model_dump()
     y_pred = app.state.ml.predict_one(X)
-    app.state.ml.meta["predictions"] += 1
+    app.state.ml.meta["predicted"] += 1
 
     return {
-        "predicted": y_pred,
+        "species": y_pred,
         **app.state.ml.meta,
     }
 
 
 @app.post("/learn")
-def learn(learn_features: LearnFeatures) -> dict[str, str | int]:
-    X = learn_features.features.model_dump()
-    y = learn_features.species
+def learn(learn_attributes: LearnAttributes) -> Learnings:
+    X = learn_attributes.attributes.model_dump()
+    y = learn_attributes.species
 
     y_pred = app.state.ml.predict_one(X)
     app.state.ml.learn_one(X, y)
