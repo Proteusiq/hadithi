@@ -1,9 +1,14 @@
+import pickle
+from pathlib import Path
+from typing import Literal
+
 from river import compose
 from river import preprocessing, stats
 from river import naive_bayes
+from tenacity import retry, retry_if_exception_type
 
 
-def penguins_model():
+def penguins_model() -> compose.Pipeline:
     island_transformation = compose.Select("island") | preprocessing.OneHotEncoder(
         drop_first=True
     )
@@ -32,6 +37,20 @@ def penguins_model():
     )
 
     return model
+
+
+@retry(retry=retry_if_exception_type(IOError))
+def ml_io(
+    model_file: Path,
+    mode: Literal["wb", "rb"] = "rb",
+    ml_object: compose.Pipeline | None = None,
+):
+    if mode == "rb":
+        return pickle.loads(model_file.read_bytes())
+    elif mode == "wb":
+        return model_file.write_bytes(pickle.dumps(ml_object))
+    else:
+        NotImplemented(f"mode can only be `wb` or `rb`")
 
 
 if __name__ == "__main__":
