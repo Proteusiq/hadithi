@@ -39,7 +39,7 @@ def penguins_model() -> compose.Pipeline:
     return model
 
 
-@retry(retry=retry_if_exception_type(IOError))
+@retry(retry=retry_if_exception_type(EOFError))
 def ml_io(
     model_file: Path,
     mode: Literal["wb", "rb"] = "rb",
