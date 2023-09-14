@@ -29,6 +29,7 @@
    * [neuralforecast](https://github.com/Nixtla/neuralforecast)
    * [hierarchicalforecast](https://github.com/Nixtla/hierarchicalforecast)
    * [nixtla](https://github.com/Nixtla/nixtla) - - auto forecasting
+   * [functime](https://github.com/neocortexdb/functime)
 
 ## Example of Stock Data
 
