@@ -57,7 +57,10 @@ def ml_io(
         return ml
     
     elif mode == "rb" and model_file.exists():
-        return pickle.loads(model_file.read_bytes())
+        ml = pickle.loads(model_file.read_bytes())
+        if ml is None:
+            raise EOFError
+        return ml
     
     elif mode == "wb":
         return model_file.write_bytes(pickle.dumps(ml_object))
