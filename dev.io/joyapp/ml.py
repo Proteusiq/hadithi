@@ -5,7 +5,8 @@ from typing import Literal
 from river import compose
 from river import preprocessing, stats
 from river import naive_bayes
-from tenacity import retry, retry_if_exception_type
+from tenacity import (retry, retry_if_exception_type,
+                       retry_if_result, wait_random_exponential)
 
 
 def penguins_model() -> compose.Pipeline:
@@ -39,7 +40,11 @@ def penguins_model() -> compose.Pipeline:
     return model
 
 
-@retry(retry=retry_if_exception_type(EOFError))
+@retry(retry=retry_if_exception_type(EOFError)
+        | retry_if_result(lambda d: d is None)
+        ,   wait=wait_random_exponential(multiplier=1, max=6)
+        
+        )
 def ml_io(
     model_file: Path,
     mode: Literal["wb", "rb"] = "rb",
@@ -58,8 +63,6 @@ def ml_io(
     
     elif mode == "rb" and model_file.exists():
         ml = pickle.loads(model_file.read_bytes())
-        if ml is None:
-            raise EOFError
         return ml
     
     elif mode == "wb":
