@@ -5,3 +5,4 @@
 - [phoenix](https://github.com/Arize-ai/phoenix) Embedding visualization likr no other
 - [pygwalker](https://github.com/Kanaries/pygwalker) - Tableau-like visualization in Python
 - [solara](https://github.com/widgetti/solara) - Web App + Jupyter Lab extention - like [Panel](https://github.com/holoviz/panel) - dashboarding
+https://github.com/predict-idlab/plotly-resampler
