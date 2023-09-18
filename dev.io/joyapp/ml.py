@@ -4,12 +4,21 @@ from typing import Literal
 
 from river import compose
 from river import preprocessing, stats
-from river import naive_bayes
+from river import forest
+# from river import naive_bayes
 from tenacity import (retry, retry_if_exception_type,
                        retry_if_result, wait_random_exponential)
 
 
-def penguins_model() -> compose.Pipeline:
+# ml_predictor = naive_bayes.MultinomialNB(alpha=1)
+ml_predictor = forest.AMFClassifier(
+    n_estimators=10,
+    use_aggregation=True,
+    dirichlet=0.5,
+    seed=1
+)
+
+def penguins_model(ml_predictor=ml_predictor) -> compose.Pipeline:
     island_transformation = compose.Select("island") | preprocessing.OneHotEncoder(
         drop_first=True
     )
@@ -34,7 +43,7 @@ def penguins_model() -> compose.Pipeline:
 
     model = (
         island_transformation + sex_transformation + numeric_transformation
-        | naive_bayes.MultinomialNB(alpha=1)
+        | ml_predictor
     )
 
     return model
