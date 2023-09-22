@@ -30,6 +30,8 @@ Transformers 🤖
  - [NeMo](https://github.com/NVIDIA/NeMo-Guardrails) - Nvidia’s LLM guardrails| taming LLM guardrails
  - [llava](https://github.com/haotian-liu/LLaVA) - LLM for image understanding
 
+ - [llmstack](https://github.com/trypromptly/LLMStack)
+
 Beyond: [AlpacaEval LLM Leaderboard](https://tatsu-lab.github.io/alpaca_eval/) 🦙 [LLM Attack](https://llm-attacks.org/#)
 
 [openai cookbook](https://github.com/openai/openai-cookbook)
