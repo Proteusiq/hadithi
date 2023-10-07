@@ -38,6 +38,9 @@ Beyond: [AlpacaEval LLM Leaderboard](https://tatsu-lab.github.io/alpaca_eval/) ð
 
 [openai cookbook](https://github.com/openai/openai-cookbook)
 
+Testing LLM: 
+- [deepeval](https://github.com/confident-ai/deepeval)
+
 Audio
  - [speechbrain](https://github.com/speechbrain/speechbrain) - ðŸ¤— speech recognition, speech separation, speaker verification, and STT
  - [pyannote](https://github.com/pyannote/pyannote-audio)
