@@ -170,6 +170,7 @@ Monitoring
  - [alibi-detect](https://github.com/SeldonIO/alibi-detect)  - [nannyml](https://github.com/NannyML/nannyml) - Drift
      - [Uptrain](https://github.com/uptrain-ai/uptrain)
      - [fairlearn](https://github.com/fairlearn/fairlearn)
+     - [dice](https://github.com/interpretml/DiCE) counterfactual testing
      
 Agent Based Modelling
 - [mesa](https://github.com/projectmesa/mesa)
