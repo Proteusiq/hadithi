@@ -38,6 +38,8 @@ Beyond: [AlpacaEval LLM Leaderboard](https://tatsu-lab.github.io/alpaca_eval/) ð
 
 [openai cookbook](https://github.com/openai/openai-cookbook)
 
+[Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
+
 Testing LLM: 
 - [deepeval](https://github.com/confident-ai/deepeval)
 
