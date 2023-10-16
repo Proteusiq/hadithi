@@ -10,7 +10,7 @@ Hadithi is also a home of tools 🛠️, packages 📦  and libraries 🏗️ I 
 ### [_Sura ya Kwanza_](https://github.com/Proteusiq/hadithi/tree/main/mlfluke)
 Understanding machine learning predictions. What you see is not always what you get 🤖. 
 
-Machine Learning Resources
+[Machine Learning Resources](https://dev.to/proteusiq/the-ultimate-one-stop-guide-to-data-science-resources-4in6)
 - [An Introduction to Statistical Learning](https://www.statlearning.com/) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani - [\w Python PDF](https://hastie.su.domains/ISLP/ISLP_website.pdf) -
 - [Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/course/) - MIT Open Learning Library
 - [CS229 - Machine Learning](https://see.stanford.edu/Course/CS229) - Andrew Ng Stanford University
