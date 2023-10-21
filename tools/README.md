@@ -51,6 +51,7 @@ Audio
  - [music generation paper](https://google-research.github.io/seanet/musiclm/examples/)
 
 Video
+- [supervision](https://github.com/roboflow/supervision)
  - [ultralytics🍾](https://github.com/ultralytics/ultralytics) - 👑 yolo [documentation](https://docs.ultralytics.com)
  - [dot](https://github.com/sensity-ai/dot)
  - [Grounded Segment Anythin](https://github.com/IDEA-Research/Grounded-Segment-Anything) - LLM in images
