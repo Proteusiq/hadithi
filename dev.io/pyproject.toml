@@ -19,6 +19,7 @@ httpx = "^0.25.0"
 mimesis = "^11.1.0"
 neomodel = "^5.1.2"
 parsel = "^1.8.1"
+tenacity = "^8.2.3"
 
 
 [tool.poetry.group.dev.dependencies]
@@ -30,6 +31,7 @@ nbformat = "^5.9.2"
 
 [tool.poe.tasks]
 pymc = "pixi shell"
+
 
 
 
