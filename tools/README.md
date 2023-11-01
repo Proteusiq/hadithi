@@ -37,6 +37,7 @@ Transformers 🤖
 Beyond: [AlpacaEval LLM Leaderboard](https://tatsu-lab.github.io/alpaca_eval/) 🦙 [LLM Attack](https://llm-attacks.org/#)
 
 [openai cookbook](https://github.com/openai/openai-cookbook)
+[Prompt Engineering Guide](https://www.promptingguide.ai/)
 
 [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
 
