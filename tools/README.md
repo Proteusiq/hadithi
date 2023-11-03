@@ -60,6 +60,7 @@ Video
  - [quantized models cv model zoo](https://github.com/PINTO0309/PINTO_model_zoo)
  - [mmlab](https://github.com/open-mmlab) - [mmpose](https://github.com/open-mmlab/mmpose) - SOTA for Pose Estimation - [mmengine](https://github.com/open-mmlab/mmengine)
  - [Yolo5 StrongSORT OSNet](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet)
+ - [autodistill](https://github.com/autodistill/autodistill)
 
 Image
   - [insightface](https://github.com/deepinsight/insightface)
