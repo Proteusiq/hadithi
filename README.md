@@ -28,7 +28,7 @@ Understanding machine learning predictions. What you see is not always what you 
 - [Natural Language Processing](https://huggingface.co/learn/nlp-course/en/chapter1/1?fw=pt) 🍄🎙️
 
 ML Visually
-- [Illustrated ML](https://illustrated-machine-learning.github.io/) - 👑
+- [Illustrated ML](https://illustrated-machine-learning.github.io/) - ML Concepts👑
 - [Seeing Theory](https://seeing-theory.brown.edu/index.html) - A visual introduction to probability and statistics 💎
 - [MLU-Expl{ai}n](https://mlu-explain.github.io/) - Visual explanations of core machine learning concepts
 - [Distill](https://distill.pub/) - Machine Learning Research Should Be Clear, Dynamic and Vivid
