@@ -53,6 +53,7 @@ ML Visually
 - [EE364A - Convex Optimization I](https://see.stanford.edu/Course/EE364A) & [II](https://see.stanford.edu/Course/EE364B) - Stephen P. Boyd - Stanford University 
 
 > Deep Learning
+- [Dive into Deep Learning](http://preview.d2l.ai/d2l-en/master/index.html)
 - [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/) 
 - [Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/) - DS-GA 1008 · Spring 2020 · NYU Center For Data Science
 - [Deep Learning
