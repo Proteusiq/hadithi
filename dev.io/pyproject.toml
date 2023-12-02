@@ -29,13 +29,6 @@ ruff = "^0.0.277"
 pytest = "^7.4.0"
 nbformat = "^5.9.2"
 
-[tool.poe.tasks]
-pymc = "pixi shell"
-
-
-
-
-
 [tool.poetry.group.eda.dependencies]
 plotly = "^5.16.1"
 
