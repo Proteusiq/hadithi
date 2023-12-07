@@ -5,18 +5,21 @@ from typing import Literal
 from river import compose
 from river import preprocessing, stats
 from river import forest
+
 # from river import naive_bayes
-from tenacity import (retry, retry_if_exception_type,
-                       retry_if_result, wait_random_exponential)
+from tenacity import (
+    retry,
+    retry_if_exception_type,
+    retry_if_result,
+    wait_random_exponential,
+)
 
 
 # ml_predictor = naive_bayes.MultinomialNB(alpha=1)
 ml_predictor = forest.AMFClassifier(
-    n_estimators=10,
-    use_aggregation=True,
-    dirichlet=0.5,
-    seed=1
+    n_estimators=10, use_aggregation=True, dirichlet=0.5, seed=1
 )
+
 
 def penguins_model(ml_predictor=ml_predictor) -> compose.Pipeline:
     island_transformation = compose.Select("island") | preprocessing.OneHotEncoder(
@@ -49,11 +52,10 @@ def penguins_model(ml_predictor=ml_predictor) -> compose.Pipeline:
     return model
 
 
-@retry(retry=retry_if_exception_type(EOFError)
-        | retry_if_result(lambda d: d is None)
-        ,   wait=wait_random_exponential(multiplier=1, max=6)
-        
-        )
+@retry(
+    retry=retry_if_exception_type(EOFError) | retry_if_result(lambda d: d is None),
+    wait=wait_random_exponential(multiplier=1, max=6),
+)
 def ml_io(
     model_file: Path,
     mode: Literal["wb", "rb"] = "rb",
@@ -69,11 +71,11 @@ def ml_io(
         model_file.write_bytes(pickle.dumps(ml_object))
 
         return ml
-    
+
     elif mode == "rb" and model_file.exists():
         ml = pickle.loads(model_file.read_bytes())
         return ml
-    
+
     elif mode == "wb":
         return model_file.write_bytes(pickle.dumps(ml_object))
     else:
