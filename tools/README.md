@@ -3,6 +3,7 @@ ___
 Useful and useful-less tools
 
 Transformers 🤖 
+- [LLM Visualized](https://bbycroft.net/llm) 🤴🐦‍⬛🐚
  - [Understanding Transformers](https://huggingface.co/course) - 🤗 courses + [🦫 transformer](https://huggingface.co/course/chapter0/1) [server](https://github.com/huggingface/text-generation-inference)
  - [LLMZoo](https://github.com/FreedomIntelligence/LLMZoo) - # of params, license and more
  - [Diffusion FastForward](https://github.com/mikonvergence/DiffusionFastForward) - materials, courses, and code 拾 [Dall-E prompts](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL·E-2-prompt-book-v1.02.pdf) - [openjourney](https://huggingface.co/prompthero/openjourney-v4)

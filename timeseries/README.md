@@ -30,6 +30,7 @@
    * [hierarchicalforecast](https://github.com/Nixtla/hierarchicalforecast)
    * [nixtla](https://github.com/Nixtla/nixtla) - - auto forecasting
    * [functime](https://github.com/neocortexdb/functime)
+   * [aeon](https://github.com/aeon-toolkit/aeon)
 
 ## Example of Stock Data
 
