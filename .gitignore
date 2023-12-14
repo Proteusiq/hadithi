@@ -133,3 +133,5 @@ mlfluke/notebooks/models/
 dev.io/joyapp/model/naive.pickle
 dev.io/notebooks/automl*
 dev.io/.mapbox_token
+dev.io/notebooks/models/*.pkl
+
