@@ -28,8 +28,8 @@ if __name__ == "__main__":
     predictor = KNN(k)
     predictor.fit(X_train, y_train)
 
-    # predict on ur test set
+    # predict on test set
     y_pred = predictor.predict(X_test)
 
-    # evaluate performace
+    # evaluate performance
     print(classification_report(y_true=y_test, y_pred=y_pred))
