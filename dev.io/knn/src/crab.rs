@@ -1,5 +1,5 @@
-use std::collections::HashMap;
 use ndarray::Array1;
+use std::collections::HashMap;
 
 pub fn euclidean_distance(x1: &Array1<f64>, x2: &Array1<f64>) -> f64 {
     (x1 - x2).mapv(|a| a.powi(2)).sum().sqrt()
@@ -13,7 +13,11 @@ pub struct KNN {
 
 impl KNN {
     pub fn new(k: usize) -> KNN {
-        KNN { k, x_train: None, y_train: None }
+        KNN {
+            k,
+            x_train: None,
+            y_train: None,
+        }
     }
 
     pub fn fit(&mut self, x: Vec<Array1<f64>>, y: Vec<i32>) {
@@ -29,7 +33,8 @@ impl KNN {
         let x_train = self.x_train.as_ref().expect("Model not fitted");
         let y_train = self.y_train.as_ref().expect("Model not fitted");
 
-        let distances = x_train.iter()
+        let distances = x_train
+            .iter()
             .map(|x_train| euclidean_distance(x, x_train))
             .collect::<Vec<_>>();
 
@@ -41,13 +46,13 @@ impl KNN {
             *counter.entry(y_train[i]).or_insert(0) += 1;
         }
 
-        counter.into_iter()
+        counter
+            .into_iter()
             .max_by_key(|&(_, count)| count)
             .map(|(label, _)| label)
             .unwrap()
     }
 }
-
 
 #[cfg(test)]
 mod tests {
@@ -69,7 +74,7 @@ mod tests {
         // Train the model with iris first and last data
         let x_train = vec![
             Array1::from(vec![5.1, 3.5, 1.4, 0.2]),
-            Array1::from(vec![5.9, 3. , 5.1, 1.8]),
+            Array1::from(vec![5.9, 3., 5.1, 1.8]),
         ];
         let y_train = vec![0, 2];
         knn.fit(x_train, y_train);

@@ -1,6 +1,6 @@
-use pyo3::prelude::*;
 use crate::crab::KNN as rKNN;
 use ndarray::Array1;
+use pyo3::prelude::*;
 
 #[pyclass]
 struct KNN {
@@ -11,9 +11,7 @@ struct KNN {
 impl KNN {
     #[new]
     fn new(k: usize) -> Self {
-        KNN {
-            knn: rKNN::new(k),
-        }
+        KNN { knn: rKNN::new(k) }
     }
 
     fn fit(&mut self, x_train: Vec<Vec<f64>>, y_train: Vec<i32>) {
@@ -26,7 +24,6 @@ impl KNN {
         self.knn.predict(x_test)
     }
 }
-
 
 #[pymodule]
 fn knn(_py: Python, m: &PyModule) -> PyResult<()> {
