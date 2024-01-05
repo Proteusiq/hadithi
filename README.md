@@ -119,6 +119,7 @@ Beyond the 🐍
  - [Guidelines for writing elegant Rust programs](https://github.com/mre/idiomatic-rust)
  - [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html) - [🐞 interactive w/ QA](https://rust-book.cs.brown.edu)
  - [Rust: Gentle Introduction](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
+ - [How Rust 🦀 is supercharging Python from the ground up](https://thedataquarry.com/posts/rust-is-supercharging-python/)
  - [Lua](https://www.lua.org/pil/contents.html) - Beautifully minimalistic language
 
 
