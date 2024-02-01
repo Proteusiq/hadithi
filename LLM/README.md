@@ -56,7 +56,8 @@ Beyond: Evaluation
 
 [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
 
-Testing LLM: 
+Testing LLM:
+- [langfuse](https://github.com/langfuse/langfuse) - 🐲👑
 - [deepeval](https://github.com/confident-ai/deepeval)
 
 # LLM Agents
