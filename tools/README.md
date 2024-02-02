@@ -196,6 +196,7 @@ Data | Web Scraping
 - [playwright](https://github.com/microsoft/playwright) web testing and best replacer of selenium
 - [mitmproxy](https://mitmproxy.org) - monitoring and reverse engineering web traffic 
 - [httpx](https://github.com/projectdiscovery/httpx) - Better Request
+- [niquests](https://github.com/jawah/niquests) - requests as it ought have been
 - [parsel](https://github.com/scrapy/parsel) - Better BeautifulSoup
 - [jmespath](https://github.com/jmespath/jmespath.py) - Query JSON like a 🥷
 - [glom](https://github.com/mahmoud/glom) - Like jmespath + CLI
