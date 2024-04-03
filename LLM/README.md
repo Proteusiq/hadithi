@@ -6,7 +6,8 @@
 >> Source: [LLMs Practical Guide](https://github.com/Mooler0410/LLMsPracticalGuide)
 
 # LLM, Everywhere All At Once
-- [Prompting Guide](https://www.promptingguide.ai/)
+- [Prompting Guide](https://www.promptingguide.ai/) - Everything LLM
+- [AI Analysis](https://artificialanalysis.ai/) - Everything Business
 
 ## Fine Tune
 -[Fine Tune Gemma PEFT](https://huggingface.co/blog/gemma-peft) - Colab [Code](https://huggingface.co/google/gemma-7b/blob/main/examples/example_fsdp.py)
