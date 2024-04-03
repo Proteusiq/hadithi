@@ -41,7 +41,10 @@ Transformers 🤖
  - [prompt flow](https://github.com/microsoft/promptflow)
  - [llm guard](https://github.com/laiyer-ai/llm-guard)
 
-Beyond: [AlpacaEval LLM Leaderboard](https://tatsu-lab.github.io/alpaca_eval/) 🦙 [LLM Attack](https://llm-attacks.org/#)
+Beyond: Evaluation
+- [LLM Arena](https://arena.lmsys.org/) # Battle of LLMs
+- [AlpacaEval LLM Leaderboard](https://tatsu-lab.github.io/alpaca_eval/)
+- 🦙 [LLM Attack](https://llm-attacks.org/#)
 
 [openai cookbook](https://github.com/openai/openai-cookbook)
 [Prompt Engineering Guide](https://www.promptingguide.ai/)
