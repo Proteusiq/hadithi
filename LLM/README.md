@@ -5,6 +5,9 @@
 ![LLM](https://github.com/Mooler0410/LLMsPracticalGuide/blob/main/imgs/tree.jpg)
 >> Source: [LLMs Practical Guide](https://github.com/Mooler0410/LLMsPracticalGuide)
 
+# LLM, Everywhere All At Once
+- [Prompting Guide](https://www.promptingguide.ai/)
+  
 Transformers 🤖 
 - [LLM Visualized](https://bbycroft.net/llm) 🤴🐦‍⬛🐚
  - [Understanding Transformers](https://huggingface.co/course) - 🤗 courses + [🦫 transformer](https://huggingface.co/course/chapter0/1) [server](https://github.com/huggingface/text-generation-inference)
