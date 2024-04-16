@@ -60,4 +60,4 @@ Testing LLM:
 - [deepeval](https://github.com/confident-ai/deepeval)
 
 # LLM Agents
-[crewai](https://github.com/joaomdmoura/crewAI) - 👩‍✈️👨‍✈️🧑‍✈️👨‍✈️🛳️
+[crewai](https://github.com/joaomdmoura/crewAI) - 🛳️
