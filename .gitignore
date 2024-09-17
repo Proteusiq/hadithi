@@ -136,3 +136,4 @@ dev.io/.mapbox_token
 dev.io/notebooks/models/*.pkl
 
 dev.io/models/eda/
+.aider*
