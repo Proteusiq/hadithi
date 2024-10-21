@@ -1,0 +1,34 @@
+[
+  {
+    "emotion": "nervousness",
+    "text": "I’m nervous about the job interview tomorrow. It’s a big opportunity!"
+  },
+  {
+    "emotion": "confusion",
+    "text": "His mixed signals have left me feeling utterly confused."
+  },
+  {
+    "emotion": "pride",
+    "text": "Seeing my son graduate with honors filled me with pride."
+  },
+  {
+    "emotion": "gratitude",
+    "text": "I really appreciate you covering my shift last minute. You're a lifesaver!"
+  },
+  {
+    "emotion": "sadness",
+    "text": "I’ve felt a lingering sadness since the end of that relationship."
+  },
+  {
+    "emotion": "disapproval",
+    "text": "The way he spoke to the customer was completely unacceptable!"
+  },
+  {
+    "emotion": "excitement",
+    "text": "The future of renewable energy looks bright. We’re heading in the right direction!"
+  },
+  {
+    "emotion": "grief",
+    "text": "There’s a deep sadness in realizing we can’t turn back time."
+  }
+]
