@@ -12,6 +12,7 @@ dependencies = [
     "river>=0.21.2",
     "scikit-learn>=1.5.2",
     "seaborn>=0.13.2",
+    "sentence-transformers>=3.2.1",
 ]
 
 [tool.uv]

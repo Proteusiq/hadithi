@@ -50,7 +50,7 @@ class Emotion(BaseModel):
 client = instructor.from_openai(
     OpenAI(
         base_url="http://localhost:11434/v1",
-        api_key="ollama",  # required, but unused
+        api_key="ollama",
     ),
     mode=instructor.Mode.JSON,
 )
@@ -66,7 +66,7 @@ def classifier(text: str, model: str = MODEL) -> Emotion:
             }
         ],
         response_model=Emotion,
-        temparature=0.0,
+        temperature=0.0,
     )
 
     return response
@@ -95,8 +95,9 @@ if __name__ == "__main__":
             .alias("reason"),
         )
     )
-    import json
-    from pathlib import Path
 
-    Path("data/tests.json").write_text(json.dumps(dataf.to_dicts()))
+    # import json
+    # from pathlib import Path
+
+    # Path("data/tests.json").write_text(json.dumps(dataf.to_dicts()))
     print(dataf)

@@ -6,9 +6,16 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "instructor>=1.4.3",
-    "phidata>=2.4.34",
+    "ollama>=0.3.3",
     "polars>=1.7.1",
 ]
 
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+
 [tool.uv]
-dev-dependencies = ["pytest>=8.3.3"]
+dev-dependencies = [
+    "ipykernel>=6.29.5",
+    "pytest>=8.3.3",
+    "watermark>=2.5.0",
+]
