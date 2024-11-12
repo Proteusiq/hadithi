@@ -1,1 +1,4 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+dev.io/knowledge/data/books/*.csv filter=lfs diff=lfs merge=lfs -text
+dev.io/knowledge/data/*/*.csv filter=lfs diff=lfs merge=lfs -text
+data/*/*.csv filter=lfs diff=lfs merge=lfs -text
