@@ -5,24 +5,29 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "altair>=5.4.1",
-    "bm25s>=0.2.4",
-    "duckdb>=1.1.3",
-    "ollama>=0.3.3",
-    "pandas>=2.2.3",
-    "polars>=1.13.0",
-    "pyarrow>=18.0.0",
-    "scikit-learn>=1.5.2",
-    "torch>=2.5.1",
-    "weaviate-client>=4.9.3",
+  "altair>=5.4.1",
+  "bm25s>=0.2.4",
+  "cumsum",
+  "duckdb>=1.1.3",
+  "ollama>=0.3.3",
+  "pandas>=2.2.3",
+  "polars>=1.13.0",
+  "pyarrow>=18.0.0",
+  "scikit-learn>=1.5.2",
+  "torch>=2.5.1",
+  "weaviate-client>=4.9.3",
 ]
 
 [dependency-groups]
 dev = [
-    "black[jupyter]>=24.10.0",
-    "ipykernel>=6.29.5",
-    "pickleshare>=0.7.5",
-    "pytest>=8.3.3",
-    "ruff>=0.7.3",
-    "watermark>=2.5.0",
+  "black[jupyter]>=24.10.0",
+  "ipykernel>=6.29.5",
+  "memory-profiler>=0.61.0",
+  "pickleshare>=0.7.5",
+  "pytest>=8.3.3",
+  "ruff>=0.7.3",
+  "watermark>=2.5.0",
 ]
+
+[tool.uv.sources]
+cumsum = { path = "../cumsum/target/wheels/cumsum-0.1.0-cp311-cp311-macosx_11_0_arm64.whl" }
