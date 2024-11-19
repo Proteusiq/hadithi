@@ -9,6 +9,7 @@ dependencies = [
   "bm25s>=0.2.4",
   "cumsum",
   "duckdb>=1.1.3",
+  "instructor>=1.6.4",
   "ollama>=0.3.3",
   "pandas>=2.2.3",
   "polars>=1.13.0",
