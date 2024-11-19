@@ -305,13 +305,13 @@ wheels = [
 
 [[package]]
 name = "cumsum"
-version = "0.1.0"
-source = { path = "../cumsum/target/wheels/cumsum-0.1.0-cp311-cp311-macosx_11_0_arm64.whl" }
+version = "0.1.2"
+source = { path = "../cumsum/target/wheels/cumsum-0.1.2-cp311-cp311-macosx_11_0_arm64.whl" }
 dependencies = [
     { name = "pip" },
 ]
 wheels = [
-    { filename = "cumsum-0.1.0-cp311-cp311-macosx_11_0_arm64.whl", hash = "sha256:8b450c841ee2ecb2c3be092630d42d7d0598bb73220c0fb3abb21c9afc624ed0" },
+    { filename = "cumsum-0.1.2-cp311-cp311-macosx_11_0_arm64.whl", hash = "sha256:d619e010199f2dabb930bd46b39b024721c1c898083f0df335ecf80f7128816c" },
 ]
 
 [package.metadata]
@@ -730,7 +730,7 @@ dev = [
 requires-dist = [
     { name = "altair", specifier = ">=5.4.1" },
     { name = "bm25s", specifier = ">=0.2.4" },
-    { name = "cumsum", path = "../cumsum/target/wheels/cumsum-0.1.0-cp311-cp311-macosx_11_0_arm64.whl" },
+    { name = "cumsum", path = "../cumsum/target/wheels/cumsum-0.1.2-cp311-cp311-macosx_11_0_arm64.whl" },
     { name = "duckdb", specifier = ">=1.1.3" },
     { name = "ollama", specifier = ">=0.3.3" },
     { name = "pandas", specifier = ">=2.2.3" },

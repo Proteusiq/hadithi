@@ -30,4 +30,4 @@ dev = [
 ]
 
 [tool.uv.sources]
-cumsum = { path = "../cumsum/target/wheels/cumsum-0.1.0-cp311-cp311-macosx_11_0_arm64.whl" }
+cumsum = { path = "../cumsum/target/wheels/cumsum-0.1.2-cp311-cp311-macosx_11_0_arm64.whl" }
