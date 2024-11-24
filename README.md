@@ -122,6 +122,7 @@ Beyond the 🐍
  - [Rust: Gentle Introduction](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
  - [How Rust 🦀 is supercharging Python from the ground up](https://thedataquarry.com/posts/rust-is-supercharging-python/)
  - [Lua](https://www.lua.org/pil/contents.html) - Beautifully minimalistic language
+ - [Go](https://quii.gitbook.io/learn-go-with-tests) - Learning Go with Tests
 
 
 Must Have Tools
