@@ -1,5 +1,4 @@
-
-# No function is simpler than function (in this case) 
+# No function is simpler than function (in this case)
 
 from pathlib import Path
 

@@ -1,4 +1,3 @@
-
 # OOP misunderstood
 
 from pathlib import Path

@@ -1,33 +1,57 @@
 # Encapsulation
-# 😊 Disallows direct changes of intenals (balance)
+# 😊 Allows direct changes of intenals
+
+from typing import Self
 
 
-class BankAccount:
-    def __init__(self, balance: int) -> None:
-        self._balance = balance
+class Account:
+    def __init__(self, balance):
+        self.balance = balance
+
+    def __repr__(self) -> str:
+        return f"Account(blance={self.balance})"
 
     @property
     def balance(self) -> int:
         return self._balance
 
-    def withdraw(self, amount: int) -> None:
-        if amount > self._balance:
-            raise ValueError("Insuffient funds")
-        self._balance -= amount
-
-    def deposit(self, amount: int) -> None:
+    @balance.setter
+    def balance(self, amount: int) -> None:
         if amount < 0:
-            raise ValueError("Deposit amount must be positive")
-        self._balance += amount
+            raise ValueError(f"Cannot set {amount} amount. Amount cannot be negative.")
+        self._balance = amount
+
+    def __iadd__(self, amount: int) -> Self:
+        if amount < 0:
+            raise ValueError(
+                f"Transaction failed. Negative depositing. Amount={amount}."
+            )
+        self.balance += amount
+
+        return self
+
+    def __isub__(self, amount: int) -> Self:
+        if self.balance < amount:
+            raise ValueError(
+                f"Transaction failed. Overdrawing. Balance cannot be {self.balance - amount}."
+            )
+        self.balance -= amount
+
+        return self
+
+
+class BankAccount:
+    def __init__(self, balance: Account):
+        self.balance = balance
 
     def __repr__(self) -> str:
         return f"Account(balance={self.balance}"
 
 
 def main() -> None:
-    account = BankAccount(100)
-    account.withdraw(50)  #  solves potential issue of over withdrawing
-    account.deposit(100)  # solves depositing negative amount
+    account = BankAccount(Account(100))
+    account.balance -= 50  # potential issue of overwithdrawing e.g. 150
+    account.balance += 100  # depositing negative amount
     print(account.balance)
 
 
