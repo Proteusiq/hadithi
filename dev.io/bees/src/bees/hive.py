@@ -5,12 +5,21 @@ from openai import OpenAI
 from saa import Clock
 from swarm import Agent, Swarm
 
-ollama_client = OpenAI(base_url="http://localhost:11434/v1", api_key="NotNeeded",)
+ollama_client = OpenAI(
+    base_url="http://localhost:11434/v1",
+    api_key="NotNeeded",
+)
 
 client = Swarm(client=ollama_client)
 
 
-def get_spoken_time(language: Literal["en", "da", "sw",]) -> str:
+def get_spoken_time(
+    language: Literal[
+        "en",
+        "da",
+        "sw",
+    ],
+) -> str:
     """
     Get spoken time:
        language: iso code for a language

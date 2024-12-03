@@ -5,11 +5,9 @@ from river import forest
 
 # ml_predictor = naive_bayes.MultinomialNB(alpha=1)
 ml_predictor = forest.AMFClassifier(
-    n_estimators=10,
-    use_aggregation=True,
-    dirichlet=0.5,
-    seed=1
+    n_estimators=10, use_aggregation=True, dirichlet=0.5, seed=1
 )
+
 
 def penguins_model(ml_predictor=ml_predictor) -> compose.Pipeline:
     island_transformation = compose.Select("island") | preprocessing.OneHotEncoder(

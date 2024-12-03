@@ -8,6 +8,3 @@ class BankAccount:
 
     def __repr__(self) -> str:
         return f"Account(balance={self.balance}"
-
-
-

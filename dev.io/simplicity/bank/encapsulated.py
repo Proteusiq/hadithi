@@ -23,9 +23,7 @@ class Account:
 
     def __iadd__(self, amount: int) -> Self:
         if amount < 0:
-            raise ValueError(
-                f"Transaction failed. Negative deposit. Amount={amount}."
-            )
+            raise ValueError(f"Transaction failed. Negative deposit. Amount={amount}.")
         self.balance += amount
 
         return self
@@ -53,12 +51,3 @@ class BankAccount:
         return f"Account(balance={self.balance})"
 
 
-def main() -> None:
-    account = BankAccount(Account(100))
-    account.balance -= 50
-    account.balance += 100
-    print(account.balance)
-
-
-if __name__ == "__main__":
-    main()

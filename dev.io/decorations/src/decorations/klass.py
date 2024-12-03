@@ -24,8 +24,3 @@ class cacher:
             return result
 
         return wrapper
-
-
-
-
-

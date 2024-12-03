@@ -5,7 +5,7 @@ from encapsulated import BankAccount, Account
 def test_good_deposit():
     # Arrange
     account = BankAccount(Account(100))
-    
+
     # Act
     account.balance += 50
 
@@ -14,15 +14,12 @@ def test_good_deposit():
 
 
 def test_bad_withdraw():
-      # Arrange
+    # Arrange
     account = BankAccount(Account(120))
 
     with pytest.raises(ValueError) as e:
-    
-         # Act
-        account.balance += -150  
+        # Act
+        account.balance += -150
 
     # Assert
     assert "Negative deposit" in str(e.value)
-
-
