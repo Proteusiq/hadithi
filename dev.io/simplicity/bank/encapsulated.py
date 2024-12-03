@@ -1,5 +1,5 @@
 # Encapsulation
-# 😊 Allows direct changes of intenals
+# 😊 Disallow direct changes of intenals yet maintaining UI
 
 from typing import Self
 
@@ -13,7 +13,7 @@ class Account:
 
     @property
     def balance(self) -> int:
-        return self._balance
+        return self._balancet
 
     @balance.setter
     def balance(self, amount: int) -> None:
