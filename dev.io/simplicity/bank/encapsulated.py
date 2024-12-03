@@ -24,7 +24,7 @@ class Account:
     def __iadd__(self, amount: int) -> Self:
         if amount < 0:
             raise ValueError(
-                f"Transaction failed. Negative depositing. Amount={amount}."
+                f"Transaction failed. Negative deposit. Amount={amount}."
             )
         self.balance += amount
 
@@ -33,11 +33,16 @@ class Account:
     def __isub__(self, amount: int) -> Self:
         if self.balance < amount:
             raise ValueError(
-                f"Transaction failed. Overdrawing. Balance cannot be {self.balance - amount}."
+                f"Transaction failed. Overdraw. Balance cannot be {self.balance - amount}."
             )
         self.balance -= amount
 
         return self
+
+    def __eq__(self, other) -> bool:
+        amount = getattr(other, "amount", other)
+
+        return self.balance == amount
 
 
 class BankAccount:
@@ -45,13 +50,13 @@ class BankAccount:
         self.balance = balance
 
     def __repr__(self) -> str:
-        return f"Account(balance={self.balance}"
+        return f"Account(balance={self.balance})"
 
 
 def main() -> None:
     account = BankAccount(Account(100))
-    account.balance -= 50  # potential issue of overwithdrawing e.g. 150
-    account.balance += 100  # depositing negative amount
+    account.balance -= 50
+    account.balance += 100
     print(account.balance)
 
 

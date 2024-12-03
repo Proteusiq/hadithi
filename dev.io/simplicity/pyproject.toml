@@ -7,6 +7,7 @@ requires-python = ">=3.11"
 dependencies = []
 
 [dependency-groups]
-dev = [
-    "ruff>=0.8.1",
-]
+dev = ["pytest>=8.3.4", "ruff>=0.8.1"]
+
+[tool.pytest.ini_options]
+pythonpath = ["bank"]
