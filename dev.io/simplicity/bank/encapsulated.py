@@ -13,7 +13,7 @@ class Account:
 
     @property
     def balance(self) -> int:
-        return self._balancet
+        return self._balance
 
     @balance.setter
     def balance(self, amount: int) -> None:
