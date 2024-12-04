@@ -73,5 +73,7 @@ if __name__ == "__main__":
 — David Hockney
 
 
-“Simplicity is prerequisite for reliability. “
-— Edsger Dijkstra
+“Simplicity is prerequisite for reliability."
+— Edsger Dijkstraui
+
+# Bank
