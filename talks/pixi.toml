@@ -1,0 +1,24 @@
+[project]
+authors = ["proteusiq <praysonpi@gmail.com>"]
+channels = ["conda-forge"]
+description = "Add a short description here"
+name = "talks"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+pymc = ">=5.19.1,<6"
+plotly = ">=5.24.1,<6"
+statsmodels = ">=0.14.4,<0.15"
+scikit-learn = ">=1.6.0,<2"
+patsy = ">=1.0.1,<2"
+skrub = ">=0.4.0,<0.5"
+ipywidgets = ">=8.1.5,<9"
+ipykernel = ">=6.29.5,<7"
+ruff = ">=0.8.2,<0.9"
+pytest = ">=8.3.4,<9"
+watermark = ">=2.5.0,<3"
+latexify-py = ">=0.4.3.post1,<0.5"
+nbformat = ">=5.10.4,<6"
