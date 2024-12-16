@@ -41,9 +41,11 @@ VALID_EMOTIONS: tuple[str, ...] = tuple(
 
 
 class Emotion(BaseModel):
-    kind: Literal[VALID_EMOTIONS]  # type: ignore # literal does not like dynamic values
+    # literal does not like dynamic values
+    kind: Literal[VALID_EMOTIONS]  # type: ignore
     reason: str = Field(
-        ..., description="A short third person reason for selected the emotion"
+        default="NA",
+        description="A short third person reason for selected the emotion",
     )
 
 
@@ -62,7 +64,10 @@ def classifier(text: str, model: str = MODEL) -> Emotion:
         messages=[
             {
                 "role": "user",
-                "content": f"You are a brilliant emotion pyschologist. What is the text emotion: Text: {text}",
+                "content": (
+                    "You are a brilliant emotion pyschologist. "
+                    f"What is the text emotion: Text: {text}"
+                ),
             }
         ],
         response_model=Emotion,
