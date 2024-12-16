@@ -1,0 +1,30 @@
+[project]
+name = "agents"
+version = "0.1.0"
+description = "Thinking Agents"
+readme = "README.md"
+requires-python = ">=3.11.8"
+dependencies = [
+    "groq>=0.13.1",
+    "ollama>=0.4.4",
+    "phidata>=2.7.2",
+    "rich>=13.9.4",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+
+[tool.ruff.lint]
+select = [
+	  "A", # warn about shadowing built-ins
+	  "E", # style stuff, whitespaces
+	  "F", # important pyflakes lints
+	  "I", # import sorting
+	  "N", # naming
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3.4",
+    "ruff>=0.8.3",
+]
