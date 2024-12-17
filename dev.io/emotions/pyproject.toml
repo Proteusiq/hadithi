@@ -19,3 +19,17 @@ dev-dependencies = [
     "pytest>=8.3.3",
     "watermark>=2.5.0",
 ]
+
+[tool.ruff.lint]
+select = [
+	  "A", # warn about shadowing built-ins
+	  "E", # style stuff, whitespaces
+	  "F", # important pyflakes lints
+	  "I", # import sorting
+	  "N", # naming
+]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*.py" = [
+  "E501",
+] # ignore file too long in examples

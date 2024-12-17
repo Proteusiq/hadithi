@@ -1,7 +1,8 @@
 import pytest
+
 from emotions.sentiments import classifier
 
-
+# noqa: E501
 EMOTIONS_EXAMPLES = {
     "nervousness": "I’m nervous about the job interview tomorrow. It’s a big opportunity!",
     "confusion": "His mixed signals have left me feeling utterly confused.",

@@ -1,8 +1,9 @@
-from typing import Literal, Final
+from typing import Final, Literal
+
+import instructor
+import polars as pl
 from openai import OpenAI
 from pydantic import BaseModel, Field
-import polars as pl
-import instructor
 
 MODEL: Final = "gemma2"
 
