@@ -5,6 +5,7 @@ description = "LLM emoitons"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "dspy>=2.5.43",
     "instructor>=1.4.3",
     "ollama>=0.3.3",
     "polars>=1.7.1",
@@ -16,6 +17,7 @@ pythonpath = ["src"]
 [tool.uv]
 dev-dependencies = [
     "ipykernel>=6.29.5",
+    "ipywidgets>=8.1.5",
     "pytest>=8.3.3",
     "watermark>=2.5.0",
 ]
