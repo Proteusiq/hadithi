@@ -2,7 +2,7 @@
 # Everything Large Language Models
 > LLM changing My World
 
-![LLM]([https://github.com/Mooler0410/LLMsPracticalGuide/blob/main/imgs/tree.jpg](https://pbs.twimg.com/media/Ge1q-P8XIAA-Mr1?format=png&name=900x900))
+![LLM](https://pbs.twimg.com/media/Ge1q-P8XIAA-Mr1?format=png&name=900x900)
 >> Source: [LLMs Practical Guide](https://github.com/Mooler0410/LLMsPracticalGuide)
 
 # LLM, Everywhere All At Once
