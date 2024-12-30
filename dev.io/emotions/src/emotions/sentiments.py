@@ -86,7 +86,7 @@ if __name__ == "__main__":
     print(f"Pyschologist: - model={MODEL}")
     dataf = pl.read_json("data/examples.json").explode(["emotion", "text"])
     dataf = (
-        dataf.sample(8)
+        dataf.sample(15)
         .with_columns(
             pl.col("text")
             .map_elements(classifier, return_dtype=pl.Object)
@@ -106,4 +106,9 @@ if __name__ == "__main__":
     # from pathlib import Path
 
     # Path("data/tests.json").write_text(json.dumps(dataf.to_dicts()))
+    dataf.write_database(
+        "emotions",
+        connection="sqlite:///data/emotions.db",
+        if_table_exists="replace",
+    )
     print(dataf)

@@ -16,9 +16,13 @@ pythonpath = ["src"]
 
 [tool.uv]
 dev-dependencies = [
+    "black>=24.10.0",
+    "duckdb>=1.1.3",
     "ipykernel>=6.29.5",
     "ipywidgets>=8.1.5",
     "pytest>=8.3.3",
+    "rich>=13.8.1",
+    "ruff>=0.8.3",
     "watermark>=2.5.0",
 ]
 
