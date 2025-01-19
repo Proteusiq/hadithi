@@ -173,7 +173,7 @@ def _(bill_depth, bill_length, island, pl, sex, train_data):
             "combined_diff",
         )
         .select(pl.col("species").mode())  # ↓ 1 rows
-      
+
     )
     return
 
@@ -197,13 +197,14 @@ def _(mo, train_data):
 @app.cell(hide_code=True)
 def _(mo):
     mo.md(
-        """# 🦔 Intuition Estimator
-    **Steps:**
+        """
+        # 🦔 Intuition Estimator
+        **Steps:**
 
-    - [x] Use categorical features for filtering
-    - [x] Use numerical features absolute difference for ranking
-    - [ ] Use text features similiarities for ranking
-    - [x] Select top_k [classification  →  mode | regression  → mean] = complete :tada:
+        - [x] Use categorical features for filtering
+        - [x] Use numerical features absolute difference for ranking
+        - [ ] Use text features similiarities for ranking
+        - [x] Select top_k [classification  →  mode | regression  → mean] = complete :tada:
         """
     )
     return
@@ -256,7 +257,7 @@ def _(pl):
 
 @app.cell(hide_code=True)
 def _(mo):
-    mo.md("##🧪  Train & Test Data")
+    mo.md("""##🧪  Train & Test Data""")
     return
 
 
