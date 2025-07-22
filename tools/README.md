@@ -162,7 +162,7 @@ Data | Web Scraping
 - [pampy](https://github.com/santinic/pampy) - Pattern matching for Python 🤟
 - [benedict](https://github.com/fabiocaccamo/python-benedict) -Query different files
   Tools in action @ [Scrapfly](https://scrapfly.io/blog/parse-json-jmespath-python/)
-  
+  [pydoll](https://github.com/autoscrape-labs/pydoll) - Webdriver-less browser automation 
 
 Flask GUI + AutoML -> [xcessiv](https://github.com/reiinakano/xcessiv)
   
