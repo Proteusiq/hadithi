@@ -10,13 +10,15 @@
 - [AI Analysis](https://artificialanalysis.ai/) - Everything Business
 
 ## Fine Tune
--[Fine Tune Gemma PEFT](https://huggingface.co/blog/gemma-peft) - Colab [Code](https://huggingface.co/google/gemma-7b/blob/main/examples/example_fsdp.py)
+- [Unsloth](https://docs.unsloth.ai/) - Tune any openweight model
+- [Fine Tune Gemma PEFT](https://huggingface.co/blog/gemma-peft) - Colab [Code](https://huggingface.co/google/gemma-7b/blob/main/examples/example_fsdp.py)
   
 # Transformers & M0R3 🤖 
 - [LLM Visualized](https://bbycroft.net/llm) 🤴🐦‍⬛🐚
 - [Transformer Explainer](https://poloclub.github.io/transformer-explainer/) 🤴🤴🤴 - interactive GPT2 flow in visuals
 - [Mind: Next Word Visualization](https://moebio.com/mind) 🤯🪵🫶🏾
- - [Understanding Transformers](https://huggingface.co/course) - 🤗 courses + [🦫 transformer](https://huggingface.co/course/chapter0/1) [server](https://github.com/huggingface/text-generation-inference)
+- [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html) 🕵🏾‍♂️ Anthropic circuit tracing methodology.
+- [Understanding Transformers](https://huggingface.co/course) - 🤗 courses + [🦫 transformer](https://huggingface.co/course/chapter0/1) [server](https://github.com/huggingface/text-generation-inference)
  - [LLMZoo](https://github.com/FreedomIntelligence/LLMZoo) - # of params, license and more
  - [Diffusion FastForward](https://github.com/mikonvergence/DiffusionFastForward) - materials, courses, and code 拾 [Dall-E prompts](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL·E-2-prompt-book-v1.02.pdf) - [openjourney](https://huggingface.co/prompthero/openjourney-v4)
  - [whisper](https://github.com/openai/whisper) - Speech to text
